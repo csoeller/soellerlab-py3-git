@@ -1,7 +1,7 @@
 Title: Contact
 Slug: contact
 
-### Email
+### Email<a name="email"></a>
 
 You can contact Chistian Soeller by email to
 
@@ -9,7 +9,7 @@ c.soeller __at__ __usual-exeter-university-domain__
 
 If this is too obscure, please look up his email on his [academic web page](http://emps.exeter.ac.uk/physics-astronomy/staff/cs463).
 
-### Address
+### Address<a name="address"></a>
 
 The Soeller laboratory is located in the [Living Systems Institute](http://www.exeter.ac.uk/livingsystems/) at the [University of Exeter](http://www.exeter.ac.uk/).
 

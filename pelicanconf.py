@@ -20,6 +20,10 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
+##################################
+# Theme and plugins
+##################################
+
 THEME = 'themes/pelican-bootstrap3'
 
 PLUGIN_PATHS = ['/Users/csoe002/Documents/src/pelican-plugins', 'plugins' ]
@@ -27,6 +31,10 @@ PLUGINS = ['i18n_subsites']#, 'feed_summary']
 JINJA_ENVIRONMENT = {
     'extensions': ['jinja2.ext.i18n'],
 }
+
+##################################
+# Static Paths and Favicons
+##################################
 
 STATIC_PATHS = ['images', 'extra/robots.txt']
 # below we pick up the various favicons that we generated using the site https://realfavicongenerator.net
@@ -42,6 +50,10 @@ FAVICON = True
 # the below way is the old way of using favicons - not functional in the modified theme
 # FAVICON = 'images/faviconCS.ico'
 
+##################################
+# pages/menu setup
+##################################
+
 USE_FOLDER_AS_CATEGORY = True
 
 DISPLAY_PAGES_ON_MENU = False
@@ -53,11 +65,15 @@ MENUITEMS = (
     ('Openings', '/pages/openings.html'),
 )
 
+##################################
+# Banner
+##################################
+
+
 BANNER = "images/mybanner.png"
 BANNER_SUBTITLE = u"Biophysics and Advanced Imaging @ <a HREF=\"http://www.exeter.ac.uk/livingsystems/\">LSI Exeter</a>."
 BANNER_ALL_PAGES = True
 
-DISPLAY_RECENT_POSTS_ON_SIDEBAR = False
 
 # Blogroll
 # LINKS = (('Pelican', 'http://getpelican.com/'),
@@ -65,8 +81,12 @@ DISPLAY_RECENT_POSTS_ON_SIDEBAR = False
 #          ('Jinja2', 'http://jinja.pocoo.org/'),
 #          ('You can modify those links in your config file', '#'),)
 
-# Social widget
-#SOCIAL_WIDGET_NAME = 'Social' - not sure how this works
+##################################
+# Sidebar settings
+##################################
+
+DISPLAY_RECENT_POSTS_ON_SIDEBAR = False
+
 SOCIAL = (('Academic Webpage', 'http://emps.exeter.ac.uk/physics-astronomy/staff/cs463', 'academia'),
           ('Twitter', 'http://twitter.com/SoellerLab'),
           ('LinkedIn', 'http://www.linkedin.com/in/christian-soeller-98167676/'),
@@ -78,11 +98,16 @@ SOCIAL = (('Academic Webpage', 'http://emps.exeter.ac.uk/physics-astronomy/staff
 #          ('Another social link', '#'),)
 
 
-CONTACT = (('Email', '/pages/contact.html', 'envelope'),
-           ('Address', 'http://emps.exeter.ac.uk/physics-astronomy/staff/cs463', 'address-card'),)
+CONTACT = (('Email', '/pages/contact.html#email', 'envelope'),
+           ('Address', '/pages/contact.html#address', 'address-card'),)
 
 TWITTER_WIDGET_ID = True
 TWITTER_USERNAME = ''
+
+#################################
+# END Sidebar settings
+#################################
+
 
 DEFAULT_PAGINATION = 10
 
