@@ -1,3 +1,10 @@
 syntax: glob
 *~
 *.pyc
+bibliography/bib/*
+.DS_Store
+output
+pelican-bootstrap3-new
+pelican-bootstrap3-old
+*.pid
+.#*
