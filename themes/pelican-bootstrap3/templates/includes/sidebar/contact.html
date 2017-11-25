@@ -1,17 +1,17 @@
-{% if SOCIAL %}
+{% if CONTACT %}
   {% from 'includes/sidebar/macros.jinja' import title %}
 
 <!-- Sidebar/Social -->
 <li class="list-group-item">
-  <h4>{{ title(_('On the web'), DISABLE_SIDEBAR_TITLE_ICONS) }}</h4>
+  <h4>{{ title(_('Contact'), DISABLE_SIDEBAR_TITLE_ICONS, 'address-book') }}</h4>
   <ul class="list-group" id="social">
-    {% for s in SOCIAL %}
+    {% for s in CONTACT %}
       {% if s[2] %}
         {% set name_sanitized = s[2]|lower|replace('+','-plus')|replace(' ','-') %}
       {% else %}
         {% set name_sanitized = s[0]|lower|replace('+','-plus')|replace(' ','-') %}
       {% endif %}
-      {% if name_sanitized in ['flickr', 'slideshare', 'instagram', 'spotify', 'stack-overflow', 'weibo', 'line-chart', 'home', 'user', 'users', 'envelope', 'envelope-o', 'stack-exchange', 'hacker-news', 'gitlab', 'vk'] %}
+      {% if name_sanitized in ['flickr', 'slideshare', 'instagram', 'spotify', 'stack-overflow', 'weibo', 'line-chart', 'home', 'user', 'users', 'envelope', 'envelope-o', 'stack-exchange', 'hacker-news', 'gitlab', 'vk', 'address-card', 'envelope'] %}
         {% set iconattributes = '"fa fa-' ~ name_sanitized ~ ' fa-lg"' %}
       {% elif name_sanitized in ['google-scholar', 'researchgate', 'academia'] %}
         {% set iconattributes = '"ai ai-' ~ name_sanitized ~ '-square ai-lg"' %}
