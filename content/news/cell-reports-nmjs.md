@@ -1,0 +1,18 @@
+Title: Paper on human NMJs in Cell Reports
+Date: 2017-11-26 13:52
+Status: published
+Slug: news/cell-reports-nmjs
+Tags: papers, super-resolution 
+
+
+<img width="150" src="/images/research/cell-reports-nmj-cover-small.png" alt="Cell Reports Cover">
+
+On Nov 28 we have published a a paper on human neuromuscular junctions in the journal [_Cell Reports_](http://www.cell.com/cell-reports). This study was led by our colleague [Tom Gillingwater](https://www.ed.ac.uk/integrative-physiology/staff-profiles/research-groups/tom-gillingwater). We contributed the super-resolution data and assisted in the quantitative evaluation of the imaging data.
+
+U Edinburgh has issued a press release to which we will link as soon as available. Below we give a summary of the main results - for details check out [our open access publication](http://www.cell.com/cell-reports) at [_Cell Reports_](http://www.cell.com/cell-reports).
+
+### Quantitative imaging of human neuromuscular junctions
+
+<img style="float:left; border-right:8px solid white" src="/images/research/human-nmjs-small.jpg" alt="Human Neuromuscular Junctions"/> The neuromuscular junction (NMJ) is an experimentally accessible model synapse routinely studied in animal models to explore fundamental aspects of synaptic form and function. Synapses play fundamental roles in the form and function of the nervous system both in health and during disease. Despite numerous important breakthroughs in our understanding of the cellular and molecular composition of synapses in animal models, we know surprisingly little about the equivalent make up of synapses in humans. Current studies of synaptic connectivity at the cellular and molecular level have therefore relied heavily on ‘model’ organisms, both vertebrate and invertebrate, working on the tacit assumption that the biological principles uncovered can ultimately be applied to humans.
+
+It is surprising how little is currently known about NMJs in humans. Here, we combined morphological techniques, super-resolution imaging and proteomic profiling to reveal the detailed cellular and molecular architecture of the human NMJ. Human NMJs were significantly smaller, less complex and more fragmented than mouse NMJs. In contrast to data from animal studies, human NMJs were also remarkably stable across the entire lifespan. Super-resolution imaging and proteomic profiling revealed distinctive active zone architecture and expression of core synaptic proteins and pathways at the human NMJ. Taken together, these findings reveal unexpected human-specific features of the NMJ that distinguish them from comparable synapses in other mammalian species.
