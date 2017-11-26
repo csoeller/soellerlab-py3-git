@@ -6,10 +6,13 @@ Order: 0
 Summary: CS Research.
 
 
-## Current Projects
+## Biophysics of Nanoscale Signalling Systems
 
+## Advanced Fluorescence Imaging
 
-### Quantitative super-resolution imaging of ryanodine receptors
+### Quantitative Super-Resolution Imaging
+
+#### Quantitative super-resolution imaging of ryanodine receptors
  
 <img style="float:left; border-right:8px solid white" src="/images/research/ryr-paint-small.png" alt="DNA-PAINT of RyR nanoscale signalling clusters"/>
 Signalling nanodomains rely on spatial organisation of proteins to allow controlled intracellular signalling. Examples include calcium release sites of cardiomyocytes where ryanodine receptors (RyRs) are clustered with their molecular partners. Localisation microscopy has been crucial to visualising these nanodomains, but has been limited by brightness of markers, restricting the resolution and quantification of individual proteins clustered within. Harnessing the remarkable localisation precision of DNA-PAINT (<10 nm), we visualised punctate labelling within these nanodomains, confirmed as single RyRs. RyR positions within sub-plasmalemmal nanodomains revealed how they are organised randomly into irregular clustering patterns leaving significant gaps occupied by accessory or regulatory proteins. RyR-inhibiting protein junctophilin-2 appeared highly concentrated adjacent to RyR channels. Analysing these molecular maps showed significant variations in the co-clustering stoichiometry between junctophilin-2 and RyR, even between nearby nanodomains. This is a previously-unseen level of complexity in RyR arrangement and regulation of calcium signalling, intrinsically built into the nanodomains.
@@ -25,3 +28,7 @@ It is surprising how little is currently known about NMJs in humans. Here, we co
 ### Quantitative imaging of human telomeres with optical super-resolution and x-ray fluorescence
 
 <img style="float:left; border-right:8px solid white" src="/images/research/ACS-nano-telomere.gif" alt="Measuring Telomeres"/> Techniques to analyze human telomeres are imperative in studying the molecular mechanism of aging and related diseases. Two important aspects of telomeres are their length in DNA base pairs (bps) and their biophysical nanometer dimensions. However, there are currently no techniques that can simultaneously measure these quantities in individual cell nuclei. Here, we develop and evaluate a telomere “dual” gold nanoparticle-fluorescent probe simultaneously compatible with both X-ray fluorescence (XRF) and super resolution microscopy. We used silver enhancement to independently visualize the spatial locations of gold nanoparticles inside the nuclei, comparing to a standard QFISH (quantitative fluorescence in situ hybridization) probe, and showed good specificity at ∼90%. For sensitivity, we calculated telomere length based on a DNA/gold binding ratio using XRF and compared to quantitative polymerase chain reaction (qPCR) measurements. The sensitivity was low (∼10%), probably because of steric interference prohibiting the relatively large 10 nm gold nanoparticles access to DNA space. We then measured the biophysical characteristics of individual telomeres using super resolution microscopy. Telomeres that have an average length of ∼10 kbps, have diameters ranging between ∼60–300 nm. Further, we treated cells with a telomere-shortening drug and showed there was a small but significant difference in telomere diameter in drug-treated vs control cells. We discuss our results in relation to the current debate surrounding telomere compaction.
+
+#### Imaging in Strongle Scattering Samples
+
+### Mathematical Modelling of Nanoscale Calcium Dynamics

@@ -12,10 +12,10 @@ FTP_HOST=localhost
 FTP_USER=anonymous
 FTP_TARGET_DIR=/
 
-SSH_HOST=localhost
+SSH_HOST=phy-lmsrv2.ex.ac.uk
 SSH_PORT=22
-SSH_USER=root
-SSH_TARGET_DIR=/var/www
+SSH_USER=csoelle
+SSH_TARGET_DIR=/home/csoelle/html
 
 S3_BUCKET=my_s3_bucket
 

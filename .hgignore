@@ -8,3 +8,4 @@ pelican-bootstrap3-new
 pelican-bootstrap3-old
 *.pid
 .#*
+content/pages/about.md
