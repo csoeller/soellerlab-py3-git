@@ -8,6 +8,8 @@ Slug: people
 
 #### Ruisheng Lin, PhD - Research Fellow
 
+<img width="150" src="/images/people/Ruisheng.jpg" alt="Ruisheng Lin"/>
+
 #### Alexander Clowsley - Assistant Research Fellow
 
 <img width="150" src="/images/people/Alex.jpg" alt="Alexander Clowsley"/>

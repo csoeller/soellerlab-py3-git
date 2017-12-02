@@ -1,6 +1,6 @@
 Title: Installing Pelican
 Date: 2017-11-19 11:57
-Status: published
+Status: draft
 Slug: blog/Installing Pelican and Website
 Tags: python, pelican
 

@@ -15,6 +15,8 @@ def header():
     return """Title: Publications
 Slug: publications
 
+<img style="border-left:5px solid white" src="/images/research/cover-gallery.jpg" alt="Recent Journal Covers">
+
 For an up-to-date bibliography with links to PDFs visit [Christian Soeller's Google Scholar page](http://scholar.google.co.uk/citations?hl=en&user=ByDRW44AAAAJ).
 
 """
@@ -47,10 +49,23 @@ def page_format(pagestr):
     newstr = pagestr.replace('--','-')
     return newstr
 
+def icon(icostr):
+    if icostr.startswith('fa'):
+        icoclass = 'fa'
+        icosize = 'fa-lg'
+    elif icostr.startswith('ai'):
+        icoclass = 'ai'
+        icosize = 'ai-lg'
+    else:
+        raise RuntimeError('unkown icon type %s' % icostr)
+
+    return '<i class="{0} {1} {2}"></i>'.format(icoclass,icostr,icosize)
+
 # the bib file is generated automatically by Zotero
 with open(bibdb) as bibtex_file:
     parser = BibTexParser()
     parser.customization = convert_to_unicode
+    parser.homogenise_fields = False # ensure that 'url' fields are not renamed to 'link'
     bib_database = bibtexparser.load(bibtex_file, parser=parser)
 
 # print(bib_database.entries)
@@ -78,6 +93,18 @@ for bib_item in bib_database.entries:
     else:
         pdf_link = u''
 
+    if 'doi' in bib_item:
+        doi_link = u'<a HREF=http://dx.doi.org/{0}>{1}</a>'.format(bib_item['doi'],icon('ai-doi'))
+    else:
+        doi_link = u''
+
+    if 'url' in bib_item:
+        if bib_item['url'].startswith('http'):
+            url_link = u'<a HREF={0}>{1}</a>'.format(bib_item['url'],icon('fa-external-link-square'))
+        else:
+            url_link = u''
+    else:
+        url_link = u''
 
     # create bibtex file
     db = BibDatabase()
@@ -85,21 +112,34 @@ for bib_item in bib_database.entries:
     bib_file = 'bib/{0}.bib'.format(bib_item['ID'])
     bib_link = u' [bib]({})'.format(bib_file)
     bib_link = u''
-        
+    pdf_link = u''
+    
+    links = u''
+    if url_link:
+        links = links + u' ' + url_link
+    if doi_link:
+        links = links + u' ' + doi_link
+    if pdf_link:
+        links = links + u' ' + pdf_link
+    if bib_link:
+        links = links + u' ' + bib_link
+
+    title = bib_item['title'].replace('{','').replace('}','')
+    
     with open('{0}'.format(bib_file), 'w') as bib:
         bib.write(writer.write(db).encode('UTF-8'))
 
 
         if bib_item['year'] not in entries:
             entries[bib_item['year']] = []
-        entries[bib_item['year']].append(u"1. {0} *{1}* ({2}){3}{4}. {5} {6}\n".
-                                         format(normalise_authors(bib_item['author']),
-                                                bib_item['title'].replace('{','').replace('}',''),
-                                                bib_item['year'],
-                                                venue,
-                                                pages,
-                                                pdf_link,
-                                                bib_link).encode('UTF-8'))
+        if not title.startswith('Shining new light on motoneurons'):
+            entries[bib_item['year']].append(u"1. {0} *{1}* ({2}){3}{4}.{5}\n".
+                                             format(normalise_authors(bib_item['author']),
+                                                    title,
+                                                    bib_item['year'],
+                                                    venue,
+                                                    pages,
+                                                    links).encode('UTF-8'))
 
 
 

@@ -20,6 +20,11 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
+SHOW_DATE_MODIFIED = True
+SHOW_ARTICLE_AUTHOR = True
+USE_OPEN_GRAPH = False
+PYGMENTS_STYLE = 'perldoc'
+
 ##################################
 # Theme and plugins
 ##################################

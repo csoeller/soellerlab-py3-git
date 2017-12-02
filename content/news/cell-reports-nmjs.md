@@ -1,15 +1,18 @@
 Title: Paper on human NMJs in Cell Reports
-Date: 2017-11-26 13:52
+Date: 2017-11-28 13:52
+Modified: 2017-11-29 16:22
 Status: published
 Slug: news/cell-reports-nmjs
 Tags: papers, super-resolution 
 
 
-<img width="150" src="/images/research/cell-reports-nmj-cover-small.png" alt="Cell Reports Cover">
+<img width="300" src="/images/research/NMJcoverCellReports.jpg" alt="Cell Reports Cover">
 
-On Nov 28 we have published a a paper on human neuromuscular junctions in the journal [_Cell Reports_](http://www.cell.com/cell-reports). This study was led by our colleague [Tom Gillingwater](https://www.ed.ac.uk/integrative-physiology/staff-profiles/research-groups/tom-gillingwater). We contributed the super-resolution data and assisted in the quantitative evaluation of the imaging data.
+On Nov 28 we have published a a paper on human neuromuscular junctions in the journal [_Cell Reports_](http://www.cell.com/cell-reports). This study was led by our colleague [Tom Gillingwater](https://www.ed.ac.uk/integrative-physiology/staff-profiles/research-groups/tom-gillingwater). We contributed the super-resolution data and assisted with the quantitative evaluation of the imaging data.
 
-U Edinburgh has issued a press release to which we will link as soon as available. Below we give a summary of the main results - for details check out [our open access publication](http://www.cell.com/cell-reports) at [_Cell Reports_](http://www.cell.com/cell-reports).
+And **we got the cover**! The picture above shows a human neuromuscular junction in all its beauty, as seen by confocal microscopy.
+
+U Edinburgh has issued a press release, details are in the [eurekalert article](http://www.eurekalert.org/pub_releases/2017-11/uoe-ncf112917.php), our findings have implications for understanding of movement disorders. Below we give a summary of the main results - for details check out [our open access publication](http://www.cell.com/cell-reports) at [_Cell Reports_](http://www.cell.com/cell-reports).
 
 ### Quantitative imaging of human neuromuscular junctions
 

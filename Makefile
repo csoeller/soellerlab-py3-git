@@ -97,14 +97,15 @@ stopserver:
 	$(BASEDIR)/develop_server.sh stop
 	@echo 'Stopped Pelican and SimpleHTTPServer processes running in background.'
 
-publish:
+publish: clean
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(PUBLISHCONF) $(PELICANOPTS)
-
+	rm -r $(OUTPUTDIR)/drafts
 
 biblio:
 	cd bibliography && python bib2md.py && cp publication_list.md $(INPUTDIR)/pages/publications.md
 
-ssh_upload: publish
+ssh_upload: stopserver publish
+	ssh $(SSH_USER)@$(SSH_HOST) 'mkdir $$HOME/html'
 	scp -P $(SSH_PORT) -r $(OUTPUTDIR)/* $(SSH_USER)@$(SSH_HOST):$(SSH_TARGET_DIR)
 
 rsync_upload: publish

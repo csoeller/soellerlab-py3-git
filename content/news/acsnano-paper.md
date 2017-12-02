@@ -4,7 +4,7 @@ Status: published
 Slug: news/acsnano-paper
 Tags: nano, super-resolution
 
-<img width="180" src="/images/logos/ACSnano.gif" alt="ACS Nano"/>
+<img width="300" src="/images/research/ACSnano-cover-idea-title300px.png" alt="ACS Nano"/>
 
 We have just published a neat little paper in [ASC Nano](http://pubs.acs.org/journal/ancac3), a journal that should be well known to all nano aficionados.
 
