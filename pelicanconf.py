@@ -107,7 +107,7 @@ CONTACT = (('Email', '/pages/contact.html#email', 'envelope'),
            ('Address', '/pages/contact.html#address', 'address-card'),)
 
 TWITTER_WIDGET_ID = True
-TWITTER_USERNAME = ''
+TWITTER_USERNAME = 'soellerlab'
 
 #################################
 # END Sidebar settings

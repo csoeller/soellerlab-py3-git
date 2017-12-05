@@ -8,5 +8,7 @@ Tags: blog
 
 - arduino based shutter control etc
 - camera maps
-- cheap cams
+- cheap cams and how to use them
+- ipython notebook based analysis (what though?)
+- LSI event
 

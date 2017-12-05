@@ -9,3 +9,5 @@ pelican-bootstrap3-old
 *.pid
 .#*
 content/pages/about.md
+notebooks/*.md
+.ipynb_checkpoints

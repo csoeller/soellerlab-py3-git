@@ -99,13 +99,15 @@ stopserver:
 
 publish: clean
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(PUBLISHCONF) $(PELICANOPTS)
-	rm -r $(OUTPUTDIR)/drafts
+	if [ -f $(OUTPUTDIR)/drafts ]; then rm -r $(OUTPUTDIR)/drafts; fi
 
 biblio:
 	cd bibliography && python bib2md.py && cp publication_list.md $(INPUTDIR)/pages/publications.md
 
 ssh_upload: stopserver publish
 	ssh $(SSH_USER)@$(SSH_HOST) 'mkdir $$HOME/html'
+	# potential alternative
+	# tar cf --exclude="*.pyc" --exclude=".[a-z]*" - /src/path | ssh userid@server.com tar xf - -C /dest/path
 	scp -P $(SSH_PORT) -r $(OUTPUTDIR)/* $(SSH_USER)@$(SSH_HOST):$(SSH_TARGET_DIR)
 
 rsync_upload: publish
@@ -128,3 +130,13 @@ github: publish
 	git push origin $(GITHUB_PAGES_BRANCH)
 
 .PHONY: html help clean regenerate serve serve-global devserver stopserver publish ssh_upload rsync_upload dropbox_upload ftp_upload s3_upload cf_upload github
+
+pngcompress:
+	echo 'compressing pngs...'
+	find $(OUTPUTDIR) -iname '*.png' -print0 | xargs -0 optipng -preserve -quiet
+
+jpgcompress:
+	echo 'compressing jpgs...'
+	find $(OUTPUTDIR) -iname '*.jpg' -print0 | xargs -0 jpegoptim --strip-all --all-progressive --preserve --quiet --totals
+
+imgcompress: pngcompress jpgcompress

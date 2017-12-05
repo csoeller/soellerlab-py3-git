@@ -29,4 +29,4 @@ Our work is directly motivated by the goal to improve our knowledge of the bioph
 
 Our understanding of how biological systems work is  dependent on the ability to see these systems, ideally with a resolution that approaches subcellular and even molecular scales. This has become possible by rapid advances in fluorescence imaging. The holy grail of advanced imaging is fully quantitative microscopy, that allows us to count molecules in situ, fully spatially resolved, so that we can distinguish different populations, provide molecular statistics, and similar quantitative measures that link form and function. Such quantitative molecular imaging is now becoming a practical reality with the latest imaging modalities.
 
-<img src="/images/research/PRILM-3d.png" alt="Phase Ramp Imaging">
+<img src="/images/research/PRILM-PSF-and-Fig-3d.png" alt="Phase Ramp Imaging">
