@@ -10,7 +10,12 @@ import sys
 sys.path.append(os.curdir)
 from pelicanconf import *
 
-SITEURL = 'http://phy-lmsrv2.ex.ac.uk:8080'
+SITEURL = 'http://empslocal.ex.ac.uk/people/staff/soellerlab'
+#SITEURL = 'http://phy-lmsrv2.ex.ac.uk:8080'
+
+# we must prepend the siteurl to our menu links
+MENUITEMS = [(entry[0], SITEURL + entry[1]) for entry in MENUITEMS] 
+
 RELATIVE_URLS = False
 
 FEED_ALL_ATOM = 'feeds/all.atom.xml'

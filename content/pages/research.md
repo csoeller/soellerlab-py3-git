@@ -16,7 +16,7 @@ We work on several types of advanced fluorescence imaging, including _single mol
 
 #### Quantitative Super-Resolution Imaging
 
-We have been working with super-resolution imaging modalities for a number of years now. Biophysical insight often critically depends on quantitative knowledge of protein and molecule numbers. Advanced fluorescence imaging now has a number of ways in which [_Quantitative Imaging_](/pages/quantitative-imaging.html) can be achieved and we have been pushing the technology to enable this routinely, using [localisation microscopy](/pages/quantitative-imaging.html), especially [DNA-PAINT](/pages/quantitative-imaging.html), and [x-ray microscopy](/pages/quantitative-imaging.html).
+We have been working with super-resolution imaging modalities for a number of years now. Biophysical insight often critically depends on quantitative knowledge of protein and molecule numbers. Advanced fluorescence imaging now has a number of ways in which [_Quantitative Imaging_]({filename}/pages/quantitative_imaging.md) can be achieved and we have been pushing the technology to enable this routinely, using [localisation microscopy]({filename}/pages/quantitative_imaging.md), especially [DNA-PAINT]({filename}/pages/quantitative_imaging.md), and [x-ray microscopy]({filename}/pages/quantitative_imaging.md).
 
 #### Other Advanced Imaging Approaches
 

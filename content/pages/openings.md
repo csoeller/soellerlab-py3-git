@@ -2,7 +2,7 @@ Title: Openings
 Slug: openings
 
 <img style="float:left; border-right:12px solid white" width="220"
-src="/images/logos/LSI-Logo-patterns.png" alt="LSI"> Our laboratory is
+src="{filename}/images/logos/LSI-Logo-patterns.png" alt="LSI"> Our laboratory is
 based at the
 [Living Systems Institute](http://www.exeter.ac.uk/livingsystems/) at
 the University of Exeter. The new institute provides an exciting
@@ -17,7 +17,7 @@ Funding: EPSRC - Fees & Scholarship <br>
 Apply: [Online](http://www.exeter.ac.uk/studying/funding/award/?id=2958)
 
 <img style="float:left; border-right:12px solid white"
-src="/images/research/adaptive-optics-astro.jpg" width="150"
+src="{filename}/images/research/adaptive-optics-astro.jpg" width="150"
 alt="adaptive optics in astronomy"> In astronomy, adaptive optics
 using deformable mirrors has revolutionised ground based observation.
 Shown on the left, a telecope is shooting a laser into the sky to
@@ -33,7 +33,7 @@ deliberately introduce abberations that allow us to improve the
 ability to localise individual molecules in 3D.
 
 <img style="float:right; border-left:12px solid white"
-src="/images/research/deformable-mirror.png" width="150"
+src="{filename}/images/research/deformable-mirror.png" width="150"
 alt="mems deformable mirror">
 In the project we will use a
 [MEMS](http://en.wikipedia.org/wiki/Microelectromechanical_systems)
@@ -45,7 +45,7 @@ as animal and plant cells. The resolution improvement as compared to
 confocal microscopy is quite dramatic.
 
 <img style="float:left; border-right:12px solid white"
-src="/images/research/PRILM-3d.png" width="250" alt="Phase Ramp
+src="{filename}/images/research/PRILM-3d.png" width="250" alt="Phase Ramp
 Imaging">The project builds on our very successful
 [Phase Ramp Technology](http://link.springer.com/article/10.1007/s12274-011-0115-z)
 which is now used
@@ -71,7 +71,7 @@ Funding: EPSRC - Fees & Scholarship <br>
 Apply: [Online](http://www.exeter.ac.uk/studying/funding/award/?id=284)
 
 <img style="float:left; border-right:18px solid white"
-src="/images/research/imaging-around-corners.png" width="150"
+src="{filename}/images/research/imaging-around-corners.png" width="150"
 alt="imaging around corners"> The scattering of light in imaging is often
 regarded as a problem, but has more recently been recognised to allow
 unexpected tricks, for example, seeing around corners, illustrated on
@@ -94,7 +94,7 @@ shows a pattern in the shape of an "F", matching the actual test
 pattern that we had used.
 
 <img style="float:right; border-left:10px solid white"
-src="/images/research/image-scattered-reconstruction-text.png" width="300"
+src="{filename}/images/research/image-scattered-reconstruction-text.png" width="300"
 alt="scattering imaging"> The PhD project will focus on extending this
 method into a practical way to take microscopy images in samples that
 are currently regarded as too scattering to allow any meaningful
