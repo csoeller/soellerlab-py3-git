@@ -10,8 +10,19 @@ import sys
 sys.path.append(os.curdir)
 from pelicanconf import *
 
+# eventual target URL
+#SITEURL = 'http://soellerlab.ex.ac.uk'
+
+# for testing via empslocal
 SITEURL = 'http://empslocal.ex.ac.uk/people/staff/soellerlab'
+
+# for testing on my local linux box
 #SITEURL = 'http://phy-lmsrv2.ex.ac.uk:8080'
+
+# we have this for the moment so we can experiment with the blog
+# in the development version without accidentally publishing it
+# Note: remove once we want to publish blog entries
+ARTICLE_EXCLUDES = ['blog']
 
 # we must prepend the siteurl to our menu links
 MENUITEMS = [(entry[0], SITEURL + entry[1]) for entry in MENUITEMS] 
@@ -22,11 +33,6 @@ FEED_ALL_ATOM = 'feeds/all.atom.xml'
 CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
 
 DELETE_OUTPUT_DIRECTORY = True
-
-# we have this for the moment so we can experiment with the blog
-# in the development versionwithout accidentally publishing it
-# Note: remove once we want to publish blog entries
-ARTICLE_EXCLUDES = ['blog']
 
 # Following items are often useful when publishing
 
