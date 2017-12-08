@@ -112,8 +112,10 @@ ssh_upload: stopserver publish
 	# tar cf --exclude="*.pyc" --exclude=".[a-z]*" - /src/path | ssh userid@server.com tar xf - -C /dest/path
 	scp -P $(SSH_PORT) -r $(OUTPUTDIR)/* $(SSH_USER)@$(SSH_HOST):$(SSH_TARGET_DIR)
 
+smb_clean:
+	if [ -d $(SMB_TARGET_DIR) ]; then rm -rf $(SMB_TARGET_DIR)/*; fi
+
 smb_upload: stopserver publish imgcompress
-	# if [ -d $(SMB_TARGET_DIR) ]; then rm -rf $(SMB_TARGET_DIR)/*; fi
 	if [ -d $(SMB_TARGET_DIR) ]; then scp -vr $(OUTPUTDIR)/* $(SMB_TARGET_DIR); fi
 
 rsync_upload: publish

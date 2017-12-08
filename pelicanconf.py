@@ -41,7 +41,10 @@ JINJA_ENVIRONMENT = {
 # Static Paths and Favicons
 ##################################
 
-STATIC_PATHS = ['images', 'extra/robots.txt']
+# so we can supply our google file
+READERS = {'html': None}
+
+STATIC_PATHS = ['images', 'extra/robots.txt', 'extra/google98210508b6f74207.html']
 # below we pick up the various favicons that we generated using the site https://realfavicongenerator.net
 # and have placed into images/favicons
 EXTRA_PATH_METADATA = {}
