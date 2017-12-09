@@ -60,6 +60,11 @@ help:
 	@echo '   make github                         upload the web site via gh-pages   '
 	@echo '   make biblio                         rebuild publications.md            '
 	@echo '                                                                          '
+	@echo '   make smb_mount                      mount soellerlab as smb share      '
+	@echo '   make smb_unmount                    unmount soellerlab smb share       '
+	@echo '   make smb_upload                     upload the webste via smb          '
+	@echo '   make smb_clean                      remove files from soellerlab smb   '
+	@echo '                                                                          '
 	@echo 'Set the DEBUG variable to 1 to enable debugging, e.g. make DEBUG=1 html   '
 	@echo 'Set the RELATIVE variable to 1 to enable relative urls                    '
 	@echo '                                                                          '
@@ -112,8 +117,17 @@ ssh_upload: stopserver publish
 	# tar cf --exclude="*.pyc" --exclude=".[a-z]*" - /src/path | ssh userid@server.com tar xf - -C /dest/path
 	scp -P $(SSH_PORT) -r $(OUTPUTDIR)/* $(SSH_USER)@$(SSH_HOST):$(SSH_TARGET_DIR)
 
+smb_mount:
+	if ! [ -d $(SMB_TARGET_DIR) ]; then osascript -e "try" -e 'mount volume "smb://cs463@secamsmb/people/staff/soellerlab"' -e "end try"; fi
+
+smb_unmount:
+	if [ -d $(SMB_TARGET_DIR) ]; then diskutil unmount $(SMB_TARGET_DIR); fi
+
 smb_clean:
 	if [ -d $(SMB_TARGET_DIR) ]; then rm -rf $(SMB_TARGET_DIR)/*; fi
+
+smb_ls:
+	if [ -d $(SMB_TARGET_DIR) ]; then ls $(SMB_TARGET_DIR); fi
 
 smb_upload: stopserver publish imgcompress
 	if [ -d $(SMB_TARGET_DIR) ]; then scp -vr $(OUTPUTDIR)/* $(SMB_TARGET_DIR); fi
