@@ -8,7 +8,7 @@ Summary: CS Research.
 
 ### Biophysics of Nanoscale Signalling Systems
 
-We have a long standing interest in local calcium signalling in cardiac muscle. The term _local_ refers to the fact that the critical signalling distances are often in the 10 nm range. Of particular interest is the cardiac ryanodine recptor (RyR) that is typically forming clusters within specialised structures, tight membrane spaces referred to as _junctions_. The RyR is a truly gigantic protein, a homo-tetramer of a 500 kD subunit and approximately 30 nm in size. A lot of our recent work has been concentrating on how to monitor the nanoscale arrangement of RyRs and associated proteins in cardiac myocytes.
+We have a long standing interest in local calcium signalling in cardiac muscle. The term _local_ refers to the fact that the critical signalling distances are often in the 10 nm range. Of particular interest is the cardiac ryanodine receptor (RyR) that is typically forming clusters within specialised structures, tight membrane spaces referred to as _junctions_. The RyR is a truly gigantic protein, a homo-tetramer of a 500 kD subunit and approximately 30 nm in size. A lot of our recent work has been concentrating on how to monitor the nanoscale arrangement of RyRs and associated proteins in cardiac myocytes.
 
 ### Advanced Fluorescence Imaging
 

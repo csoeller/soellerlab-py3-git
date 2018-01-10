@@ -20,16 +20,16 @@ Apply: [Online](http://www.exeter.ac.uk/studying/funding/award/?id=2958)
 src="{filename}/images/research/adaptive-optics-astro.jpg" width="150"
 alt="adaptive optics in astronomy"> In astronomy, adaptive optics
 using deformable mirrors has revolutionised ground based observation.
-Shown on the left, a telecope is shooting a laser into the sky to
+Shown on the left, a telescope is shooting a laser into the sky to
 create a [_guide star_](http://en.wikipedia.org/wiki/Guide_star),
 using deformable mirror technology.
 
 In microscopy, we have only recently begun to use deformable mirrors
-for flexible and dynamic conntrol of the optical
+for flexible and dynamic control of the optical
 properties. Deformable mirrors enable us to change the optical
 [aberrations](http://en.wikipedia.org/wiki/Optical_aberration), either
 to compensate for aberrations in the system, or, as we intend here, to
-deliberately introduce abberations that allow us to improve the
+deliberately introduce aberrations that allow us to improve the
 ability to localise individual molecules in 3D.
 
 <img style="float:right; border-left:12px solid white"
@@ -84,7 +84,7 @@ information about the object encoded in the image.
 The blurred image is not completely featureless, it contains
 information in the form of a
 [speckle pattern](http://en.wikipedia.org/wiki/Speckle_pattern), a
-fine granular pattern of light and dark regions. Such speckle patterns are very familar to those
+fine granular pattern of light and dark regions. Such speckle patterns are very familiar to those
 who have previously worked with _coherent_ light sources, such as
 lasers. By clever image processing, the speciality of our collaborator
 [Jacopo Bertolotti](http://emps.exeter.ac.uk/physics-astronomy/staff/jb601), we can recover the image of the actual object, as

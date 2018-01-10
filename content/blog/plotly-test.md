@@ -1,6 +1,6 @@
 Title: A jupyter notebook test
 Date: 2017-11-30 22:03
-Status: published
+Status: draft
 Slug: blog/ipython-markdown-test
 Tags: python, pelican, jupyter
 

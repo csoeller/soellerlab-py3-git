@@ -33,7 +33,7 @@ src="{filename}/images/software/PYMEvisgui.png" alt="PYME VisGUII Interface"/>
 PYME also has a PALM/STORM data exploration and visualisation tool,
 VisGUI. VisGUI offers a fast and flexible tool for exploring and
 visualising the list of fluorophore locations that is produced by
-PALM/STORM analysis algorithms. VisGUI renders localistions in various
+PALM/STORM analysis algorithms. VisGUI renders localisations in various
 different ways and can filter and process localisation events in
 powerful and flexible ways. Recently, we have implemented extension
 plugins to experiment with the qPAINT quantitative imaging paradigm
@@ -111,7 +111,7 @@ arrays which are the bread and butter of scientific computing.
 
 PDL turns Perl into a free, array-oriented, numerical language similar
 to (but, we believe, better than) such commercial packages as IDL and
-MatLab. One can write simple perl expressions to manipulate entire
+MatLab. One can write simple Perl expressions to manipulate entire
 numerical arrays all at once. Simple interactive shells are provided
 for use from the command line along with the PDL module for use in
 Perl scripts.

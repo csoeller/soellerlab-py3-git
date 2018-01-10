@@ -48,7 +48,9 @@ revealed a previously undetected fraction of JPH2 in molecular
 proximity of RyRs and presents a novel super-resolution approach to
 in-situ biochemistry to probe binding candidates in cells and tissues.
 
-For details wait for our upcoming publication. Watch this space...
+For details see
+
+- Isuru D Jayasinghe, Alexander H Clowsley, Ruisheng Lin, T Lutz, Carl Harrison, E Green, David Baddelely, Lorenzo Di Michele, Christian Soeller *True molecular scale visualisation of variable clustering properties of ryanodine receptors* (2018), __Cell Reports__. <a HREF=https://doi.org/10.1016/j.celrep.2017.12.045><i class="fa fa-external-link-square fa-lg"></i></a> <a HREF=http://dx.doi.org/10.1016/j.celrep.2017.12.045><i class="ai ai-doi ai-lg"></i></a>
 
 ### Quantitative imaging of human neuromuscular junctions
 

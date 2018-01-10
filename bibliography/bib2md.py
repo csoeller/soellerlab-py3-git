@@ -133,7 +133,7 @@ for bib_item in bib_database.entries:
         if bib_item['year'] not in entries:
             entries[bib_item['year']] = []
         if not title.startswith('Shining new light on motoneurons'):
-            entries[bib_item['year']].append(u"1. {0} *{1}* ({2}){3}{4}.{5}\n".
+            entries[bib_item['year']].append(u"1. {0}. *{1}* ({2}){3}{4}.{5}\n".
                                              format(normalise_authors(bib_item['author']),
                                                     title,
                                                     bib_item['year'],
