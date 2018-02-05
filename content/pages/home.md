@@ -2,11 +2,15 @@ Title: Biophysics and Advanced Imaging
 URL: ../
 Save_as: index.html
 
+<!--
+
 #### _Current Opportunities_ - PhD student positions starting in 2018
 
 <img style="float:left; border-right:18px solid white" width="80" src="{filename}/images/logos/Achtung.png" alt="Attention"> We have a couple of [exciting openings]({filename}/pages/openings.md) to work with us on state-of-the-art imaging approaches in the
 newly opened Living Systems Institute. The new institute provides an exciting interdisciplinary
 environment bringing together leaders in Biology, Physics, Medicine and Mathematics. [Check it out]({filename}/pages/openings.md).
+
+-->
 
 ### The Laboratory
 

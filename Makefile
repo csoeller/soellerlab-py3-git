@@ -62,7 +62,8 @@ help:
 	@echo '                                                                          '
 	@echo '   make smb_mount                      mount soellerlab as smb share      '
 	@echo '   make smb_unmount                    unmount soellerlab smb share       '
-	@echo '   make smb_upload                     upload the webste via smb          '
+	@echo '   make smb_upload                     upload the webste via smb - cp     '
+	@echo '   make smb_rsync                      upload the webste via smb - rsync  '
 	@echo '   make smb_clean                      remove files from soellerlab smb   '
 	@echo '                                                                          '
 	@echo 'Set the DEBUG variable to 1 to enable debugging, e.g. make DEBUG=1 html   '
@@ -131,6 +132,9 @@ smb_ls:
 
 smb_upload: stopserver publish imgcompress
 	if [ -d $(SMB_TARGET_DIR) ]; then scp -vr $(OUTPUTDIR)/* $(SMB_TARGET_DIR); fi
+
+smb_rsync: stopserver publish imgcompress
+	if [ -d $(SMB_TARGET_DIR) ]; then rsync -vaz --delete --exclude=.DS_Store $(OUTPUTDIR) $(SMB_TARGET_DIR); fi
 
 rsync_upload: publish
 	rsync -e "ssh -p $(SSH_PORT)" -P -rvzc --delete $(OUTPUTDIR)/ $(SSH_USER)@$(SSH_HOST):$(SSH_TARGET_DIR) --cvs-exclude

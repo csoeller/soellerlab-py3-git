@@ -9,16 +9,18 @@ For an up-to-date bibliography with links to PDFs you can visit [Christian Soell
 
 #### 2018
 
-1. Isuru D Jayasinghe, Alexander H Clowsley, Ruisheng Lin, T Lutz, Carl Harrison, E Green, David Baddelely, Lorenzo Di Michele, Christian Soeller. *True molecular scale visualisation of variable clustering properties of ryanodine receptors* (2018), __Cell Reports__. <a HREF=https://doi.org/10.1016/j.celrep.2017.12.045><i class="fa fa-external-link-square fa-lg"></i></a> <a HREF=http://dx.doi.org/10.1016/j.celrep.2017.12.045><i class="ai ai-doi ai-lg"></i></a>
+1. Tobias Lutz, Alexander H Clowsley, Ruisheng Lin, Stefano Pagliara, Lorenzo Di Michele, Christian Soeller. *Versatile multiplexed super-resolution imaging of nanostructures by Quencher-Exchange-PAINT* (2018), __Nano Research__, 78:993. <a HREF=http://link.springer.com/10.1007/s12274-018-1971-6><i class="fa fa-external-link-square fa-lg"></i></a> <a HREF=http://dx.doi.org/10.1017/S143192760999122X><i class="ai ai-doi ai-lg"></i></a>
+
+1. Isuru Jayasinghe, Alexander H Clowsley, Ruisheng Lin, Tobias Lutz, Carl Harrison, Ellen Green, David Baddeley, Lorenzo Di Michele, Christian Soeller. *True Molecular Scale Visualization of Variable Clustering Properties of Ryanodine Receptors.* (2018), __Cell Reports__, 22:557-567. <a HREF=http://linkinghub.elsevier.com/retrieve/pii/S2211124717318697><i class="fa fa-external-link-square fa-lg"></i></a> <a HREF=http://dx.doi.org/10.1016/j.celrep.2017.12.045><i class="ai ai-doi ai-lg"></i></a>
 
 
 #### 2017
 
+1. J Charles G Jeynes, Kalotina Geraki, Christopher Jeynes, Mi Zhaohong, Andrew A Bettiol, Eva Latorre, Lorna Wendy Harries, Christian Soeller. *Nanoscale Properties of Human Telomeres Measured with a Dual Purpose X-ray Fluorescence and Super Resolution Microscopy Gold Nanoparticle Probe.* (2017), __ACS nano__, 11:12632-12640. <a HREF=http://pubs.acs.org/doi/10.1021/acsnano.7b07064><i class="fa fa-external-link-square fa-lg"></i></a> <a HREF=http://dx.doi.org/10.1021/acsnano.7b07064><i class="ai ai-doi ai-lg"></i></a>
+
+1. David J Crossman, Isuru D Jayasinghe, Christian Soeller. *Transverse tubule remodelling: a cellular pathology driven by both sides of the plasmalemma?* (2017), __Biophysical reviews__, 9:919-929. <a HREF=http://eutils.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?dbfrom=pubmed&id=28695473&retmode=ref&cmd=prlinks><i class="fa fa-external-link-square fa-lg"></i></a> <a HREF=http://dx.doi.org/10.1007/s12551-017-0273-7><i class="ai ai-doi ai-lg"></i></a>
+
 1. Ross A Jones, Carl Harrison, Samantha L Eaton, Maica Llavero Hurtado, Laura C Graham, Leena Alkhammash, Oladayo A Oladiran, Andy Gale, Douglas J Lamont, Hamish Simpson, Martin W Simmen, Christian Soeller, Thomas M Wishart, Thomas H Gillingwater. *Cellular and Molecular Anatomy of the Human Neuromuscular Junction* (2017), __Cell Reports__, 21:2348-2356. <a HREF=http://dx.doi.org/10.1016/j.celrep.2017.11.008><i class="fa fa-external-link-square fa-lg"></i></a> <a HREF=http://dx.doi.org/10.1016/j.celrep.2017.11.008><i class="ai ai-doi ai-lg"></i></a>
-
-1. J Charles G Jeynes, Kalotina Geraki, Christopher Jeynes, Mi Zhaohong, Andrew A Bettiol, Eva Latorre, Lorna Wendy Harries, Christian Soeller. *Nanoscale Properties of Human Telomeres Measured with a Dual Purpose X-Ray Fluorescence and Super Resolution Microscopy Gold Nanoparticle Probe* (2017), __ACS nano__, acsnano.7b07064. <a HREF=http://pubs.acs.org/doi/10.1021/acsnano.7b07064><i class="fa fa-external-link-square fa-lg"></i></a> <a HREF=http://dx.doi.org/10.1021/acsnano.7b07064><i class="ai ai-doi ai-lg"></i></a>
-
-1. David J Crossman, Isuru D Jayasinghe, Christian Soeller. *Transverse tubule remodelling: a cellular pathology driven by both sides of the plasmalemma?* (2017), __Biophysical Reviews__, 1:30. <a HREF=http://link.springer.com/10.1007/s12551-017-0273-7><i class="fa fa-external-link-square fa-lg"></i></a> <a HREF=http://dx.doi.org/10.1097/nen.0b013e3181634ef7><i class="ai ai-doi ai-lg"></i></a>
 
 1. David J Crossman, Xin Shen, Mia Jüllig, Michelle Munro, Yufeng Hou, Martin Middleditch, Darshan Shrestha, Amy Li, Sean Lal, Cristobal G dos Remedios, David Baddeley, Peter N Ruygrok, Christian Soeller. *Increased collagen within the transverse tubules in human heart failure.* (2017), __Cardiovascular Research__, 113:879-891. <a HREF=https://academic.oup.com/cardiovascres/article-lookup/doi/10.1093/cvr/cvx055><i class="fa fa-external-link-square fa-lg"></i></a> <a HREF=http://dx.doi.org/10.1093/cvr/cvx055><i class="ai ai-doi ai-lg"></i></a>
 
