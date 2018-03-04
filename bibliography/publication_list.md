@@ -9,6 +9,8 @@ For an up-to-date bibliography with links to PDFs you can visit [Christian Soell
 
 #### 2018
 
+1. Michelle L Munro, Xin Shen, Marie Ward, Peter N Ruygrok, David J Crossman, Christian Soeller. *Highly variable contractile performance correlates with myocyte content in trabeculae from failing human hearts.* (2018), __Scientific Reports__, 8:2957. <a HREF=http://eutils.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?dbfrom=pubmed&id=29440728&retmode=ref&cmd=prlinks><i class="fa fa-external-link-square fa-lg"></i></a> <a HREF=http://dx.doi.org/10.1038/s41598-018-21199-y><i class="ai ai-doi ai-lg"></i></a>
+
 1. Tobias Lutz, Alexander H Clowsley, Ruisheng Lin, Stefano Pagliara, Lorenzo Di Michele, Christian Soeller. *Versatile multiplexed super-resolution imaging of nanostructures by Quencher-Exchange-PAINT* (2018), __Nano Research__, 78:993. <a HREF=http://link.springer.com/10.1007/s12274-018-1971-6><i class="fa fa-external-link-square fa-lg"></i></a> <a HREF=http://dx.doi.org/10.1017/S143192760999122X><i class="ai ai-doi ai-lg"></i></a>
 
 1. Isuru Jayasinghe, Alexander H Clowsley, Ruisheng Lin, Tobias Lutz, Carl Harrison, Ellen Green, David Baddeley, Lorenzo Di Michele, Christian Soeller. *True Molecular Scale Visualization of Variable Clustering Properties of Ryanodine Receptors.* (2018), __Cell Reports__, 22:557-567. <a HREF=http://linkinghub.elsevier.com/retrieve/pii/S2211124717318697><i class="fa fa-external-link-square fa-lg"></i></a> <a HREF=http://dx.doi.org/10.1016/j.celrep.2017.12.045><i class="ai ai-doi ai-lg"></i></a>

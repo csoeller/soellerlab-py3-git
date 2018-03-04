@@ -133,8 +133,9 @@ smb_ls:
 smb_upload: stopserver publish imgcompress
 	if [ -d $(SMB_TARGET_DIR) ]; then scp -vr $(OUTPUTDIR)/* $(SMB_TARGET_DIR); fi
 
+# note trailing slashes on directory names are critical
 smb_rsync: stopserver publish imgcompress
-	if [ -d $(SMB_TARGET_DIR) ]; then rsync -vaz --delete --exclude=.DS_Store $(OUTPUTDIR) $(SMB_TARGET_DIR); fi
+	if [ -d $(SMB_TARGET_DIR) ]; then rsync -va --delete --exclude=.DS_Store $(OUTPUTDIR)/ $(SMB_TARGET_DIR)/; fi
 
 rsync_upload: publish
 	rsync -e "ssh -p $(SSH_PORT)" -P -rvzc --delete $(OUTPUTDIR)/ $(SSH_USER)@$(SSH_HOST):$(SSH_TARGET_DIR) --cvs-exclude
