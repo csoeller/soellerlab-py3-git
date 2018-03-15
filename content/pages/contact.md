@@ -9,6 +9,10 @@ c.soeller __at__ __usual-exeter-university-domain__
 
 If this is too obscure, please look up his email on his [academic web page](http://emps.exeter.ac.uk/physics-astronomy/staff/cs463).
 
+### Telephone<a name="phone"></a>
+
+01392 726608 (or +44 1392 726608 if calling from overseas)
+
 ### Address<a name="address"></a>
 
 The Soeller laboratory is located in the [Living Systems Institute](http://www.exeter.ac.uk/livingsystems/) at the [University of Exeter](http://www.exeter.ac.uk/).

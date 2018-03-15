@@ -11,7 +11,7 @@
       {% else %}
         {% set name_sanitized = s[0]|lower|replace('+','-plus')|replace(' ','-') %}
       {% endif %}
-      {% if name_sanitized in ['flickr', 'slideshare', 'instagram', 'spotify', 'stack-overflow', 'weibo', 'line-chart', 'home', 'user', 'users', 'envelope', 'envelope-o', 'stack-exchange', 'hacker-news', 'gitlab', 'vk', 'address-card', 'envelope'] %}
+      {% if name_sanitized in ['flickr', 'slideshare', 'instagram', 'spotify', 'stack-overflow', 'weibo', 'line-chart', 'home', 'user', 'users', 'envelope', 'envelope-o', 'stack-exchange', 'hacker-news', 'gitlab', 'vk', 'address-card', 'envelope', 'phone'] %}
         {% set iconattributes = '"fa fa-' ~ name_sanitized ~ ' fa-lg"' %}
       {% elif name_sanitized in ['google-scholar', 'researchgate', 'academia'] %}
         {% set iconattributes = '"ai ai-' ~ name_sanitized ~ '-square ai-lg"' %}
