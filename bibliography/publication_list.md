@@ -9,6 +9,8 @@ For an up-to-date bibliography with links to PDFs you can visit [Christian Soell
 
 #### 2018
 
+1. Matthias Hofer, Christian Soeller, Sophie Brasselet, Jacopo Bertolotti. *Wide field fluorescence epi-microscopy behind a scattering medium enabled by speckle correlations* (2018), __Optics Express__, 26:9866. <a HREF=https://www.osapublishing.org/abstract.cfm?URI=oe-26-8-9866><i class="fa fa-external-link-square fa-lg"></i></a> <a HREF=http://dx.doi.org/10.1364/OE.26.009866><i class="ai ai-doi ai-lg"></i></a>
+
 1. Michelle L Munro, Xin Shen, Marie Ward, Peter N Ruygrok, David J Crossman, Christian Soeller. *Highly variable contractile performance correlates with myocyte content in trabeculae from failing human hearts.* (2018), __Scientific Reports__, 8:2957. <a HREF=http://eutils.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?dbfrom=pubmed&id=29440728&retmode=ref&cmd=prlinks><i class="fa fa-external-link-square fa-lg"></i></a> <a HREF=http://dx.doi.org/10.1038/s41598-018-21199-y><i class="ai ai-doi ai-lg"></i></a>
 
 1. Tobias Lutz, Alexander H Clowsley, Ruisheng Lin, Stefano Pagliara, Lorenzo Di Michele, Christian Soeller. *Versatile multiplexed super-resolution imaging of nanostructures by Quencher-Exchange-PAINT* (2018), __Nano Research__, 78:993. <a HREF=http://link.springer.com/10.1007/s12274-018-1971-6><i class="fa fa-external-link-square fa-lg"></i></a> <a HREF=http://dx.doi.org/10.1017/S143192760999122X><i class="ai ai-doi ai-lg"></i></a>

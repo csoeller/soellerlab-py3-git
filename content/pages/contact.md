@@ -29,9 +29,12 @@ UK
 
 #### Delivery address (via Physics Stores)
 
+__Please use this address for sending any non-paperwork items (e.g. biological samples, product samples, etc)__ 
+
 To the attention of Christian Soeller <br>
 Physics Stores <br>
 Physics Building <br>
+University of Exeter <br>
 Stocker Road <br>
 Exeter <br>
 EX4 4QL <br>
