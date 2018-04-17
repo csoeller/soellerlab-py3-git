@@ -11,11 +11,17 @@ If this is too obscure, please look up his email on his [academic web page](http
 
 ### Telephone<a name="phone"></a>
 
-01392 726608 (or +44 1392 726608 if calling from overseas)
+01392 726608 (or +44 1392 726608 if calling from overseas).
 
-### Address<a name="address"></a>
+### Directions<a name="directions"></a>
 
 The Soeller laboratory is located in the [Living Systems Institute](http://www.exeter.ac.uk/livingsystems/) at the [University of Exeter](http://www.exeter.ac.uk/).
+
+<a HREF=http://www.exeter.ac.uk/visit/directions/streathammap/><img width="300" src="{filename}/images/misc/StreathamCampus.png" alt="Streatham Campus"></a>
+
+You can find the [LSI](http://www.exeter.ac.uk/livingsystems/) building on the [Streatham Campus map](http://www.exeter.ac.uk/visit/directions/streathammap/) (number 87) but please be aware that you will need to access the building via the reception in the Geoffrey Pope building (number 20). Upon arrival ask the reception staff to call Christian Soeller. He is in office T04.12 in the LSI on the 4th floor of the office tower.
+
+### Address<a name="address"></a>
 
 #### Postal address
 

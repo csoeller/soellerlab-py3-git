@@ -108,7 +108,8 @@ SOCIAL = (('Academic Webpage', 'http://emps.exeter.ac.uk/physics-astronomy/staff
 
 CONTACT = (('Email', 'pages/contact.html#email', 'envelope'),
            ('Address', 'pages/contact.html#address', 'address-card'),
-           ('Phone', 'pages/contact.html#phone', 'phone'),)
+           ('Phone', 'pages/contact.html#phone', 'phone'),
+           ('Directions', 'pages/contact.html#directions', 'map-marker'),)
 
 TWITTER_WIDGET_ID = True
 TWITTER_USERNAME = 'soellerlab'
