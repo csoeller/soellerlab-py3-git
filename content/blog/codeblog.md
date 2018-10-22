@@ -1,6 +1,6 @@
 Title: A Code Blog
 Date: 2017-11-30 08:35
-Status: draft
+Status: published
 Slug: blog/codeblog
 Tags: code
 

@@ -9,7 +9,11 @@ For an up-to-date bibliography with links to PDFs you can visit [Christian Soell
 
 #### 2018
 
-1. Stefan Sassmann, Cecilia Rodrigues, Stephen W Milne, Anja Nenninger, Ellen Allwood, G R Littlejohn, Nicholas J Talbot, Christian Soeller, Brendan Davies, Patrick J Hussey, Michael J Deeks. *An Immune-Responsive Cytoskeletal-Plasma Membrane Feedback Loop in Plants.* (2018), __Current biology : CB__. <a HREF=https://linkinghub.elsevier.com/retrieve/pii/S096098221830616X><i class="fa fa-external-link-square fa-lg"></i></a> <a HREF=http://dx.doi.org/10.1016/j.cub.2018.05.014><i class="ai ai-doi ai-lg"></i></a>
+1. Izzy Jayasinghe, Alexander H Clowsley, Oscar de Langen, Sonali S Sali, David J Crossman, Christian Soeller. *Shining New Light on the Structural Determinants of Cardiac Couplon Function: Insights From Ten Years of Nanoscale Microscopy* (2018), __Frontiers in physiology__, 9:413. <a HREF=https://www.frontiersin.org/article/10.3389/fphys.2018.01472/full><i class="fa fa-external-link-square fa-lg"></i></a> <a HREF=http://dx.doi.org/10.3389/fphys.2018.01472><i class="ai ai-doi ai-lg"></i></a>
+
+1. Christian Soeller. *Ryanodine receptor cluster size sets the tone in cerebral smooth muscle* (2018), __Proceedings of the National Academy of Sciences of the United States of America__, 278:201814207. <a HREF=http://www.pnas.org/lookup/doi/10.1073/pnas.1814207115><i class="fa fa-external-link-square fa-lg"></i></a> <a HREF=http://dx.doi.org/10.1016/j.bpj.2017.11.3000><i class="ai ai-doi ai-lg"></i></a>
+
+1. Stefan Sassmann, Cecilia Rodrigues, Stephen W Milne, Anja Nenninger, Ellen Allwood, George R Littlejohn, Nicholas J Talbot, Christian Soeller, Brendan Davies, Patrick J Hussey, Michael J Deeks. *An Immune-Responsive Cytoskeletal-Plasma Membrane Feedback Loop in Plants.* (2018), __Current biology : CB__, 28:2136-2144.e7. <a HREF=https://linkinghub.elsevier.com/retrieve/pii/S096098221830616X><i class="fa fa-external-link-square fa-lg"></i></a> <a HREF=http://dx.doi.org/10.1016/j.cub.2018.05.014><i class="ai ai-doi ai-lg"></i></a>
 
 1. Claire L Curl, Vennetia R Danes, James R Bell, Antonia J A Raaijmakers, Wendy T K Ip, Chanchal Chandramouli, Tristan W Harding, Enzo R Porrello, Jeffrey R Erickson, Fadi J Charchar, Andrew R Kompa, Amanda J Edgley, David J Crossman, Christian Soeller, Kimberley M Mellor, Jonathan M Kalman, Stephen B Harrap, Lea M D Delbridge. *Cardiomyocyte Functional Etiology in Heart Failure With Preserved Ejection Fraction Is Distinctive-A New Preclinical Model.* (2018), __Journal of the American Heart Association__. <a HREF=http://jaha.ahajournals.org/lookup/doi/10.1161/JAHA.117.007451><i class="fa fa-external-link-square fa-lg"></i></a> <a HREF=http://dx.doi.org/10.1161/JAHA.117.007451><i class="ai ai-doi ai-lg"></i></a>
 
@@ -23,7 +27,9 @@ For an up-to-date bibliography with links to PDFs you can visit [Christian Soell
 
 1. Isuru Jayasinghe, Alexander H Clowsley, Ruisheng Lin, Tobias Lutz, Carl Harrison, Ellen Green, David Baddeley, Lorenzo Di Michele, Christian Soeller. *True Molecular Scale Visualization of Variable Clustering Properties of Ryanodine Receptors.* (2018), __Cell Reports__, 22:557-567. <a HREF=http://linkinghub.elsevier.com/retrieve/pii/S2211124717318697><i class="fa fa-external-link-square fa-lg"></i></a> <a HREF=http://dx.doi.org/10.1016/j.celrep.2017.12.045><i class="ai ai-doi ai-lg"></i></a>
 
-1. Isuru Jayasinghe, Alexander H Clowsley, Christian Soeller. *Advances in the Visualization of Molecular Assemblies Within Cellular Signaling Nanodomains: Insights From a Decade of Mapping of Ryanodine Receptor Clusters* (2018), __Advances in Biomembranes and Lipid Self-Assembly__. <a HREF=http://linkinghub.elsevier.com/retrieve/pii/S2451963418300426><i class="fa fa-external-link-square fa-lg"></i></a> <a HREF=http://dx.doi.org/10.1016/bs.abl.2018.04.001><i class="ai ai-doi ai-lg"></i></a>
+1. Isuru Jayasinghe, Alexander H Clowsley, Christian Soeller. *Advances in the Visualization of Molecular Assemblies Within Cellular Signaling Nanodomains: Insights From a Decade of Mapping of Ryanodine Receptor Clusters* (2018), 167-197. <a HREF=https://linkinghub.elsevier.com/retrieve/pii/S2451963418300426><i class="fa fa-external-link-square fa-lg"></i></a> <a HREF=http://dx.doi.org/10.1016/bs.abl.2018.04.001><i class="ai ai-doi ai-lg"></i></a>
+
+1. Yufeng Hou, Christopher Le, Christian Soeller, William Edward Louch. *Protocol for the Isolation and Super-resolution dSTORM Imaging of RyR2 in Cardiac Myocytes* (2018), __BIO-PROTOCOL__, 8:e2952. <a HREF=https://doi.org/10.21769/BioProtoc.2952><i class="fa fa-external-link-square fa-lg"></i></a>
 
 
 #### 2017

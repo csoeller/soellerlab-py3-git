@@ -9,108 +9,86 @@ the University of Exeter. The new institute provides an exciting
 interdisciplinary environment bringing together leaders in Biology,
 Physics, Medicine and Mathematics.
 
-## The application process for the openings below has now closed
+## Exciting PhD project on new super-resolution methods applied to RNA biology
 
-### PhD to work on new tricks that enable imaging in scattering samples
+### A project with industrial partner Bio-Techne
 
-Deadline: **31st January 2018** <br>
-Title: **Microscopy in scattering media** <br>
-Funding: EPSRC - Fees & Scholarship <br>
-Apply: [Online](http://www.exeter.ac.uk/studying/funding/award/?id=2842)
+**Deadline**: Open - we are advertising until we fill this position <br>
+Title: **Illuminating mechanisms of RNA transcription by novel optical super-resolution imaging approaches** <br>
+**Funding**: Fees & Scholarship at RCUK levels, for eligible domestic and EU students<br>
+**Start**: January 2019 or later - flexible - we want to find the right candidate <br>
+**Apply**: [Contact us]({filename}/pages/contact.md)
 
-<img style="float:left; border-right:18px solid white"
-src="{filename}/images/research/imaging-around-corners.png" width="150"
-alt="imaging around corners"> The scattering of light in imaging is often
-regarded as a problem, but has more recently been recognised to allow
-unexpected tricks, for example, seeing around corners, illustrated on
-the left. In microscopy, when one images through a scattering medium it seems on first sight that all
-detail has been lost in a "fog".  This is illustrated below with an
-image taken on our microscope. No clear features are recognisable in the
-recorded image, everything appears to be a blur. However, there is
-information about the object encoded in the image.
+_We have opened applications for this PhD project, interested candidates are highly encouraged to contact the supervisors, [Christian Soeller](http://emps.exeter.ac.uk/physics-astronomy/staff/cs463) or [Steve West](https://www.exeter.ac.uk/livingsystems/team/faculty/west/), to make enquiries and express their interest._
 
-The blurred image is not completely featureless, it contains
-information in the form of a
-[speckle pattern](http://en.wikipedia.org/wiki/Speckle_pattern), a
-fine granular pattern of light and dark regions. Such speckle patterns are very familiar to those
-who have previously worked with _coherent_ light sources, such as
-lasers. By clever image processing, the speciality of our collaborator
-[Jacopo Bertolotti](http://emps.exeter.ac.uk/physics-astronomy/staff/jb601), we can recover the image of the actual object, as
-if no scattering had taken place. This is illustrated in the
-reconstruction that was calculated from the recorded image. It clearly
-shows a pattern in the shape of an "F", matching the actual test
-pattern that we had used.
+<img align="center" width="600"
+src="{filename}/images/research/POLII-PAINT-for-web-page-03.png" alt="Pol II super-resolution imaging">
 
-<img style="float:right; border-left:10px solid white"
-src="{filename}/images/research/image-scattered-reconstruction-text.png" width="300"
-alt="scattering imaging"> The PhD project will focus on extending this
-method into a practical way to take microscopy images in samples that
-are currently regarded as too scattering to allow any meaningful
-imaging. Since many biological samples, such as bone or the brain, are
-made of such strongly scattering materials, the new methodology has major
-relevance for bio-imaging.
+We are inviting applications for a fully-funded PhD studentship to commence in January 2019 or as soon as possible thereafter, to be held at the Living Systems Institute at its Streatham Campus.  For eligible students the studentship will cover UK/EU tuition fees plus an annual tax-free stipend.
 
-The 4-year PhD project is run through the highly regarded
-MetaMaterials CDT in Physics, and will be co-supervised by
-[Jacopo Bertolotti](http://emps.exeter.ac.uk/physics-astronomy/staff/jb601)
-and
-[Christian Soeller](http://emps.exeter.ac.uk/physics-astronomy/staff/cs463). Please
-feel free to contact us, we are happy to discuss all aspects of the
-project.
+For this project we have partnered with [Bio-Techne](https://www.bio-techne.com/), a leading developer of high quality reagents and assay systems for biomedical researchers and clinical research laboratories.
 
-For further details, and to apply online, please consult the
-[advert](http://www.exeter.ac.uk/studying/funding/award/?id=2842).
+#### Full Project Details
 
-### PhD to work on 3D super-resolution microscopy with deformable mirrors
+[See here for full project details...]({filename}/pages/openings/phd-biotechne.md)
 
-Deadline: **10th January 2018** <br>
-Title: **Microscopy With a Deformable Mirror** <br>
-Funding: EPSRC - Fees & Scholarship <br>
-Apply: [Online](http://www.exeter.ac.uk/studying/funding/award/?id=2958)
+## MRC funded PhD on Protein Cluster Biophysics, Stem Cell Repair and Super-Resolution Imaging
 
-<img style="float:left; border-right:12px solid white"
-src="{filename}/images/research/adaptive-optics-astro.jpg" width="150"
-alt="adaptive optics in astronomy"> In astronomy, adaptive optics
-using deformable mirrors has revolutionised ground based observation.
-Shown on the left, a telescope is shooting a laser into the sky to
-create a [_guide star_](http://en.wikipedia.org/wiki/Guide_star),
-using deformable mirror technology.
+**Deadline**: 23rd November 2018 <br>
+Title: **Modifying protein clustering as a novel repair strategy in heart failure** <br>
+**Funding**: Fees & Scholarship at RCUK levels, for eligible domestic and EU students<br>
+**Start**: September 2019<br>
+**Apply**: [Online Application via Exeter Website](http://www.exeter.ac.uk/studying/funding/award/?id=3226)
 
-In microscopy, we have only recently begun to use deformable mirrors
-for flexible and dynamic control of the optical
-properties. Deformable mirrors enable us to change the optical
-[aberrations](http://en.wikipedia.org/wiki/Optical_aberration), either
-to compensate for aberrations in the system, or, as we intend here, to
-deliberately introduce aberrations that allow us to improve the
-ability to localise individual molecules in 3D.
-
-<img style="float:right; border-left:12px solid white"
-src="{filename}/images/research/deformable-mirror.png" width="150"
-alt="mems deformable mirror">
-In the project we will use a
-[MEMS](http://en.wikipedia.org/wiki/Microelectromechanical_systems)
-deformable mirror (see on the right)
-to dynamically control the properties of the microscope optics. This
-will allow us to build 3D super-resolution images of much improved
-quality, which is critical in the imaging of biological samples, such
-as animal and plant cells. The resolution improvement as compared to
-confocal microscopy is quite dramatic.
-
-<img style="float:left; border-right:12px solid white"
-src="{filename}/images/research/PRILM-3d.png" width="250" alt="Phase Ramp
-Imaging">The project builds on our very successful
-[Phase Ramp Technology](http://link.springer.com/article/10.1007/s12274-011-0115-z)
-which is now used
-commercially in all Zeiss Elyra super-resolution microscopes.
-
-The project will provide training in imaging, computing and optical
-design. Supervision is provided by
-[Christian Soeller](http://emps.exeter.ac.uk/physics-astronomy/staff/cs463),
-[Alex Corbett](http://emps.exeter.ac.uk/physics-astronomy/staff/ac734)
-and [Mike Deeks](http://biosciences.exeter.ac.uk/staff/index.php?web_id=Michael_Deeks). Please
-feel free to contact us, we are happy to discuss all aspects of the
-project.
+In this project the focus will be on repair strategies for cells in failing hearts. New insight by the participating laboratories suggests that the modulation of protein clustering can boost cellular function and support tissue repair in the heart. We will test the new approaches in stem cell derived models of cardiomyocytes.
 
 
-For further details, and to apply online, please consult
-the [advert](http://www.exeter.ac.uk/studying/funding/award/?id=2958).
+<img align="center" width="600"
+src="{filename}/images/research/RyRclustersPNAS.png" alt="RyR clusters in super-resolution detail">
+
+__Figure__. _Magnified views of matching confocal and super-resolution images showing ryanodine receptor (RyR) clusters in the surface membrane of a cardiac myocyte. Note the small clusters and likely single RyRs [indicated by arrowheads] that are undetectable in the diffraction-limited data. (E) To quantify cluster sizes (in RyRs/cluster), quasi-crystallinearrangement of RyRs on a 30 × 30 nm grid was used._
+
+#### Full Project Details
+
+[See here for full project details...]({filename}/pages/openings/phd-mrc19.md)
+
+## BBSRC funded PhD on Protein Cluster Biophysics and Super-Resolution Imaging
+
+**Deadline**: 3rd December 2018 <br>
+Title: **Effects of clustering and phosphorylation on nanoscale receptor signalling** <br>
+**Funding**: BBSRC, Fees & Scholarship at RCUK levels, for eligible domestic and EU students<br>
+**Start**: September 2019<br>
+**Apply**: [Online Application via Exeter Website](http://www.exeter.ac.uk/studying/funding/award/?id=3290)
+
+We intend to focus on understanding the basis of the dependence of protein excitability on the protein clustering properties. For this we will combine quantitative imaging via super-resolution (Soeller lab) and correlation imaging (Scholpp lab) with new biological insights following the discovery of the role of the protein myospryn for RyR clustering.
+
+<img align="center" width="600"
+src="{filename}/images/research/RyRclustersCellReportScheme.png" alt="RyR cluster models">
+
+
+__Figure__. _Emerging view of ryanodine recptor (RyR) arrangement within clusters. (A) The classic model of a regular arrangement of RyRs. (B) The revised model based on tomographic EM and our new DNA-PAINT super-resolution data proposing looser arrangement of RyRs. Adapted from [Jayasinghe et al. (2018)](http://dx.doi.org/10.1016/j.celrep.2017.12.045)._
+
+#### Full Project Details
+
+[See here for full project details...]({filename}/pages/openings/phd-bbsrc19.md)
+
+
+## EPSRC funded PhD to combine nanometer resolution imaging and single molecule plasmonic sensors
+
+An exiting PhD opening for a September 2019 start. Applications will open very soon! Please [get in touch]({filename}/pages/contact.md).
+
+**Deadline**: **Nov 2018** <br>
+Title: **A DNA-metal nanoparticle metamaterial for improved single-molecule biosensing** <br>
+**Funding**: EPSRC Metamaterials CDT, RCUK level Fees & Scholarship, for eligible domestic and EU students <br>
+**Apply**: [Contact us]({filename}/pages/contact.md)
+
+This new PhD opportunity is a collaboration between the [Soeller lab](http://soellerlab.ex.ac.uk/) and the [Vollmer lab](https://www.exeter.ac.uk/livingsystems/team/faculty/vollmer/) at the [Living Systems Institute](http://www.exeter.ac.uk/livingsystems/).
+
+<img align="center" width="600"
+src="{filename}/images/research/metamaterials-schematic.png" alt="Au NP DNA Origami">
+
+In this project we will use optical super-resolution imaging, DNA nanotechnology and single-molecule sensors to make a new sensing modality with extreme sensitivity. For this project we are joining forces with the [Vollmer laboratory](https://www.exeter.ac.uk/livingsystems/team/faculty/vollmer/) who are experts in plasmonic single-molecule sensors.
+
+#### Full Project Details
+
+[See here for full project details...]({filename}/pages/openings/phd-metamaterials19.md)
