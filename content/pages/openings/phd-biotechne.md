@@ -7,11 +7,11 @@ Tags: openings, PhD, research
 
 ### A project with industrial partner Bio-Techne
 
-Deadline: Open - we are advertising until we fill this position <br>
+Deadline: 26 Nov 2018 <br>
 Title: **Illuminating mechanisms of RNA transcription by novel optical super-resolution imaging approaches** <br>
 Funding: Fees & Scholarship at RCUK levels, for eligible domestic and EU students<br>
 Start: January 2019 or later - flexible - we want to find the right candidate <br>
-Apply: [Contact us]({filename}/pages/contact.md)
+Apply: [Online via Exeter Website](http://www.exeter.ac.uk/studying/funding/award/?id=3307)
 
 _We have opened applications for this PhD project, interested candidates are highly encouraged to contact the supervisors, [Christian Soeller](http://emps.exeter.ac.uk/physics-astronomy/staff/cs463) or [Steve West](https://www.exeter.ac.uk/livingsystems/team/faculty/west/), to make enquiries and express their interest._
 
@@ -24,7 +24,7 @@ We are inviting applications for a fully-funded PhD studentship to commence in J
 
 Optical super-resolution imaging has come to the forefront of biological research because it combines two critical advantages, (1) the specificity and contrast of fluorescence markers which has revolutionized biological imaging and (2) access to the spatial resolution range of 5-200 nm over which bio-molecular interactions occur and that traditional imaging techniques cannot capture. In this project, we will translate methods previously used for optical super-resolution in fixed cells into live cell preparations, supported by the chemical biology expertise of [Bio-Techne](https://www.bio-techne.com/), our partner in an academia-industry collaboration.
 
-In addition to the focus on method development, where we will exploit reversibly binding markers to implement high-resolution live-cell super-resolution imaging, we will use these new approaches to observe mechanisms of RNA transcription – one of the most fundamental processes in Cell Biology.  Most transcription is carried out by RNA polymerase II (Pol II) but much of what we know about this comes from indirect experiments as we have been historically unable to directly observe the processes taking place.  One of our major research interests is the mechanism by which transcription terminates in a process essential for genome punctuation.  In utilizing our existing super-resolution expertise and developing new live cell capability, we aim to perform the first mechanistic dissection of the process by directly imaging it taking place.  In particular, we aim to test the current model that transcriptional termination is caused by a 5’3’ exonuclease, Xrn2, pursuing a transcribing Pol II via the degradation of its associated nascent RNA.  In addition to its fundamental importance, many of the processes and factors implicated in termination are mis-regulated in diseases including cancer and neurodegenerative disorders.  This is an exciting opportunity at the interface of Biophysics and Molecular Biology underpinned by a strong commercial partner.
+In addition to the focus on method development, where we will exploit reversibly binding markers to implement high-resolution live-cell super-resolution imaging, we will use these new approaches to observe mechanisms of RNA transcription – one of the most fundamental processes in Cell Biology.  Most transcription is carried out by RNA polymerase II (Pol II) but much of what we know about this comes from indirect experiments as we have been historically unable to directly observe the processes taking place.  One of our major research interests is the mechanism by which transcription terminates in a process essential for genome punctuation.  In utilizing our existing super-resolution expertise and developing new live cell capability, we aim to perform the first mechanistic dissection of the process by directly imaging it taking place.  In particular, we aim to test the current model that transcriptional termination is caused by a 5’-to-3’ exonuclease, Xrn2, pursuing a transcribing Pol II via the degradation of its associated nascent RNA.  In addition to its fundamental importance, many of the processes and factors implicated in termination are mis-regulated in diseases including cancer and neurodegenerative disorders.  This is an exciting opportunity at the interface of Biophysics and Molecular Biology underpinned by a strong commercial partner.
 
 #### An Academia-Industry Collaborative Project
 

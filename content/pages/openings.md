@@ -13,11 +13,11 @@ Physics, Medicine and Mathematics.
 
 ### A project with industrial partner Bio-Techne
 
-**Deadline**: Open - we are advertising until we fill this position <br>
+**Deadline**: 26 Nov 2018 <br>
 Title: **Illuminating mechanisms of RNA transcription by novel optical super-resolution imaging approaches** <br>
 **Funding**: Fees & Scholarship at RCUK levels, for eligible domestic and EU students<br>
 **Start**: January 2019 or later - flexible - we want to find the right candidate <br>
-**Apply**: [Contact us]({filename}/pages/contact.md)
+**Apply**: [Online via Exeter Website](http://www.exeter.ac.uk/studying/funding/award/?id=3307)
 
 _We have opened applications for this PhD project, interested candidates are highly encouraged to contact the supervisors, [Christian Soeller](http://emps.exeter.ac.uk/physics-astronomy/staff/cs463) or [Steve West](https://www.exeter.ac.uk/livingsystems/team/faculty/west/), to make enquiries and express their interest._
 
