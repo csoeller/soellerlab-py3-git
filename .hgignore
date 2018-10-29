@@ -11,3 +11,4 @@ pelican-bootstrap3-old
 content/pages/about.md
 notebooks/*.md
 .ipynb_checkpoints
+bibliography/testchapter.bib
