@@ -1,11 +1,9 @@
-Title: PhD - RNA Biology & Super-Resolution Imaging & Industry Partner
+Title: PhD - RNA Biology & Super-Resolution Imaging & Industry Partner (funded)
 Date: 2018-10-12
 Status: published
 Tags: openings, PhD, research
 
-## PhD project on new super-resolution methods applied to RNA biology
-
-### A project with industrial partner Bio-Techne
+### Illuminating mechanisms of RNA transcription by novel optical super-resolution imaging approaches
 
 Deadline: 26 Nov 2018 <br>
 Title: **Illuminating mechanisms of RNA transcription by novel optical super-resolution imaging approaches** <br>

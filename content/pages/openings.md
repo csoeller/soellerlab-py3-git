@@ -9,7 +9,7 @@ the University of Exeter. The new institute provides an exciting
 interdisciplinary environment bringing together leaders in Biology,
 Physics, Medicine and Mathematics.
 
-## Exciting PhD project on new super-resolution methods applied to RNA biology
+## PhD project on new super-resolution methods applied to RNA biology (funded)
 
 ### A project with industrial partner Bio-Techne
 

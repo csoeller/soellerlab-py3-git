@@ -44,11 +44,7 @@ PYME is not limited to super-resolution microscopy. It can also deal
 with various types of confocal data - it provides powerful
 deconvolution and 3D visualisation tools.
 
-For further details go to the
-[python-microscopy site](http://python-microscopy.org/), it has
-detailed instructions
-[how to get PYME](http://python-microscopy.org/doc/Installation/InstallationWithAnaconda.html)
-on your computer.
+The [python-microscopy page]({filename}/pages/software/PYME.md) on this site has full details...
 
 ## PYME bitbucket repositories
 
