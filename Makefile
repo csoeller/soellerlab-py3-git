@@ -107,7 +107,7 @@ stopserver:
 
 publish: clean
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(PUBLISHCONF) $(PELICANOPTS)
-	if [ -f $(OUTPUTDIR)/drafts ]; then rm -r $(OUTPUTDIR)/drafts; fi
+	if [ -d $(OUTPUTDIR)/drafts ]; then rm -r $(OUTPUTDIR)/drafts; fi
 
 biblio:
 	cd bibliography && python bib2md.py && cp publication_list.md $(INPUTDIR)/pages/publications.md

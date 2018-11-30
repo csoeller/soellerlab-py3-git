@@ -42,7 +42,6 @@ Title: **Modifying protein clustering as a novel repair strategy in heart failur
 
 In this project the focus will be on repair strategies for cells in failing hearts. New insight by the participating laboratories suggests that the modulation of protein clustering can boost cellular function and support tissue repair in the heart. We will test the new approaches in stem cell derived models of cardiomyocytes.
 
-
 <img align="center" width="600"
 src="{filename}/images/research/RyRclustersPNAS.png" alt="RyR clusters in super-resolution detail">
 
@@ -77,10 +76,10 @@ __Figure__. _Emerging view of ryanodine recptor (RyR) arrangement within cluster
 
 An exiting PhD opening for a September 2019 start. Applications will open very soon! Please [get in touch]({filename}/pages/contact.md).
 
-**Deadline**: **Nov 2018** <br>
+**Deadline**: **April 2019** <br>
 Title: **A DNA-metal nanoparticle metamaterial for improved single-molecule biosensing** <br>
 **Funding**: EPSRC Metamaterials CDT, RCUK level Fees & Scholarship, for eligible domestic and EU students <br>
-**Apply**: [Contact us]({filename}/pages/contact.md)
+**Apply**: [Online](http://www.exeter.ac.uk/studying/funding/award/?id=3366)
 
 This new PhD opportunity is a collaboration between the [Soeller lab](http://soellerlab.ex.ac.uk/) and the [Vollmer lab](https://www.exeter.ac.uk/livingsystems/team/faculty/vollmer/) at the [Living Systems Institute](http://www.exeter.ac.uk/livingsystems/).
 

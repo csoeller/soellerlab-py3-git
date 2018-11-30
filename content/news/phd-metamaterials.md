@@ -7,14 +7,14 @@ Tags: openings, PhD, research
 <img align="center" width="600"
 src="{filename}/images/research/metamaterials-schematic.png" alt="Au NP DNA Origami">
 
-We have an exiting PhD opening for a September 2019 start. Applications will open very soon! Please [get in touch]({filename}/pages/contact.md).
+We have an exiting PhD opening for a September 2019 start. Applications are open! Please [get in touch]({filename}/pages/contact.md).
 
 ### PhD to combine nanometer resolution imaging and single molecule plasmonic sensors
 
-Deadline: **Nov 2018** <br>
+Deadline: **April 2019** <br>
 Title: **A DNA-metal nanoparticle metamaterial for improved single-molecule biosensing** <br>
 Funding: RCUK level Fees & Scholarship <br>
-Apply: [Online](http://www.exeter.ac.uk/studying/funding/award/?id=3210)
+Apply: [Online](http://www.exeter.ac.uk/studying/funding/award/?id=3366)
 
 This new PhD opportunity is a collaboration between the [Soeller lab](http://soellerlab.ex.ac.uk/) and the [Vollmer lab](https://www.exeter.ac.uk/livingsystems/team/faculty/vollmer/) at the [Living Systems Institute](http://www.exeter.ac.uk/livingsystems/).
 

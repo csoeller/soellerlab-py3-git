@@ -22,7 +22,7 @@ SITEURL = 'http://soellerlab.ex.ac.uk'
 # we have this for the moment so we can experiment with the blog
 # in the development version without accidentally publishing it
 # Note: remove once we want to publish blog entries
-ARTICLE_EXCLUDES = ['blog']
+# ARTICLE_EXCLUDES = ['blog']
 
 # we must prepend the siteurl to our menu links
 MENUITEMS = [(entry[0], SITEURL + entry[1]) for entry in MENUITEMS] 

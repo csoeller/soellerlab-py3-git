@@ -9,6 +9,10 @@ For an up-to-date bibliography with links to PDFs you can visit [Christian Soell
 
 #### 2018
 
+1. Tobias M P Hartwich, Kenny Kwok Hin Chung, Lena K Schroeder, Joerg Bewersdorf, Christian Soeller, David Baddelely. *A stable, high refractive index, switching buffer for super-resolution imaging* (2018), __bioRxiv__, 1-6. <a HREF=http://dx.doi.org/10.1101/465492><i class="ai ai-doi ai-lg"></i></a>
+
+1. Xin Shen, Jonas van den Brink, Yufeng Hou, Dylan Colli, Christopher Le, Terje R Kolstad, Niall Macquaide, Cathrine R Carlson, Peter M Kekenes-Huskey, Andrew G Edwards, Christian Soeller, William E Louch. *3D dSTORM imaging reveals novel detail of ryanodine receptor localization in rat cardiac myocytes* (2018), __The Journal of Physiology__. <a HREF=http://doi.wiley.com/10.1113/JP277360><i class="fa fa-external-link-square fa-lg"></i></a> <a HREF=http://dx.doi.org/10.1113/JP277360><i class="ai ai-doi ai-lg"></i></a>
+
 1. Izzy Jayasinghe, Alexander H Clowsley, Oscar de Langen, Sonali S Sali, David J Crossman, Christian Soeller. *Shining New Light on the Structural Determinants of Cardiac Couplon Function: Insights From Ten Years of Nanoscale Microscopy* (2018), __Frontiers in physiology__, 9:413. <a HREF=https://www.frontiersin.org/article/10.3389/fphys.2018.01472/full><i class="fa fa-external-link-square fa-lg"></i></a> <a HREF=http://dx.doi.org/10.3389/fphys.2018.01472><i class="ai ai-doi ai-lg"></i></a>
 
 1. Christina Elizabth Gulacsy, Richard Meade, Dragana Catici, Christian Soeller, Gheorghe Dan Pantos, Darran Dafydd Jones, Dominic Alibhai, Mark Jepson, Ventsislav Kolev Valev, Jody M Mason, Robert J Williams, Christopher Roland Pudney. *An excitation-energy-dependent molecular beacon detects early-stage neurotoxic A$\beta$ aggregates in the presence of cortical neurons.* (2018), __ACS chemical neuroscience__. <a HREF=http://pubs.acs.org/doi/10.1021/acschemneuro.8b00322><i class="fa fa-external-link-square fa-lg"></i></a> <a HREF=http://dx.doi.org/10.1021/acschemneuro.8b00322><i class="ai ai-doi ai-lg"></i></a>
