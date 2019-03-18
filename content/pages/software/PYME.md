@@ -74,6 +74,12 @@ The extension functionalty is provided by the PYME.config infrastructure. Read t
 and look at our usage in [PYME-extra](http://bitbucket.org/christian_soeller/pyme-extra) to get an
 idea.
 
+### Blogs on PYME tips
+
+We are running a loose sequences of blog entries on PYME tasks and tips.
+
+* [PSF extraction with PYME]({filename}/blog/PYME-psf-extraction.md)
+
 ### PYME bitbucket repositories
 
 We maintain several repositories on [bitbucket](http://bitbucket.org)

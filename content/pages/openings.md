@@ -9,6 +9,27 @@ the University of Exeter. The new institute provides an exciting
 interdisciplinary environment bringing together leaders in Biology,
 Physics, Medicine and Mathematics.
 
+## EPSRC funded PhD to combine nanometer resolution imaging and single molecule plasmonic sensors
+
+An exiting PhD opening for a September 2019 start.
+
+**Deadline**: **7 Jan 2019** <br>
+Title: **DNA scaffolded gold nanoparticles for improved single‐molecule biosensing** <br>
+**Funding**: RCUK level Fees & Scholarship <br>
+**Apply**: [via U Exeter website](http://www.exeter.ac.uk/studying/funding/award/?id=3388) <br>
+**Important Application hints**: On the [page linked above](http://www.exeter.ac.uk/studying/funding/award/?id=3388) select the link named *'Click here to submit an application for Biomedical Physics'* and name our project in your application.
+
+This new PhD opportunity is a collaboration between the [Soeller lab](http://soellerlab.ex.ac.uk/) and the [Vollmer lab](https://www.exeter.ac.uk/livingsystems/team/faculty/vollmer/) at the [Living Systems Institute](http://www.exeter.ac.uk/livingsystems/).
+
+<img align="center" width="600"
+src="{filename}/images/research/metamaterials-schematic.png" alt="Au NP DNA Origami">
+
+In this project we will use optical super-resolution imaging, DNA nanotechnology and single-molecule sensors to make a new sensing modality with extreme sensitivity. For this project we are joining forces with the [Vollmer laboratory](https://www.exeter.ac.uk/livingsystems/team/faculty/vollmer/) who are experts in plasmonic single-molecule sensors.
+
+#### Full Project Details
+
+[See here for full project details...]({filename}/pages/openings/phd-EPSRC-DTP19.md)
+
 ## PhD project on new super-resolution methods applied to RNA biology (funded)
 
 ### A project with industrial partner Bio-Techne
