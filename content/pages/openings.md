@@ -9,7 +9,11 @@ the University of Exeter. The new institute provides an exciting
 interdisciplinary environment bringing together leaders in Biology,
 Physics, Medicine and Mathematics.
 
-## EPSRC funded PhD to combine nanometer resolution imaging and single molecule plasmonic sensors
+# The openings below have now closed.
+
+### Please watch this space for new opportunities that are coming up. 
+
+### EPSRC funded PhD to combine nanometer resolution imaging and single molecule plasmonic sensors
 
 An exiting PhD opening for a September 2019 start.
 
@@ -30,7 +34,7 @@ In this project we will use optical super-resolution imaging, DNA nanotechnology
 
 [See here for full project details...]({filename}/pages/openings/phd-EPSRC-DTP19.md)
 
-## PhD project on new super-resolution methods applied to RNA biology (funded)
+### PhD project on new super-resolution methods applied to RNA biology (funded)
 
 ### A project with industrial partner Bio-Techne
 
@@ -53,7 +57,7 @@ For this project we have partnered with [Bio-Techne](https://www.bio-techne.com/
 
 [See here for full project details...]({filename}/pages/openings/phd-biotechne.md)
 
-## MRC funded PhD on Protein Cluster Biophysics, Stem Cell Repair and Super-Resolution Imaging
+### MRC funded PhD on Protein Cluster Biophysics, Stem Cell Repair and Super-Resolution Imaging
 
 **Deadline**: 23rd November 2018 <br>
 Title: **Modifying protein clustering as a novel repair strategy in heart failure** <br>
@@ -72,7 +76,7 @@ __Figure__. _Magnified views of matching confocal and super-resolution images sh
 
 [See here for full project details...]({filename}/pages/openings/phd-mrc19.md)
 
-## BBSRC funded PhD on Protein Cluster Biophysics and Super-Resolution Imaging
+### BBSRC funded PhD on Protein Cluster Biophysics and Super-Resolution Imaging
 
 **Deadline**: 3rd December 2018 <br>
 Title: **Effects of clustering and phosphorylation on nanoscale receptor signalling** <br>
@@ -93,7 +97,7 @@ __Figure__. _Emerging view of ryanodine recptor (RyR) arrangement within cluster
 [See here for full project details...]({filename}/pages/openings/phd-bbsrc19.md)
 
 
-## EPSRC funded PhD to combine nanometer resolution imaging and single molecule plasmonic sensors
+### EPSRC funded PhD to combine nanometer resolution imaging and single molecule plasmonic sensors
 
 An exiting PhD opening for a September 2019 start. Applications will open very soon! Please [get in touch]({filename}/pages/contact.md).
 
