@@ -95,7 +95,7 @@ BANNER_ALL_PAGES = True
 
 DISPLAY_RECENT_POSTS_ON_SIDEBAR = False
 
-SOCIAL = (('Academic Webpage', 'http://emps.exeter.ac.uk/physics-astronomy/staff/cs463', 'academia'),
+SOCIAL = (('Academic Webpage', 'https://www.exeter.ac.uk/livingsystems/team/profile/index.php?web_id=Christian_Soeller', 'academia'),
           ('Twitter', 'http://twitter.com/SoellerLab'),
           ('LinkedIn', 'http://www.linkedin.com/in/christian-soeller-98167676/'),
           ('ResearchGate', 'https://www.researchgate.net/profile/Christian_Soeller'),
