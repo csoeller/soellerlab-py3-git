@@ -110,6 +110,7 @@ publish: clean
 	if [ -d $(OUTPUTDIR)/drafts ]; then rm -r $(OUTPUTDIR)/drafts; fi
 
 biblio:
+	if ! [ -d "bibliography/bib" ]; then echo "creating directory bibliography/bib" && mkdir bibliography/bib; fi
 	cd bibliography && python bib2md.py zotero-export-cs-biblio.bib && cp publication_list.md $(INPUTDIR)/pages/publications.md
 
 ssh_upload: stopserver publish

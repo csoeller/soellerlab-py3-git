@@ -33,15 +33,14 @@ Exeter <br>
 EX4 4QD <br>
 UK
 
-#### Delivery address (via Physics Stores)
+#### Delivery address (via LSI Stores)
 
 __Please use this address for sending any non-paperwork items (e.g. biological samples, product samples, etc)__ 
 
 To the attention of Christian Soeller <br>
-Physics Stores <br>
-Physics Building <br>
+Living Systems Institute Stores<br>
 University of Exeter <br>
-Stocker Road <br>
+North Park Road <br>
 Exeter <br>
-EX4 4QL <br>
+EX4 4QD <br>
 UK
