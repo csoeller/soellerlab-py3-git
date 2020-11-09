@@ -1,6 +1,47 @@
 Title: Openings
 Slug: openings
 
+## We have 2 current opportunities, applications close in December and January 
+
+
+### The  cardiac  dyad  signalling  proteome  and  its   modulation  during   cardiac protection
+
+**Deadline**: December 7 2020 <br>
+Title: **BBSRC DTP Studentships** <br>
+**Funding**: Fees & Scholarship at RCUK levels, for eligible domestic and EU students<br>
+**Start**: September 2021<br>
+**Apply**: [Online Application via Exeter Website](http://www.exeter.ac.uk/studying/funding/award/?id=3977)
+
+**Please get in touch so we have a chance to advise you on making a strong application**
+
+Increasing  evidence  demonstrates  that  perturbation  of  a  process  in  heart  muscle  called  excitation-contraction coupling leads to cardiac dysfunction. Excitation-contraction coupling is the name given to the process of molecular events that translates the electrical signal, ‘the heartbeat’, that arrives on the cell membrane in the form of the action potential,  into the  release of  intracellularly  stored  calcium  into  the  cytoplasm of  the  heart  cell.  This  process is  vital because calcium activates contraction of heart cells to expel blood from the chambers of the heart and pump it through the circulation. Critical to excitation-contraction coupling are cardiac dyads, membrane microdomains at contact sites between  the  cell  membrane  and  the  sarcoplasmic  reticulum  (a  specialisation  of  the  endoplasmic  reticulum) membrane.
+
+Recently, a molecular study has identified proteins that interact at the dyad and form the “dyad proteome”. Based on this finding we will investigate the dyad proteome in health and protection from disease arising from overexpression of a key dyad protein. We will test the hypothesis that maintaining integrity of protein complexes in the dyad proteome is the basis of protection. In this project a number of new molecular tools as well as novel insights into protein-protein interactions (PPI) in heart cells are coming together to create  qualitatively new understanding. In addition to Ca2+-signalling,   components   of   the   dyad   proteome   are   involved   in   controlling   membrane   curvature,   protein phosphorylation and lipid interactions all of which will be studied by super-resolution microscopy.
+
+
+<img style="float:left; border-right:8px solid white" width="600"
+src="{filename}/images/research/dyad-proteome.png" alt="Dyad proteome">
+
+
+Supervisor CS laboratory has recently introduced a new super-resolution imaging method to detect and localise PPI insitu.  Co-supervisor  DB  discovered  and  first  described  a  key  protein-complex  in  the  dyad  proteome,  the  myospryn complex.  Using  the  combined  approaches  in  their  laboratories  we  will  use  the  in-situ  PPI  imaging  approach  to quantitatively  determine  the  changes  in  the  dyad  proteome  in  a  mouse  model  of  heart  failure  and  the  effect  of protection with the support of international collaborator Xander Wehrens (XW). XW has used overexpression of the protein junctophilin-2 (JPH2) to protect against heart failure in a mouse model.    The new approach will map the changes in the dyad proteome for the first time and provide the first comprehensive molecular view of the role of PPIs in maintaining normal cardiac physiology. Successful application of the  multidisciplinary  approaches  to this important  aspect of cardiovascular health has the potential to generate high impact outputs and will form a strong skill base for the candidate’s further career.
+
+### Investigation of protein-protein interactions that regulate RNA processing in the nucleus using novel super-resolution microscopy
+
+
+**Deadline**: 11 Januar 2021 <br>
+Title: **LSI Studentships** <br>
+**Funding**: Places are fully funded with funding also available for overseas applicants.  This includes payment of tuition fees, a personal stipend for 3.5 years (currently £15,009 per year 2019/20) and a training budget<br>
+**Start**: September 2021<br>
+**Apply**: [Online Application via Exeter Website](http://www.exeter.ac.uk/studying/funding/award/?id=4030)
+
+The project is a collaboration between the [Soeller lab](http://soellerlab.ex.ac.uk/) and the [West lab](https://www.exeter.ac.uk/livingsystems/team/profile/index.php?web_id=Steven_West) at the [Living Systems Institute](http://www.exeter.ac.uk/livingsystems/).
+
+<img style="float:left; border-right:8px solid white" width="600"
+src="{filename}/images/research/nuclear-condensates.png" alt="Nucleus condensates">
+
+
+## LSI
+
 <img style="float:left; border-right:12px solid white" width="220"
 src="{filename}/images/logos/LSI-Logo-patterns.png" alt="LSI"> Our laboratory is
 based at the
@@ -8,72 +49,3 @@ based at the
 the University of Exeter. The new institute provides an exciting
 interdisciplinary environment bringing together leaders in Biology,
 Physics, Medicine and Mathematics.
-
-## We have 2 current opportunities, applications close in January 
-
-### Expansion microscopy of cellular signalling structures
-
-**Deadline**: January 30 2020 <br>
-Title: **EPSRC DTP Studentships** <br>
-**Funding**: Fees & Scholarship at RCUK levels, for eligible domestic and EU students<br>
-**Start**: September 2020<br>
-**Apply**: [Exeter DTP website](https://www.exeter.ac.uk/doctoralcollege/funding/fundedcentres/epsrcdtp)
-
-**Please get in touch so we have a chance to advise you on making a strong application**
-
-<img style="float:left; border-right:8px solid white" width="300"
-src="{filename}/images/research/RyRclustersExpansion.png" alt="RyR cluster expansion">
-
-In modern biophysics it is critical to resolve molecular detail to reveal molecular mechanisms. For this reason new types of high resolution microscopy, often termed super-resolution microscopy, have had a big impact on biophysics. In this project we will pursue a recently proposed alternative way to see near-molecular detail. Classical microscopy generates an enlarged image of a sample. The new modality termed ‘[expansion microscopy](http://dx.doi.org/10.1021/acsnano.8b08742)’ replaces this with a more radical alternative - it physically magnifies, i.e. swells, the sample. This is achieved by attaching a biological sample to a gel matrix which is then expanded by swelling it (the gel material is similar to the gels used in nappies to absorb fluids). This can achieve up to 10-fold expansion in each direction, a remarkable physical magnification that increases effective resolution from ~250 nm to 25 nm using conventional microscopes - a scale that makes macromolecular complexes in biological samples accessible. We will develop these new methods to investigate the structure of microscopic chemical signalling systems, called “nanodomains”, in heart cells which are critical for the forceful contraction of the heart.
-
-__Figure 1__. _With expansion microscopy a heart cell is examined using a fluorescence microscope and reveals microscopic clusters of proteins that act as signalling nano-domains. We achieve fully molecular resolution, so that we can count individual receptors which is key to understanding the biophysics of signalling._
-
-
-### LSI PhD Studentship Program
-
-**Deadline**: 6 Januar 2020 <br>
-Title: **LSI Studentships** <br>
-**Funding**: Places are fully funded with funding also available for overseas applicants.  This includes payment of tuition fees, a personal stipend for 3.5 years (currently £15,009 per year 2019/20) and a training budget<br>
-**Start**: September 2020<br>
-**Apply**: [Online Application via Exeter Website](http://www.exeter.ac.uk/studying/funding/award/?id=3784)
-
-The LSI has opened its first call for its new interdisciplinary PhD programme for the autumn 2020 intake.  We wish to recruit the best and most imaginative students from across the full range of disciplines to join our thriving community of over 60 PhD students.
-
-<img align="center" width="600"
-src="{filename}/images/research/LSI-studentships.png" alt="LSI Studentship Program">
-
-
-Students can shape their own projects. [Suggestions for projects](https://www.exeter.ac.uk/livingsystems/research/lsistudentships/projectexamples/) which I supervise or co-supervise include:
-
-*A chemically inducible dimerisation system to monitor and control protein-protein interactions in live cells using super-resolution microscopy* <br>
-*Christian Soeller, Steven West and Steffen Scholpp*
-
-*Using CRISPR-Cas9 genome editing and single molecule imaging to trace RNA fate – one molecule at a time* <br>
-*Steven West and Christian Soeller*
-
-These two projects are closely linked to an exciting new research project, funded by the BBSRC, between the Soeller and West labs in the LSI.
-
-#### Full Project Details
-
-[See here for full project details...](https://www.exeter.ac.uk/livingsystems/research/lsistudentships/)
-
-## The opportunity below has now closed
-
-### BBSRC funded PhD on Protein Cluster Biophysics and Super-Resolution Imaging
-
-**Deadline**: 2nd December 2019 <br>
-Title: **Effects of clustering and phosphorylation on nanoscale receptor signalling** <br>
-**Funding**: BBSRC, Fees & Scholarship at RCUK levels, for eligible domestic and EU students<br>
-**Start**: September 2020<br>
-**Apply**: [Online Application via Exeter Website](http://www.exeter.ac.uk/studying/funding/award/?id=3720)
-
-We intend to focus on understanding the basis of the dependence of protein excitability on protein clustering properties. For this we will combine quantitative imaging via super-resolution (Soeller lab) and correlation imaging (Scholpp lab) with new biological insights following the discovery of the role of the protein myospryn for RyR clustering by Prof. Derek Blake's lab in Cardiff .
-
-<img align="center" width="600"
-src="{filename}/images/research/RyRclustersCellReportScheme.png" alt="RyR cluster models">
-
-__Figure__. _Emerging view of ryanodine recptor (RyR) arrangement within clusters. (A) The classic model of a regular arrangement of RyRs. (B) The revised model based on tomographic EM and our new DNA-PAINT super-resolution data proposing looser arrangement of RyRs. Adapted from [Jayasinghe et al. (2018)](http://dx.doi.org/10.1016/j.celrep.2017.12.045)._
-
-#### Full Project Details
-
-[See here for full project details...]({filename}/pages/openings/phd-bbsrc20.md)
