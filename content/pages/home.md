@@ -5,10 +5,8 @@ Save_as: index.html
 
 #### _Current Opportunities_ - PhD student positions starting in 2021
 
-<img style="float:left; border-right:18px solid white" width="80" src="{filename}/images/logos/Achtung.png" alt="Attention"> We have several [exciting openings]({filename}/pages/openings.md) to work with us on state-of-the-art imaging approaches in the
-Living Systems Institute. The institute provides an exciting interdisciplinary
-environment bringing together leaders in Biology, Physics, Medicine and Mathematics. [Check it out]({filename}/pages/openings.md). Please
-[get in touch]({filename}/pages/contact.md) for inquiries.
+<img style="float:left; border-right:18px solid white" width="80" src="{filename}/images/logos/Achtung.png" alt="Attention"> We currently have two fully funded [PhD openings]({filename}/pages/openings.md) to work with us on state-of-the-art imaging approaches in the Living Systems Institute. The institute provides an exciting interdisciplinary
+environment bringing together leaders in Biology, Physics, Medicine and Mathematics. [Check it out]({filename}/pages/openings.md). Please [get in touch]({filename}/pages/contact.md) for inquiries.
 
 ### The Laboratory
 
