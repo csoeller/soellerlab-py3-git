@@ -19,11 +19,17 @@ For an up-to-date bibliography with links to PDFs you can visit [Christian Soell
 
 1. Anna Oliveras, Clara Serrano-Novillo, Cristina Moreno, Alicia de la Cruz, Carmen Valenzuela, Christian Soeller, Núria Comes, Antonio Felipe. *The unconventional biogenesis of Kv7.1-KCNE1 complexes* (2020), __Science Advances__, 6:eaay4472. <a HREF=https://advances.sciencemag.org/content/6/14/eaay4472><i class="fa fa-external-link-square fa-lg"></i></a> <a HREF=http://dx.doi.org/10.1126/sciadv.aay4472><i class="ai ai-doi ai-lg"></i></a>
 
-1. Alexander H. Clowsley, William T. Kaufhold, Tobias Lutz, Anna Meletiou, Lorenzo Di Michele, Christian Soeller. *Repeat DNA-PAINT suppresses background and non-specific signals in optical nanoscopy* (2020), __bioRxiv__, 2020.04.24.059410. <a HREF=https://www.biorxiv.org/content/10.1101/2020.04.24.059410v1><i class="fa fa-external-link-square fa-lg"></i></a> <a HREF=http://dx.doi.org/10.1101/2020.04.24.059410><i class="ai ai-doi ai-lg"></i></a>
-
 1. Alexander H. Clowsley, William T. Kaufhold, Tobias Lutz, Anna Meletiou, Lorenzo Di Michele, Christian Soeller. *Detecting nanoscale distribution of protein pairs by proximity dependent super-resolution microscopy* (2020), __bioRxiv__, 591081. <a HREF=https://www.biorxiv.org/content/10.1101/591081v2><i class="fa fa-external-link-square fa-lg"></i></a> <a HREF=http://dx.doi.org/10.1101/591081><i class="ai ai-doi ai-lg"></i></a>
 
 1. Alexander H Clowsley, William T Kaufhold, Tobias Lutz, Anna Meletiou, Lorenzo Di Michele, Christian Soeller. *Detecting nanoscale distribution of protein pairs by proximity dependent super-resolution microscopy* (2020), __Journal of the American Chemical Society__. <a HREF=https://doi.org/10.1021/jacs.9b03418><i class="fa fa-external-link-square fa-lg"></i></a> <a HREF=http://dx.doi.org/10.1021/jacs.9b03418><i class="ai ai-doi ai-lg"></i></a>
+
+1. Agne Tilunaite, David Ladd, Hilary Hunt, Christian Soeller, Hywel Roderick, Edmund J. Crampin, Vijay Rajagopal. *Ca2+ release via IP3Rs increases RyR mediated Ca2+ spark frequency in ventricular cardiomyocytes without altering spark amplitude and duration* (2020), __bioRxiv__, 2020.08.13.249144. <a HREF=https://www.biorxiv.org/content/10.1101/2020.08.13.249144v1><i class="fa fa-external-link-square fa-lg"></i></a> <a HREF=http://dx.doi.org/10.1101/2020.08.13.249144><i class="ai ai-doi ai-lg"></i></a>
+
+1. Zach Marin, Michael Graff, Andrew E. S. Barentine, Christian Soeller, Kenny Kwok Hin Chung, Lukas A. Fuentes, David Baddeley. *PYMEVisualize: an open-source tool for exploring 3D super-resolution data* (2020), __bioRxiv__, 2020.09.29.315671. <a HREF=https://www.biorxiv.org/content/10.1101/2020.09.29.315671v1><i class="fa fa-external-link-square fa-lg"></i></a> <a HREF=http://dx.doi.org/10.1101/2020.09.29.315671><i class="ai ai-doi ai-lg"></i></a>
+
+1. Alexander H. Clowsley, William T. Kaufhold, Tobias Lutz, Anna Meletiou, Lorenzo Di Michele, Christian Soeller. *Repeat DNA-PAINT suppresses background and non-specific signals in optical nanoscopy* (2020), __bioRxiv__, 2020.04.24.059410. <a HREF=https://www.biorxiv.org/content/10.1101/2020.04.24.059410v2><i class="fa fa-external-link-square fa-lg"></i></a> <a HREF=http://dx.doi.org/10.1101/2020.04.24.059410><i class="ai ai-doi ai-lg"></i></a>
+
+1. Michael L. Dawes, Christian Soeller, Steffen Scholpp. *Studying molecular interactions in the intact organism: fluorescence correlation spectroscopy in the living zebrafish embryo* (2020), __Histochemistry and Cell Biology__, 154:507-519. <a HREF=https://doi.org/10.1007/s00418-020-01930-5><i class="fa fa-external-link-square fa-lg"></i></a> <a HREF=http://dx.doi.org/10.1007/s00418-020-01930-5><i class="ai ai-doi ai-lg"></i></a>
 
 
 #### 2019

@@ -10,6 +10,9 @@ from bibtexparser.bibdatabase import BibDatabase
 from bibtexparser.customization import convert_to_unicode
 import sys
 
+import logging
+logging.basicConfig()
+
 if len(sys.argv) > 1:
     bibdb = sys.argv[1]
 else:
