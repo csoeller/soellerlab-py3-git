@@ -7,6 +7,11 @@ For an up-to-date bibliography with links to PDFs you can visit [Christian Soell
 
 
 
+#### 2021
+
+1. Alexander H. Clowsley, William T. Kaufhold, Tobias Lutz, Anna Meletiou, Lorenzo Di Michele, Christian Soeller. *Repeat DNA-PAINT suppresses background and non-specific signals in optical nanoscopy* (2021), __Nature Communications__, 12:501. <a HREF=https://www.nature.com/articles/s41467-020-20686-z><i class="fa fa-external-link-square fa-lg"></i></a> <a HREF=http://dx.doi.org/10.1038/s41467-020-20686-z><i class="ai ai-doi ai-lg"></i></a>
+
+
 #### 2020
 
 1. Ammarah Tariq, Lucy Green, J Charles G Jeynes, Christian Soeller, James G Wakefield. *In vitro reconstitution of branching microtubule nucleation* (2020), __eLife__, 9:e49769. <a HREF=https://doi.org/10.7554/eLife.49769><i class="fa fa-external-link-square fa-lg"></i></a> <a HREF=http://dx.doi.org/10.7554/eLife.49769><i class="ai ai-doi ai-lg"></i></a>
@@ -30,6 +35,10 @@ For an up-to-date bibliography with links to PDFs you can visit [Christian Soell
 1. Alexander H. Clowsley, William T. Kaufhold, Tobias Lutz, Anna Meletiou, Lorenzo Di Michele, Christian Soeller. *Repeat DNA-PAINT suppresses background and non-specific signals in optical nanoscopy* (2020), __bioRxiv__, 2020.04.24.059410. <a HREF=https://www.biorxiv.org/content/10.1101/2020.04.24.059410v2><i class="fa fa-external-link-square fa-lg"></i></a> <a HREF=http://dx.doi.org/10.1101/2020.04.24.059410><i class="ai ai-doi ai-lg"></i></a>
 
 1. Michael L. Dawes, Christian Soeller, Steffen Scholpp. *Studying molecular interactions in the intact organism: fluorescence correlation spectroscopy in the living zebrafish embryo* (2020), __Histochemistry and Cell Biology__, 154:507-519. <a HREF=https://doi.org/10.1007/s00418-020-01930-5><i class="fa fa-external-link-square fa-lg"></i></a> <a HREF=http://dx.doi.org/10.1007/s00418-020-01930-5><i class="ai ai-doi ai-lg"></i></a>
+
+1. David Baddeley, Andrew Barentine, Zach Marin, Christian Soeller, Michael Graff, Leo Balduf, Kenny Chung, Mick Philips, David Pinto, Tobias Hartwich, Ruisheng Lin, Yu Lin, David Padron. *python-microscopy/python-microscopy: Release 20.11.25* (2020). <a HREF=https://doi.org/10.5281/zenodo.4289804><i class="fa fa-external-link-square fa-lg"></i></a> <a HREF=http://dx.doi.org/10.5281/zenodo.4289804><i class="ai ai-doi ai-lg"></i></a>
+
+1. Christian Soeller. *csoeller/PYME-extra: PYME-extra-20.11.20-release* (2020). <a HREF=https://doi.org/10.5281/zenodo.4282831><i class="fa fa-external-link-square fa-lg"></i></a> <a HREF=http://dx.doi.org/10.5281/zenodo.4282831><i class="ai ai-doi ai-lg"></i></a>
 
 
 #### 2019
