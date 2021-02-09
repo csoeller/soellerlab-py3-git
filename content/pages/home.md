@@ -5,17 +5,33 @@ Save_as: index.html
 
 #### _Current Opportunities_ - PhD student positions starting in 2021
 
-<img style="float:left; border-right:18px solid white" width="80" src="{filename}/images/logos/Achtung.png" alt="Attention"> We currently have two fully funded [PhD openings]({filename}/pages/openings.md) to work with us on state-of-the-art imaging approaches in the Living Systems Institute. The institute provides an exciting interdisciplinary
-environment bringing together leaders in Biology, Physics, Medicine and Mathematics. [Check it out]({filename}/pages/openings.md). Please [get in touch]({filename}/pages/contact.md) for inquiries.
+<img style="float:left; border-right:18px solid white" width="80"
+src="{filename}/images/logos/Achtung.png" alt="Attention"> We currently have two fully funded [PhD
+openings]({filename}/pages/openings.md) to work with us on state-of-the-art imaging approaches in
+the Living Systems Institute. The LSI provides an exciting interdisciplinary environment
+bringing together leaders in Biology, Physics, Medicine and Mathematics.
+
+The first project [Investigation of protein-protein interactions that regulate RNA processing in the
+nucleus using novel super-resolution microscopy]({filename}/pages/openings.md) uses new imaging
+capabilities to address a major question on RNA regulation, topical with the advent of mRNA
+vaccines.
+
+The second project [3D super-resolution probing of DNA nanostructures using deep
+learning]({filename}/pages/openings.md) combines super-resolution imaging, DNA nanotechnology,
+nanoscale mechanics and machine learning for a state-of-the-art investigation into how we can design
+and use new nanoscale structure.
+
+Please [get in touch]({filename}/pages/contact.md) for inquiries.
 
 ### The Laboratory
 
-Our laboratory is based at the [Living Systems Institute](http://www.exeter.ac.uk/livingsystems/) at the University of
-Exeter. We use advanced imaging approaches to address a variety of biophysical questions. Imaging in general, and
-fluorescence imaging in particular, is playing an increasingly important role in Biophysics and Biology. Our ability
-to come up with mechanistic descriptions of living systems depends to a large extent on our ability to _see_ the
-components of a cell, an organism, etc. Our laboratory therefore applies and develops state-of-the-art
-microscopy methods to improve our understanding of the world around us.
+Our laboratory is based at the [Living Systems Institute](http://www.exeter.ac.uk/livingsystems/) at
+the University of Exeter. We use advanced imaging approaches to address a variety of biophysical
+questions. Imaging in general, and fluorescence imaging in particular, is playing an increasingly
+important role in Biophysics and Biology. Our ability to come up with mechanistic descriptions of
+living systems depends to a large extent on our ability to _see_ the components of a cell, an
+organism, etc. Our laboratory therefore applies and develops state-of-the-art microscopy methods to
+improve our understanding of the world around us.
 
 <img width="700" src="{filename}/images/research/TIRF-myocyte700pix.png" alt="cardiac biophysics">
 
