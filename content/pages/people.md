@@ -5,28 +5,19 @@ Slug: people
 
 
 #### Christian Soeller, PhD - Lab Head
-##### Professor of Physical Cell Biology
-
-<img width="150" src="{filename}/images/people/Ruisheng.jpg" alt="Ruisheng Lin"/>
-
-#### Ruisheng Lin, PhD - Research Fellow
-
-<img width="150" src="{filename}/images/people/Alex-new.jpg" alt="Alexander Clowsley"/>
-
-#### Alexander Clowsley, PhD - Assistant Research Fellow
+##### Professor of Cardiac Physiology
 
 <img width="150" src="{filename}/images/people/Anna.jpg" alt="Anna Meletiou"/>
 
-#### Anna Meletiou - PhD Student
+#### Anna Meletiou, PhD - Postdoctoral Fellow
+
+<img width="150" src="{filename}/images/people/Alex-new.jpg" alt="Alexander Clowsley"/>
+
+#### Alexander Clowsley, PhD - Postdoctoral Fellow
 
 <img width="150" src="{filename}/images/people/evelina.jpg" alt="Evelina Lučinskaitė"/>
 
 #### Evelina Lučinskaitė - PhD Student
-
-<img width="150" src="{filename}/images/people/Ammarah.jpg" alt="Ammarah Tariq"/>
-
-#### Ammarah Tariq - PhD Student
-##### (Primary Supervisor [James Wakefield](http://www.thewakefieldlab.com/))
 
 ## Alumni
 
@@ -37,3 +28,7 @@ Slug: people
 <img width="150" src="{filename}/images/people/Tobias.jpg" alt="Tobias Lutz"/>
 
 #### Tobias Lutz, PhD - former PhD Student
+
+<img width="150" src="{filename}/images/people/Ruisheng.jpg" alt="Ruisheng Lin"/>
+
+#### Ruisheng Lin, PhD - Research Fellow

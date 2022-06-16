@@ -1,18 +1,13 @@
-Title: Biophysics and Advanced Imaging
+Title: Cardiac Nanosignalling
 URL: ../
 Save_as: index.html
 
-
-## _WE HAVE MOVED_
-
-### The Soeller Lab moved to the University of Bern at the end of 2021
+### The Soeller Lab at the University of Bern
 
 <img style="float:left; border-right:18px solid white" width="80"
 src="{filename}/images/logos/Achtung.png" alt="Attention"> The Soeller
-Lab is now based at the
-[Institute of Physiology](https://physiologie.unibe.ch/)
-at the University of Bern. We will be focusing on cardiac physiology
-while also keeping our current focus on super-resolution imaging.
+Lab focuses on cardiac physiology
+while also having a stromng interest in optical super-resolution imaging.
 
 We have a number of positions at all levels to fill (postdoc, PhD,
 technician). While separate advertisements will be forthcoming we
@@ -22,23 +17,21 @@ Please [get in touch](https://physiologie.unibe.ch/~soeller/) for inquiries.
 
 ### The Laboratory
 
-Our laboratory **was** based at the [Living Systems Institute](http://www.exeter.ac.uk/livingsystems/) at
-the University of Exeter. It is now based at the
+Our laboratory is based at the
 [Institute of Physiology](https://physiologie.unibe.ch/)
 at the University of Bern.
 
-We use advanced imaging approaches to address a variety of biophysical
-questions. Imaging in general, and fluorescence imaging in particular, is playing an increasingly
-important role in Biophysics and Biology. Our ability to come up with mechanistic descriptions of
-living systems depends to a large extent on our ability to _see_ the components of a cell, an
+We use advanced imaging approaches to address a variety of
+questions in cardiac physiology. Imaging in general, and fluorescence imaging in particular, is playing an increasingly
+important role in Biophysics and Biology. Our ability to come up with mechanistic descriptions of physiological processes depends to a large extent on our ability to _see_ the components of a cell, an
 organism, etc. Our laboratory therefore applies and develops state-of-the-art microscopy methods to
 improve our understanding of the world around us.
 
 <img width="700" src="{filename}/images/research/TIRF-myocyte700pix.png" alt="cardiac biophysics">
 
-### Biophysics
+### Physiology
 
-Our work is directly motivated by the goal to improve our knowledge of the biophysics and physiology of specific biological systems. Our primary focus is on cardiac muscle biophysics with a unifying theme to elucidate the relationship between nanoscale cell morphology and calcium signalling.
+Our work is directly motivated by the goal to improve our knowledge of the physiology and biophysics of cardiac calcium regulation. Our primary focus is on cardiac ventricular muscle with a unifying theme to elucidate the relationship between nanoscale cell morphology and calcium signalling.
 
 <img width="700" src="{filename}/images/research/myocyte-gallery800pix.png" alt="cardiac biophysics">
 

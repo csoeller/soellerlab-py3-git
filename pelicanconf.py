@@ -79,7 +79,7 @@ MENUITEMS = (
 
 
 BANNER = "images/mybanner.png"
-BANNER_SUBTITLE = u"Biophysics and Advanced Imaging @ <a HREF=\"http://www.exeter.ac.uk/livingsystems/\">LSI Exeter</a>."
+BANNER_SUBTITLE = u"Cardiac Calcium Regulation and Nanosignalling @<a HREF=\"http://physiologie.unibe.ch/\">Physiology Bern</a>."
 BANNER_ALL_PAGES = True
 
 
@@ -95,7 +95,7 @@ BANNER_ALL_PAGES = True
 
 DISPLAY_RECENT_POSTS_ON_SIDEBAR = False
 
-SOCIAL = (('Academic Webpage', 'https://www.exeter.ac.uk/livingsystems/team/profile/index.php?web_id=Christian_Soeller', 'academia'),
+SOCIAL = (('Academic Webpage', 'https://physiologie.unibe.ch/~soeller/', 'academia'),
           ('Twitter', 'http://twitter.com/SoellerLab'),
           ('LinkedIn', 'http://www.linkedin.com/in/christian-soeller-98167676/'),
           ('ResearchGate', 'https://www.researchgate.net/profile/Christian_Soeller'),
