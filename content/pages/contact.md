@@ -1,13 +1,16 @@
 Title: Contact
 Slug: contact
 
+## _WE HAVE MOVED_
+
+#### The Soeller Lab moved to the University of Bern at the end of 2021
+
+The details below are not current anymore, with the exception of links to University of Bern details.
+
 ### Email<a name="email"></a>
 
-You can contact Chistian Soeller by email to
-
-c.soeller __at__ __usual-exeter-university-domain__
-
-If this is too obscure, please look up his email on his [academic web page](http://emps.exeter.ac.uk/physics-astronomy/staff/cs463).
+You can still contact Chistian Soeller via his previous Exeter email. However, preferred is now contact via the [Bern email](https://physiologie.unibe.ch/~soeller/), see
+details at his Bern [academic web page](https://physiologie.unibe.ch/~soeller/).
 
 ### Telephone<a name="phone"></a>
 

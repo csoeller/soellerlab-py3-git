@@ -3,30 +3,31 @@ URL: ../
 Save_as: index.html
 
 
-#### _Current Opportunities_ - PhD student positions starting in 2021
+## _WE HAVE MOVED_
+
+### The Soeller Lab moved to the University of Bern at the end of 2021
 
 <img style="float:left; border-right:18px solid white" width="80"
-src="{filename}/images/logos/Achtung.png" alt="Attention"> We currently have two fully funded [PhD
-openings]({filename}/pages/openings.md) to work with us on state-of-the-art imaging approaches in
-the Living Systems Institute. The LSI provides an exciting interdisciplinary environment
-bringing together leaders in Biology, Physics, Medicine and Mathematics.
+src="{filename}/images/logos/Achtung.png" alt="Attention"> The Soeller
+Lab is now based at the
+[Institute of Physiology](https://physiologie.unibe.ch/)
+at the University of Bern. We will be focusing on cardiac physiology
+while also keeping our current focus on super-resolution imaging.
 
-The first project [Investigation of protein-protein interactions that regulate RNA processing in the
-nucleus using novel super-resolution microscopy]({filename}/pages/openings.md) uses new imaging
-capabilities to address a major question on RNA regulation, topical with the advent of mRNA
-vaccines.
+We have a number of positions at all levels to fill (postdoc, PhD,
+technician). While separate advertisements will be forthcoming we
+encourage anybody who is interested to get in touch proactively.
 
-The second project [3D super-resolution probing of DNA nanostructures using deep
-learning]({filename}/pages/openings.md) combines super-resolution imaging, DNA nanotechnology,
-nanoscale mechanics and machine learning for a state-of-the-art investigation into how we can design
-and use new nanoscale structure.
-
-Please [get in touch]({filename}/pages/contact.md) for inquiries.
+Please [get in touch](https://physiologie.unibe.ch/~soeller/) for inquiries.
 
 ### The Laboratory
 
-Our laboratory is based at the [Living Systems Institute](http://www.exeter.ac.uk/livingsystems/) at
-the University of Exeter. We use advanced imaging approaches to address a variety of biophysical
+Our laboratory **was** based at the [Living Systems Institute](http://www.exeter.ac.uk/livingsystems/) at
+the University of Exeter. It is now based at the
+[Institute of Physiology](https://physiologie.unibe.ch/)
+at the University of Bern.
+
+We use advanced imaging approaches to address a variety of biophysical
 questions. Imaging in general, and fluorescence imaging in particular, is playing an increasingly
 important role in Biophysics and Biology. Our ability to come up with mechanistic descriptions of
 living systems depends to a large extent on our ability to _see_ the components of a cell, an
