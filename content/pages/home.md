@@ -4,16 +4,20 @@ Save_as: index.html
 
 ### The Soeller Lab at the University of Bern
 
-<img style="float:left; border-right:18px solid white" width="80"
-src="{filename}/images/logos/Achtung.png" alt="Attention"> The Soeller
+The Soeller
 Lab focuses on cardiac physiology
-while also having a stromng interest in optical super-resolution imaging.
+while also having a strong interest in optical super-resolution imaging.
+
+#### Current Openings
+
+<img style="float:left; border-right:18px solid white" width="80"
+src="{filename}/images/logos/Achtung.png" alt="Attention">
 
 We have a number of positions at all levels to fill (postdoc, PhD,
-technician). While separate advertisements will be forthcoming we
-encourage anybody who is interested to get in touch proactively.
+technician).
 
-Please [get in touch](https://physiologie.unibe.ch/~soeller/) for inquiries.
+While separate advertisements will be forthcoming we
+encourage anybody who is interested to get in touch. Please [contact us](https://physiologie.unibe.ch/~soeller/) for inquiries.
 
 ### The Laboratory
 
@@ -33,7 +37,7 @@ improve our understanding of the world around us.
 
 Our work is directly motivated by the goal to improve our knowledge of the physiology and biophysics of cardiac calcium regulation. Our primary focus is on cardiac ventricular muscle with a unifying theme to elucidate the relationship between nanoscale cell morphology and calcium signalling.
 
-<img width="700" src="{filename}/images/research/myocyte-gallery800pix.png" alt="cardiac biophysics">
+<img width="700" src="{filename}/images/research/myocyte-gallery-red-hot-cyan.png" alt="cardiac biophysics">
 
 ### Advanced Imaging
 

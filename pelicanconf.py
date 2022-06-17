@@ -9,7 +9,7 @@ SITEURL = ''
 
 PATH = 'content'
 
-TIMEZONE = 'Europe/London'
+TIMEZONE = 'Europe/Bern'
 
 DEFAULT_LANG = u'en'
 
@@ -100,7 +100,7 @@ SOCIAL = (('Academic Webpage', 'https://physiologie.unibe.ch/~soeller/', 'academ
           ('LinkedIn', 'http://www.linkedin.com/in/christian-soeller-98167676/'),
           ('ResearchGate', 'https://www.researchgate.net/profile/Christian_Soeller'),
           ('Google Scholar', 'http://scholar.google.co.uk/citations?hl=en&user=ByDRW44AAAAJ'),
-          ('BitBucket', 'http://bitbucket.org/christian_soeller/'),)
+          ('GitHub', 'https://github.com/csoeller'),)
 
 #SOCIAL = (('You can add links in your config file', '#'),
 #          ('Another social link', '#'),)

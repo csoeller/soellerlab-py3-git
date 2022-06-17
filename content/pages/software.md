@@ -46,24 +46,27 @@ deconvolution and 3D visualisation tools.
 
 The [python-microscopy page]({filename}/pages/software/PYME.md) on this site has full details...
 
-## PYME bitbucket repositories
+## PYME github repositories
 
-We maintain several repositories on [bitbucket](http://bitbucket.org)
+We maintain several repositories on [github](https://github.com/)
 that contain our acquisition, analysis and control codes for various
 types of microscopy.
 
-* <i class="fa fa-bitbucket fa-lg"></i>
-  [python-microscopy-exeter](http://bitbucket.org/christian_soeller/python-microscopy-exeter) -
-  a fork of David's python-microscopy with our changes
-* <i class="fa fa-bitbucket fa-lg"></i>
-  [pyme-extra](http://bitbucket.org/christian_soeller/pyme-extra) -
+* <i class="fa fa-github fa-lg"></i>
+  [python-microscopy](https://github.com/csoeller/python-microscopy) -
+  a fork of David's python-microscopy with our pull requests etc
+* <i class="fa fa-github fa-lg"></i>
+  [pyme-extra](https://github.com/csoeller/PYME-extra) -
   extra plugins for PYME, including qPAINT, camera map tools, etc
-* <i class="fa fa-bitbucket fa-lg"></i>
-  [pyme-exeter-siteconfig](http://bitbucket.org/christian_soeller/pyme-exeter-siteconfig) -
+* <i class="fa fa-github fa-lg"></i>
+  [pyme-cs-siteconfig](https://github.com/csoeller/PYME-cs-siteconfig) -
   PYME site specific init files and custom protocols
-* <i class="fa fa-bitbucket fa-lg"></i>
-  [python-microscopy-osxapps](https://bitbucket.org/christian_soeller/python-microscopy-osxapps) -
-  an alternative mac app interface for PYME using the
+  * <i class="fa fa-github fa-lg"></i>
+  [pyme-extra-sample-data](https://github.com/csoeller/PYME-extra-sample-data) -
+  PYME sample data for tests and illustrations plus some code examples
+* <i class="fa fa-github fa-lg"></i>
+  [pyme-apps](https://github.com/csoeller/PYME-apps) -
+  macos lightweight app wrappers for PYME using the
   [platypus](http://www.sveinbjorn.org/platypus) app builder
 
 
