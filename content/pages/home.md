@@ -35,7 +35,7 @@ improve our understanding of the world around us.
 
 ### Physiology
 
-Our work is directly motivated by the goal to improve our knowledge of the physiology and biophysics of cardiac calcium regulation. Our primary focus is on cardiac ventricular muscle with a unifying theme to elucidate the relationship between nanoscale cell morphology and calcium signalling.
+Our work is motivated by the goal to improve our knowledge of the physiology and biophysics of cardiac calcium regulation. Our primary focus is on cardiac ventricular muscle with a unifying theme to elucidate the relationship between nanoscale cell morphology and calcium signalling.
 
 <img width="700" src="{filename}/images/research/myocyte-gallery-red-hot-cyan.png" alt="cardiac biophysics">
 

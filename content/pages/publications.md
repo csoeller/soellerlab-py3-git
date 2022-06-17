@@ -7,9 +7,26 @@ For an up-to-date bibliography with links to PDFs you can visit [Christian Soell
 
 
 
+#### 2022
+
+1. Xin Shen, Jonas van den Brink, Anna Bergan-Dahl, Terje R. Kolstad, Einar S. Norden, Yufeng Hou, Martin Laasmaa, Ann P. Quick, Emil K. S. Espe, Ivar Sjaastad, Xander H. T. Wehrens, Andrew G. Edwards, Christian Soeller, William E. Louch. *Prolonged β-Adrenergic Stimulation Disperses Ryanodine Receptor Clusters in Cardiomyocytes: Implications for Heart Failure* (2022), __bioRxiv__, 2022.02.18.481024. <a HREF=https://www.biorxiv.org/content/10.1101/2022.02.18.481024v1><i class="fa fa-external-link-square fa-lg"></i></a> <a HREF=http://dx.doi.org/10.1101/2022.02.18.481024><i class="ai ai-doi ai-lg"></i></a>
+
+
 #### 2021
 
 1. Alexander H. Clowsley, William T. Kaufhold, Tobias Lutz, Anna Meletiou, Lorenzo Di Michele, Christian Soeller. *Repeat DNA-PAINT suppresses background and non-specific signals in optical nanoscopy* (2021), __Nature Communications__, 12:501. <a HREF=https://www.nature.com/articles/s41467-020-20686-z><i class="fa fa-external-link-square fa-lg"></i></a> <a HREF=http://dx.doi.org/10.1038/s41467-020-20686-z><i class="ai ai-doi ai-lg"></i></a>
+
+1. Narima Eerqing, Sivaraman Subramanian, Jesús Rubio, Tobias Lutz, Hsin-Yu Wu, Janet Anders, Christian Soeller, Frank Vollmer. *Comparing transient oligonucleotide hybridization kinetics using DNA-PAINT and optoplasmonic single-molecule sensing on gold nanorods* (2021), __arXiv:2103.07520 [cond-mat, physics:physics]__. <a HREF=http://arxiv.org/abs/2103.07520><i class="fa fa-external-link-square fa-lg"></i></a>
+
+1. Zach Marin, Michael Graff, Andrew E. S. Barentine, Christian Soeller, Kenny Kwok Hin Chung, Lukas A. Fuentes, David Baddeley. *PYMEVisualize: an open-source tool for exploring 3D super-resolution data* (2021), __Nature Methods__, 18:582-584. <a HREF=https://www.nature.com/articles/s41592-021-01165-9><i class="fa fa-external-link-square fa-lg"></i></a> <a HREF=http://dx.doi.org/10.1038/s41592-021-01165-9><i class="ai ai-doi ai-lg"></i></a>
+
+1. Michelle L. Munro, Isabelle van Hout, Hamish M. Aitken-Buck, Ramanen Sugunesegran, Krishna Bhagwat, Philip J. Davis, Regis R. Lamberts, Sean Coffey, Christian Soeller, Peter P. Jones. *Human Atrial Fibrillation Is Not Associated With Remodeling of Ryanodine Receptor Clusters* (2021), __Frontiers in Cell and Developmental Biology__. <a HREF=https://www.frontiersin.org/articles/10.3389/fcell.2021.633704/full><i class="fa fa-external-link-square fa-lg"></i></a> <a HREF=http://dx.doi.org/10.3389/fcell.2021.633704><i class="ai ai-doi ai-lg"></i></a>
+
+1. Narima Eerqing, Sivaraman Subramanian, Jesús Rubio, Tobias Lutz, Hsin-Yu Wu, Janet Anders, Christian Soeller, Frank Vollmer. *Comparing Transient Oligonucleotide Hybridization Kinetics Using DNA-PAINT and Optoplasmonic Single-Molecule Sensing on Gold Nanorods* (2021), __ACS Photonics__, 7.
+
+1. Petar O. Nikiforov, Beata Hejja, Richard Chahwan, Christian Soeller, Fabrice Gielen, Catalin Chimerel. *Functional Phenotype Flow Cytometry: On Chip Sorting of Individual Cells According to Responses to Stimuli* (2021), __Advanced Biology__, 5:2100220. <a HREF=https://onlinelibrary.wiley.com/doi/abs/10.1002/adbi.202100220><i class="fa fa-external-link-square fa-lg"></i></a> <a HREF=http://dx.doi.org/10.1002/adbi.202100220><i class="ai ai-doi ai-lg"></i></a>
+
+1. Yufeng Hou, Jizhong Bai, Xin Shen, Oscar de Langen, Amy Li, Sean Lal, Cristobal G. dos Remedios, David Baddeley, Peter N. Ruygrok, Christian Soeller, David J. Crossman. *Nanoscale Organisation of Ryanodine Receptors and Junctophilin-2 in the Failing Human Heart* (2021), __Frontiers in Physiology__, 12:1649. <a HREF=https://www.frontiersin.org/article/10.3389/fphys.2021.724372><i class="fa fa-external-link-square fa-lg"></i></a> <a HREF=http://dx.doi.org/10.3389/fphys.2021.724372><i class="ai ai-doi ai-lg"></i></a>
 
 
 #### 2020
@@ -39,6 +56,8 @@ For an up-to-date bibliography with links to PDFs you can visit [Christian Soell
 1. David Baddeley, Andrew Barentine, Zach Marin, Christian Soeller, Michael Graff, Leo Balduf, Kenny Chung, Mick Philips, David Pinto, Tobias Hartwich, Ruisheng Lin, Yu Lin, David Padron. *python-microscopy/python-microscopy: Release 20.11.25* (2020). <a HREF=https://doi.org/10.5281/zenodo.4289804><i class="fa fa-external-link-square fa-lg"></i></a> <a HREF=http://dx.doi.org/10.5281/zenodo.4289804><i class="ai ai-doi ai-lg"></i></a>
 
 1. Christian Soeller. *csoeller/PYME-extra: PYME-extra-20.11.20-release* (2020). <a HREF=https://doi.org/10.5281/zenodo.4282831><i class="fa fa-external-link-square fa-lg"></i></a> <a HREF=http://dx.doi.org/10.5281/zenodo.4282831><i class="ai ai-doi ai-lg"></i></a>
+
+1. Hilary Hunt, Agnė Tilūnaitė, Greg Bass, Christian Soeller, H. Llewelyn Roderick, Vijay Rajagopal, Edmund J. Crampin. *Ca2+ Release via IP3 Receptors Shapes the Cardiac Ca2+ Transient for Hypertrophic Signaling* (2020), __Biophysical Journal__, 119:1178-1192. <a HREF=https://www.sciencedirect.com/science/article/pii/S0006349520305968><i class="fa fa-external-link-square fa-lg"></i></a> <a HREF=http://dx.doi.org/10.1016/j.bpj.2020.08.001><i class="ai ai-doi ai-lg"></i></a>
 
 
 #### 2019

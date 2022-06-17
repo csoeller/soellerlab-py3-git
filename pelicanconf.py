@@ -9,7 +9,7 @@ SITEURL = ''
 
 PATH = 'content'
 
-TIMEZONE = 'Europe/Bern'
+TIMEZONE = 'Europe/Berlin'
 
 DEFAULT_LANG = u'en'
 
@@ -71,6 +71,7 @@ MENUITEMS = (
     ('People','/pages/people.html'),
     ('Software', '/pages/software.html'),
     ('Openings', '/pages/openings.html'),
+    ('Contact', '/pages/contact.html'),
 )
 
 ##################################
