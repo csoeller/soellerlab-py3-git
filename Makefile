@@ -17,7 +17,7 @@ SSH_PORT=22
 SSH_USER=csoelle
 SSH_TARGET_DIR=/home/csoelle/html
 
-SMB_TARGET_DIR=/volumes/soellerlab
+SMB_TARGET_DIR=/volumes/groupsoellerlabsite$$
 
 S3_BUCKET=my_s3_bucket
 
@@ -120,7 +120,7 @@ ssh_upload: stopserver publish
 	scp -P $(SSH_PORT) -r $(OUTPUTDIR)/* $(SSH_USER)@$(SSH_HOST):$(SSH_TARGET_DIR)
 
 smb_mount:
-	if ! [ -d $(SMB_TARGET_DIR) ]; then osascript -e "try" -e 'mount volume "smb://cs463@secamsmb.ex.ac.uk/people/staff/soellerlab"' -e "end try"; fi
+	if ! [ -d $(SMB_TARGET_DIR) ]; then osascript -e "try" -e 'mount volume "smb://soeller@pc150.physio.unibe.ch/groupsoellerlabsite$$"' -e "end try"; fi
 
 smb_unmount:
 	if [ -d $(SMB_TARGET_DIR) ]; then diskutil unmount $(SMB_TARGET_DIR); fi

@@ -75,7 +75,11 @@ body {
 }
 
 a, a:hover {
-    color: inherit;
+    color: blue;
+}
+
+a:visited {
+    color: green;
 }
 
 .entry-content a {
@@ -211,6 +215,7 @@ figure.floatcenter, .align-center {
 #banner .btn, #banner .intro {
     margin-left: 4px;
 }
+
 
 /* Solutions for mobile and small screens  */
 @media (max-width: 650px) {

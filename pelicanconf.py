@@ -80,7 +80,7 @@ MENUITEMS = (
 
 
 BANNER = "images/mybanner.png"
-BANNER_SUBTITLE = u"Cardiac Calcium Regulation and Nanosignalling @<a HREF=\"http://physiologie.unibe.ch/\">Physiology Bern</a>."
+BANNER_SUBTITLE = u"Cardiac Calcium Regulation and Nanosignalling @Physiology Bern"
 BANNER_ALL_PAGES = True
 
 

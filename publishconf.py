@@ -11,7 +11,10 @@ sys.path.append(os.curdir)
 from pelicanconf import *
 
 # eventual target URL
-SITEURL = 'http://soellerlab.ex.ac.uk'
+SITEURL = 'https://physiologie.unibe.ch/~soeller/labsite'
+
+# eventual target URL
+#SITEURL = 'http://soellerlab.ex.ac.uk'
 
 # for testing via empslocal
 #SITEURL = 'http://empslocal.ex.ac.uk/people/staff/soellerlab'
