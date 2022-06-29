@@ -75,11 +75,11 @@ body {
 }
 
 a, a:hover {
-    color: blue;
+    color: #0645AD;
 }
 
 a:visited {
-    color: green;
+    color: #0B0080;
 }
 
 .entry-content a {

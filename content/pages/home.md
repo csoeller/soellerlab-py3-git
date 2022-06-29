@@ -13,11 +13,9 @@ while also having a strong interest in optical super-resolution imaging.
 <img style="float:left; border-right:18px solid white" width="80"
 src="{filename}/images/logos/Achtung.png" alt="Attention">
 
-We have a number of positions at all levels to fill (postdoc, PhD,
-technician).
+We have a number of positions at all levels to fill (postdoc, PhD).
 
-While separate advertisements will be forthcoming we
-encourage anybody who is interested to get in touch. Please [contact us](https://physiologie.unibe.ch/~soeller/) for inquiries.
+We encourage anybody who is interested to look at the [position descriptions]({filename}/pages/openings.md). Please [contact us](https://physiologie.unibe.ch/~soeller/) for any inquiries.
 
 ### The Laboratory
 
