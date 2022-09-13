@@ -285,6 +285,108 @@ For an up-to-date bibliography with links to PDFs you can visit [Christian Soell
 1. Hui Peng, Lijuan Zhang, Christian Soeller, Jadranka Travas-Sejdic. *Preparation of water-soluble CdTe/CdS core/shell quantum dots with enhanced photostability* (2007), __Journal of Luminescence__, 127:721-726. <a HREF=http://www.sciencedirect.com/science/article/B6TJH-4NJ7WGS-1/2/a200c9126b06648960c92e6244e3b79a><i class="fa fa-external-link-square fa-lg"></i></a>
 
 
+#### 2006
+
+1. Mark B Cannell, Angus McMorland, Christian Soeller. *Image Enhancement by Deconvolution* (2006), __Handbook of Biological Confocal Microscopy__, 488-500. <a HREF=http://dx.doi.org/10.1007/978-0-387-45524-2_25><i class="fa fa-external-link-square fa-lg"></i></a>
+
+1. T Kjällman H Peng J Travas-Sejdic C Soeller. *DNA-sensors based on functionalized conducting polymers and quantum dots* (2006), __Proceedings of SPIE__, 6416:641602-1-12.
+
+1. Ye Chen-Izu, Stacey L McCulle, Chris W Ward, Christian Soeller, Bryan M Allen, Cal Rabang, Mark B Cannell, C William Balke, Leighton T Izu. *Three-dimensional distribution of ryanodine receptor clusters in cardiac myocytes* (2006), __Biophysical Journal__, 91:1-13. <a HREF=http://www.sciencedirect.com/science/article/pii/S0006349506717039><i class="fa fa-external-link-square fa-lg"></i></a> <a HREF=http://dx.doi.org/10.1529/biophysj.105.077180><i class="ai ai-doi ai-lg"></i></a>
+
+1. Mark B Cannell, D J Crossman, Christian Soeller. *Effect of changes in action potential spike configuration, junctional sarcoplasmic reticulum micro-architecture and altered t-tubule structure in human heart failure* (2006), __Journal of muscle research and cell motility__, 27:297-306. <a HREF=http://dx.doi.org/10.1007/s10974-006-9089-y><i class="ai ai-doi ai-lg"></i></a>
+
+1. Hui Peng, Christian Soeller, Jadranka Travas-Sejdic. *A novel cationic conjugated polymer for homogeneous fluorescence-based DNA detection* (2006), __Chemical communications (Cambridge, England)__, 35:3735-3737. <a HREF=http://www.rsc.org/publishing/journals/CC/article.asp?doi=b607293c><i class="fa fa-external-link-square fa-lg"></i></a> <a HREF=http://dx.doi.org/10.1039/b607293c><i class="ai ai-doi ai-lg"></i></a>
+
+1. Hui Peng, Christian Soeller, Mark B Cannell, Graham A Bowmaker, Ralph P Cooney, Jadranka Travas-Sejdic. *Electrochemical detection of DNA hybridization amplified by nanoparticles* (2006), __Biosensors and Bioelectronics__, 21:1727-1736. <a HREF=http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6TFC-4H7T0JX-1&_user=140507&_coverDate=03%2F15%2F2006&_rdoc=1&_fmt=&_orig=search&_sort=d&view=c&_acct=C000011498&_version=1&_urlVersion=0&_userid=140507&md5=01531a3582c00681e683f2ef942c7a7c><i class="fa fa-external-link-square fa-lg"></i></a> <a HREF=http://dx.doi.org/10.1016/j.bios.2005.08.011><i class="ai ai-doi ai-lg"></i></a>
+
+
+#### 2005
+
+1. Carol J H Wang, Srdjan M Vlajkovic, Gary D Housley, Norbert Braun, Herbert Zimmermann, Simon C Robson, Jean Sévigny, Christian Soeller, Peter R Thorne. *C-terminal splicing of NTPDase2 provides distinctive catalytic properties, cellular distribution and enzyme regulation* (2005), __The Biochemical journal__, 385:729-736. <a HREF=http://www.biochemj.org/bj/385/bj3850729.htm><i class="fa fa-external-link-square fa-lg"></i></a> <a HREF=http://dx.doi.org/10.1042/BJ20040852><i class="ai ai-doi ai-lg"></i></a>
+
+1. Hui Peng, Christian Soeller, Nicholas A Vigar, Paul A Kilmartin, Mark B Cannell, Graham A Bowmaker, Ralph P Cooney, Jadranka Travas-Sejdic. *Label-free electrochemical DNA sensor based on functionalised conducting copolymer* (2005), __Biosensors and Bioelectronics__, 20:1821-1828. <a HREF=http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6TFC-4D4D2T0-2&_user=140507&_coverDate=03%2F15%2F2005&_rdoc=1&_fmt=&_orig=search&_sort=d&view=c&_acct=C000011498&_version=1&_urlVersion=0&_userid=140507&md5=cf554d371dbb2c2ae2dd354515c566d7><i class="fa fa-external-link-square fa-lg"></i></a> <a HREF=http://dx.doi.org/10.1016/j.bios.2004.07.013><i class="ai ai-doi ai-lg"></i></a>
+
+1. M B Cannell, M D Jacobs, Paul J Donaldson, C SoeLLER. *Application of two-photon flash photolysis to measure microscopic diffusion and calcium fluxes* (2005), __Proceedings of SPIE__, 5714:116. <a HREF=http://link.aip.org/link/?PSISDG/5714/116/1><i class="fa fa-external-link-square fa-lg"></i></a>
+
+
+#### 2004
+
+1. Mark B Cannell, M D Jacobs, Paul J Donaldson, Christian Soeller. *Probing microscopic diffusion by 2-photon flash photolysis: measurement of isotropic and anisotropic diffusion in lens fiber cells* (2004), __Microscopy Research and Technique__, 63:50-57. <a HREF=http://www3.interscience.wiley.com/cgi-bin/abstract/106571010/ABSTRACT?CRETRY=1&SRETRY=0><i class="fa fa-external-link-square fa-lg"></i></a> <a HREF=http://dx.doi.org/10.1002/jemt.10422><i class="ai ai-doi ai-lg"></i></a>
+
+1. Paul J Donaldson, Angus C Grey, B Rachelle Merriman-Smith, Aran M G Sisley, Christian Soeller, Mark B Cannell, Marc D Jacobs. *Functional imaging: new views on lens structure and function* (2004), __Clin Exp Pharmacol Physiol__, 31:890-895. <a HREF=http://www.blackwell-synergy.com/links/doi/10.1111%2Fj.1440-1681.2004.04099.x><i class="fa fa-external-link-square fa-lg"></i></a> <a HREF=http://dx.doi.org/10.1111/j.1440-1681.2004.04099.x><i class="ai ai-doi ai-lg"></i></a>
+
+1. Marc D Jacobs, Christian Soeller, Aran M G Sisley, Mark B Cannell, Paul J Donaldson. *Gap junction processing and redistribution revealed by quantitative optical measurements of connexin46 epitopes in the lens* (2004), __Investigative ophthalmology & visual science__, 45:191-199. <a HREF=http://www.iovs.org/content/45/1/191.short><i class="fa fa-external-link-square fa-lg"></i></a>
+
+1. Christian Soeller, Mark B Cannell. *Analysing cardiac excitation-contraction coupling with mathematical models of local control* (2004), __Progress in biophysics and molecular biology__, 85:141-162. <a HREF=http://www.sciencedirect.com/science/article/pii/S0079610704000148><i class="fa fa-external-link-square fa-lg"></i></a> <a HREF=http://dx.doi.org/10.1016/j.pbiomolbio.2003.12.006><i class="ai ai-doi ai-lg"></i></a>
+
+
+#### 2003
+
+1. Marc D Jacobs, Paul J Donaldson, Mark B Cannell, Christian Soeller. *Resolving morphology and antibody labeling over large distances in tissue sections* (2003), __Microscopy Research and Technique__, 62:83-91. <a HREF=http://www3.interscience.wiley.com/cgi-bin/abstract/104553965/ABSTRACT><i class="fa fa-external-link-square fa-lg"></i></a> <a HREF=http://dx.doi.org/10.1002/jemt.10360><i class="ai ai-doi ai-lg"></i></a>
+
+1. Christian Soeller, M D Jacobs, K T Jones, G C R Ellis-Davies, Paul J Donaldson, Mark B Cannell. *Application of two-photon flash photolysis to reveal intercellular communication and intracellular Ca2+ movements* (2003), __Journal of biomedical optics__, 8:418-427. <a HREF=http://dx.doi.org/10.1117/1.1582468><i class="ai ai-doi ai-lg"></i></a>
+
+1. Christian Soeller, MB Cannell. *A numerical study of ryanodine receptor gating in the cardiac diad and comparison with experimental data* (2003), __Biophysical Journal__, 84:432A.
+
+
+#### 2002
+
+1. Mark B Cannell, Christian Soeller. *A mode of thought in excitation-contraction coupling* (2002), __Biophysical Journal__, 83:1-2. <a HREF=http://www.biophysj.org.ezproxy.auckland.ac.nz/cgi/content/full/83/1/1><i class="fa fa-external-link-square fa-lg"></i></a>
+
+1. Christian Soeller, Mark B Cannell. *Estimation of the sarcoplasmic reticulum Ca2+ release flux underlying Ca2+ sparks* (2002), __Biophysical Journal__, 82:2396-2414. <a HREF=http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1302031/><i class="fa fa-external-link-square fa-lg"></i></a>
+
+
+#### 2001
+
+1. H Wan, H L Winton, Christian Soeller, G W Taylor, D C Gruenert, P J Thompson, Mark B Cannell, G A Stewart, D R Garrod, C Robinson. *The transmembrane protein occludin of epithelial tight junctions is a functional target for serine peptidases from faecal pellets of Dermatophagoides pteronyssinus* (2001), __Clinical and experimental allergy : journal of the British Society for Allergy and Clinical Immunology__, 31:279-294. <a HREF=http://www.blackwell-synergy.com.ezproxy.auckland.ac.nz/doi/abs/10.1046/j.1365-2222.2001.00970.x><i class="fa fa-external-link-square fa-lg"></i></a>
+
+1. M D Jacobs, Christian Soeller, Mark B Cannell, Paul J Donaldson. *Quantifying changes in gap junction structure as a function of lens fiber cell differentiation* (2001), __Cell communication & adhesion__, 8:349-353. <a HREF=http://www.ncbi.nlm.nih.gov.ezproxy.auckland.ac.nz/sites/entrez?db=PubMed&cmd=retrieve&dopt=AbstractPlus&list_uids=12064617><i class="fa fa-external-link-square fa-lg"></i></a>
+
+
+#### 2000
+
+1. S Hollingworth, Christian Soeller, S M Baylor, Mark B Cannell. *Sarcomeric Ca2+ gradients during activation of frog skeletal muscle fibres imaged with confocal and two-photon microscopy* (2000), __The Journal of Physiology__, 526 Pt 3:551-560.
+
+
+#### 1999
+
+1. Christian Soeller, Mark B Cannell. *Two-photon microscopy: imaging in scattering samples and three-dimensionally resolved flash photolysis* (1999), __Microscopy Research and Technique__, 47:182-195. <a HREF=http://dx.doi.org/10.1002/(SICI)1097-0029(19991101)47:3<182::AID-JEMT4>3.0.CO;2-4><i class="ai ai-doi ai-lg"></i></a>
+
+1. G D Housley, R Kanjhan, N P Raybould, D Greenwood, S G Salih, L Järlebark, L D Burton, V C Setz, Mark B Cannell, Christian Soeller, D L Christie, S Usami, A Matsubara, H Yoshie, A F Ryan, P R Thorne. *Expression of the P2X(2) receptor subunit of the ATP-gated ion channel in the cochlea: implications for sound transduction and auditory neurotransmission* (1999), __The Journal of neuroscience : the official journal of the Society for Neuroscience__, 19:8377-8388.
+
+1. Mark B Cannell, Christian Soeller. *Mechanisms underlying calcium sparks in cardiac muscle* (1999), __The Journal of General Physiology__, 113:373-376.
+
+1. H Wan, H L Winton, Christian Soeller, E R Tovey, D C Gruenert, P J Thompson, G A Stewart, G W Taylor, D R Garrod, Mark B Cannell, C Robinson. *Der p 1 facilitates transepithelial allergen delivery by disruption of tight junctions* (1999), __The Journal of clinical investigation__, 104:123-133. <a HREF=http://www.jci.org/cgi/content/full/104/1/123><i class="fa fa-external-link-square fa-lg"></i></a>
+
+1. Christian Soeller, Mark B Cannell. *Examination of the transverse tubular system in living cardiac rat myocytes by 2-photon microscopy and digital image-processing techniques* (1999), __Circulation Research__, 84:266-275.
+
+
+#### 1998
+
+1. A Dillmann, T Wetzel, C SoeLLER. *Interferometric measurement and tomography of the density field of supersonic jets* (1998), __Experiments in fluids__, 25:375-387. <a HREF=http://link.springer.com/article/10.1007/s003480050244><i class="fa fa-external-link-square fa-lg"></i></a>
+
+1. K T Jones, Christian Soeller, Mark B Cannell. *The passage of Ca2+ and fluorescent markers between the sperm and egg after fusion in the mouse* (1998), __Development (Cambridge, England)__, 125:4627-4635. <a HREF=http://dev.biologists.org/content/125/23/4627.short><i class="fa fa-external-link-square fa-lg"></i></a>
+
+1. Mark B Cannell, Christian Soeller. *Sparks of interest in cardiac excitation-contraction coupling* (1998), __Trends in pharmacological sciences__, 19:16-20. <a HREF=http://www.sciencedirect.com.ezproxy.auckland.ac.nz/science?_ob=ArticleURL&_udi=B6T1K-3S1PP54-B&_user=140507&_rdoc=1&_fmt=&_orig=search&_sort=d&view=c&_acct=C000011498&_version=1&_urlVersion=0&_userid=140507&md5=0b0073c0be811c227fdf53342675382d><i class="fa fa-external-link-square fa-lg"></i></a>
+
+
+#### 1997
+
+1. Mark B Cannell, Christian Soeller. *Numerical analysis of ryanodine receptor activation by L-type channel activity in the cardiac muscle diad* (1997), __Biophysical Journal__, 73:112-122. <a HREF=http://www.sciencedirect.com/science/article/pii/S0006349597780512><i class="fa fa-external-link-square fa-lg"></i></a>
+
+1. Christian Soeller, Mark B Cannell. *Numerical simulation of local calcium movements during L-type calcium channel gating in the cardiac diad* (1997), __Biophysical Journal__, 73:97-111.
+
+
+#### 1996
+
+1. Christian Soeller, Mark B Cannell. *Construction of a two-photon microscope and optimisation of illumination pulse duration* (1996), __Pflügers Archiv European Journal of Physiology__, 432:555-561. <a HREF=http://www.springerlink.com.ezproxy.auckland.ac.nz/content/9bunfypcdckkl11v/><i class="fa fa-external-link-square fa-lg"></i></a>
+
+
+#### 1994
+
+1. Christian Soeller, R. Wenskus, P. Middendorf, G. E. A. Meier, F. Obermeier. *Interferometric tomography for flow visualization of density fields in supersonic jets and convective flow* (1994), __Applied Optics__, 33:2921-2932. <a HREF=https://www.osapublishing.org/ao/abstract.cfm?uri=ao-33-14-2921><i class="fa fa-external-link-square fa-lg"></i></a> <a HREF=http://dx.doi.org/10.1364/AO.33.002921><i class="ai ai-doi ai-lg"></i></a>
+
+
 #### Older Publications
 
 You can find older publications via [Christian Soeller's Google Scholar page](http://scholar.google.co.uk/citations?hl=en&user=ByDRW44AAAAJ).
