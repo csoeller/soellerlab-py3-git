@@ -27,6 +27,13 @@ Skills/qualifications sought
   
 We will train the successful candidate in super-resolution imaging, confocal imaging and related methods for functional and molecular imaging. Experiments will involve cell isolation of ventricular myocytes from intact hearts, functional calcium imaging of live myocytes [1] and super-resolution imaging of protein distribution and nanoscale signalling structures [2] in these myocytes.
 
+<img style="float:right; border-left:18px solid white" width="600"
+src="{filename}/images/research/RyR-dispersion.png" alt="RyR dispersion">
+
+__Figure__. _Dispersion of the cardiac ryanodine receptor (RyR) is observed in heart failure (HF) using super-resolution imaging. This leads to slower Ca<sup>2+</sup> sparks and can be mimicked in myocytes from normal hearts by prolonged RyR phosphorylation. In this project we intend to further dissect the regulation of RyR dispersion and its functional sequelae, both in normal cells and cells from hearts in failure. Modified from [1]._
+
+
+
 #### References
 
 1. Xin Shen, Jonas van den Brink, Anna Bergan-Dahl, Terje R Kolstad, Einar S Norden, Yufeng Hou, Martin Laasmaa, Yuriana Aguilar-Sanchez, Ann P Quick, Emil KS Espe, Ivar Sjaastad, Xander HT Wehrens, Andrew G Edwards, Christian Soeller, William E Louch. *Prolonged β-adrenergic stimulation disperses ryanodine receptor clusters in cardiomyocytes and has implications for heart failure* (2022), __eLife__, 11:e77725. <a HREF=https://elifesciences.org/articles/77725><i class="fa fa-external-link-square fa-lg"></i></a> <a HREF=http://dx.doi.org/10.7554/eLife.77725><i class="ai ai-doi ai-lg"></i></a>
@@ -35,21 +42,21 @@ We will train the successful candidate in super-resolution imaging, confocal ima
 
 ### PhD Fellowship in Super-resolution Imaging of Cardiac Structure and Function
 
-**Deadline**: Applications will be considered from 30 July 2021 <br>
+**Deadline**: Applications will be considered from September 2022 <br>
 **Funding**: Places are fully funded for 4 years.  This includes payment of tuition fees, a personal stipend for up to 4 years and a training budget.<br>
 **Start date**: October 2022 or shortly thereafter (by mutual agreement)<br>
 **How to Apply**: Please send applications by email to [Prof. Christian Soeller](mailto:christian.soeller@unibe.ch).
 
-With this PhD project we aim to establish, explore and further develop super-resolution imaging approaches for practical super-resolution imaging of cardiac protein distributions in fixed and live myocytes. A particular focus we want to place on new machine learning approaches for SMLM analysis. This includes both localisation by machine learning based approaches and analysis of super-resolution data sets for receptor clustering.
+With this PhD project we aim to further develop super-resolution imaging approaches for practical super-resolution imaging of cardiac protein distributions in fixed and live myocytes. A particular focus will be on exploring new machine learning approaches for SMLM analysis. This includes both localisation by machine learning based approaches and analysis of super-resolution data sets for receptor clustering.
 
 Skills/qualifications sought
 
   - a masters degree in Physiology, Biology, Biomedical Science, Biophysics, Data Science or a closely related field
-  - ideally some interest in both computing and some level of imaging experimentation
+  - ideally some interest in both computing and also imaging experiments
 
 ### PhD Fellowship in Computer Modelling of Calcium Signalling in Cardiac Myocytes
 
-**Deadline**: Applications will be considered from 30 July 2021 <br>
+**Deadline**: Applications will be considered from September 2022 <br>
 **Funding**: Places are fully funded for 4 years.  This includes payment of tuition fees, a personal stipend for up to 4 years and a training budget.<br>
 **Start date**: October 2022 or shortly thereafter (by mutual agreement)<br>
 **How to Apply**: Please send applications by email to [Prof. Christian Soeller](mailto:christian.soeller@unibe.ch).
@@ -71,7 +78,10 @@ Our laboratory is based at the
 [Institute for Physiology](https://physiologie.unibe.ch/) at
 the University of Bern. We use advanced imaging technologies to obtain new insights in physiology and calcium signalling.
 
+<img src="{filename}/images/misc/Bern-GSchanzeV1.jpg" alt="View over Bern">
+
 ## City of Bern
 
 The University and Institute are based in the beautiful city of Bern which is the capital of Switzerland. The city itself is worth a visit at any time of the year, particularly handy if you happen to live here. Bern and surrounding areas provide ample opportunity to achieve a good work life balance. This includes biking, skiing, swimming, walking, ice skating and other (non-sport) leisure activities all within short distance from Bern which is very well connected throughout the region by an excellent public transport system.
 
+<img src="{filename}/images/misc/Bern-shots-CS1.png" alt="View over Bern">
