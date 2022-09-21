@@ -4,7 +4,7 @@ Status: published
 Slug: news/srep-paper-trabeculae
 Tags: heart, imaging
 
-<img width="500" src="{filename}/images/research/human-tabeculae-SREP.png" alt="Human Trabeculae">
+<img width="500" src="{static}/images/research/human-tabeculae-SREP.png" alt="Human Trabeculae">
 
 We recently published a paper that shows relationships between
 structure and function of cardiac muscle strips, known in the field as

@@ -14,7 +14,7 @@ Apply: [Online via Exeter Website](http://www.exeter.ac.uk/studying/funding/awar
 _We have opened applications for this PhD project, interested candidates are highly encouraged to contact the supervisors, [Christian Soeller](http://emps.exeter.ac.uk/physics-astronomy/staff/cs463) or [Steve West](https://www.exeter.ac.uk/livingsystems/team/faculty/west/), to make enquiries and express their interest._
 
 <img align="center" width="800"
-src="{filename}/images/research/POLII-PAINT-for-web-page-03.png" alt="Pol II super-resolution imaging">
+src="{static}/images/research/POLII-PAINT-for-web-page-03.png" alt="Pol II super-resolution imaging">
 
 We are inviting applications for a fully-funded PhD studentship to commence in January 2019 or as soon as possible thereafter, to be held at the Living Systems Institute at its Streatham Campus.  For eligible students the studentship will cover UK/EU tuition fees plus an annual tax-free stipend.
 
@@ -37,7 +37,7 @@ The project will be conducted in a collaboration between the Soeller and West la
 The ideal candidate has some experience in fluorescence imaging, quantitative analysis and basic biological techniques. The candidate will have a degree in Biophysics, Biology or a related area with a strong quantitative focus. We will provide training for all skills essential to this project including super-resolution imaging, molecular biology, data analysis and scientific writing. The successful candidate will have the opportunity to work in a highly interdisciplinary environment and interact with a highly motivated postgraduate cohort.
 
 <img style="float:right; border-left:18px solid white" width="500"
-src="{filename}/images/research/POLII-PAINT-for-web-page-02.png" alt="Pol II super-resolution detail">
+src="{static}/images/research/POLII-PAINT-for-web-page-02.png" alt="Pol II super-resolution detail">
 
 __Figure__. _The figure shows the distribution of Pol II in the nucleus of a HCT116 cell. The diffraction limited data is shown in green and the super-resolution data obtained using the DNA-PAINT method that is fully established in our laboratories is shown in red-orange. The magnified inset demonstrates the small distances between adjacent Pol II sites which appear to form clusters within some areas of the nucleus. In this project we will extend this methodology from the fixed preparation shown here into live cells and also look simultaneously at Pol II and the exonuclease Xrn2._
 

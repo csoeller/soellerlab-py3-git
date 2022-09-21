@@ -5,7 +5,7 @@ Slug: news/phd-award-2019
 Tags: PhD, research, graduation
 
 <img align="center" width="600"
-src="{filename}/images/news/graduation_small.jpg" alt="Carl, Toby, CS academic regalia">
+src="{static}/images/news/graduation_small.jpg" alt="Carl, Toby, CS academic regalia">
 
 Last Friday we had the December 2019 graduation ceremony which
 included the awards ceremony for Carl Harrison and Tobias Lutz who
@@ -15,7 +15,7 @@ again, this time in fancy attire and stylish hats.
 
 ### Pictures from the awards ceremony
 
-<img width="600" src="{filename}/images/news/5ofus.jpg" alt="Alex, Carl, Anna, Toby, CS"/>
+<img width="600" src="{static}/images/news/5ofus.jpg" alt="Alex, Carl, Anna, Toby, CS"/>
 
 Anna (in the middle, between Carl and Toby) used her very fancy DSLR to take excellent photos which I use
 here to good effect.
@@ -33,12 +33,12 @@ under his belt and has been rapidly growing into his postdoctoral role in
 the lab.
 
 <img align="center" width="500"
-src="{filename}/images/news/toby_CS.jpg" alt="Toby, CS academic regalia">
+src="{static}/images/news/toby_CS.jpg" alt="Toby, CS academic regalia">
 
 Enjoying a laugh with Toby.
 
 <img align="center" width="600"
-src="{filename}/images/news/4ofus.jpg" alt="Alex, Carl, Toby, CS academic regalia">
+src="{static}/images/news/4ofus.jpg" alt="Alex, Carl, Toby, CS academic regalia">
 
 The 3 PhDs who completed under my supervision (as main
 supervisor) since moving to Exeter - Alex, Carl and Toby.

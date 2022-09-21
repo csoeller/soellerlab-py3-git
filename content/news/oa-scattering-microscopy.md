@@ -4,7 +4,7 @@ Status: published
 Slug: news/oa-scattering-microscopy
 Tags: microscopy, fluorescence, speckle
 
-<img width="500" src="{filename}/images/news/scattering-epi-fluorescence.png" alt="Human Trabeculae">
+<img width="500" src="{static}/images/news/scattering-epi-fluorescence.png" alt="Human Trabeculae">
 
 A new paper with collaborators Jacopo Bertolotti and Sophie Brasselet is just out in Optics Express with the title <a HREF=http://dx.doi.org/10.1038/s41598-018-21199-y>_Wide field fluorescence epi-microscopy behind a scattering medium enabled by speckle correlations_</a>.
 

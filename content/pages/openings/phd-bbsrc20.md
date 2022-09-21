@@ -34,7 +34,7 @@ The project is a collaboration between the laboratories of Profs [Soeller](http:
 The ideal candidate has some experience in fluorescence imaging, quantitative analysis and basic biological techniques. The candidate will have a degree in Biophysics, Biology or a related area with a strong quantitative focus. We will provide training for all skills essential to this project including super-resolution imaging, cardiac biology, data analysis and scientific writing. The successful candidate will have the opportunity to work in a highly interdisciplinary environment and interact with a highly motivated postgraduate cohort.
 
 <img style="float:right; border-left:18px solid white" width="500"
-src="{filename}/images/research/RyRclustersSTORM.png" alt="RyR clusters in super-resolution detail">
+src="{static}/images/research/RyRclustersSTORM.png" alt="RyR clusters in super-resolution detail">
 
 __Figure__. _The figure shows the distribution of the cardiac ryanodine receptor (RyR) in a cardiac myocyte._
 

@@ -7,7 +7,7 @@ Tags: Bern, Switzerland, Move
 ## We are moving!
 
 <img align="center" width="600"
-src="{filename}/images/news/Physiology-Bern.png" alt="Physiology Bern">
+src="{static}/images/news/Physiology-Bern.png" alt="Physiology Bern">
 
 Our lab is moving to the Department of Physiology @unibern with effect from 1 October 2021. We are excited to link up with our new colleagues and will also maintain strong connections with @LSI_Exeter which has been a superb place to work over the past few years.
 

@@ -4,7 +4,7 @@ Status: published
 Slug: news/phds-starting-2020
 Tags: openings, PhD, research
 
-<img src="{filename}/images/news/PhD-overview-picture.png" alt="PhD Overview pic"/>
+<img src="{static}/images/news/PhD-overview-picture.png" alt="PhD Overview pic"/>
 
 We have several PhD studentship openings for 2020. Applications are open now! Please [get in touch]({filename}/pages/contact.md) if you have any questions about these projects. For further project details see our [openings page]({filename}/pages/openings.md)
 
@@ -17,7 +17,7 @@ Title: **Effects of clustering and phosphorylation on nanoscale receptor signall
 **Apply**: [Online Application via Exeter Website](http://www.exeter.ac.uk/studying/funding/award/?id=3720)
 
 <img align="center" width="400"
-src="{filename}/images/research/RyRclustersCellReportScheme.png" alt="RyR cluster models">
+src="{static}/images/research/RyRclustersCellReportScheme.png" alt="RyR cluster models">
 
 ### LSI PhD Studentship Program
 
@@ -28,4 +28,4 @@ Title: **LSI Studentships** <br>
 **Apply**: [Online Application via Exeter Website](http://www.exeter.ac.uk/studying/funding/award/?id=3784)
 
 <img align="center" width="600"
-src="{filename}/images/research/LSI-studentships.png" alt="RyR cluster models">
+src="{static}/images/research/LSI-studentships.png" alt="RyR cluster models">

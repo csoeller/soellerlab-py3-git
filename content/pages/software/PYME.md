@@ -4,7 +4,7 @@ Date: 2018-12-29 11:54
 Tags: software, stuff
 
 <img style="float:left; border-right:8px solid white" width="300"
-src="{filename}/images/software/PYMEacquire.png" alt="PYME Acquire GUI
+src="{static}/images/software/PYMEacquire.png" alt="PYME Acquire GUI
 Interface"/>
 The [Python Microscopy Environment](http://python-microscopy.org/) (or PYME for short) is a microscopy
 software environment originally designed and implemented by our colleague and collaborator [David
@@ -59,7 +59,7 @@ this recent ability of PYME in our [PYME-extra](http://bitbucket.org/christian_s
 where we implement both experimental and tested new functionality for PYME.
 
 <img style="float:left; border-right:8px solid white" width="600"
-src="{filename}/images/software/PYME-FRC-screenshots-01.png" alt="PYME FRC plugin"/>
+src="{static}/images/software/PYME-FRC-screenshots-01.png" alt="PYME FRC plugin"/>
 
 For example, we have recently implemented a set of renderer and analysis modules to seemlessly calculate a
 Fourier Ring Correlation (FRC) resolution estimate from PYME event data. The code is implemented

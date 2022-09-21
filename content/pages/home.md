@@ -11,7 +11,7 @@ while also having a strong interest in optical super-resolution imaging.
 #### Current Openings
 
 <img style="float:left; border-right:18px solid white" width="80"
-src="{filename}/images/logos/Achtung.png" alt="Attention">
+src="{static}/images/logos/Achtung.png" alt="Attention">
 
 We have a number of positions at all levels to fill (postdoc, PhD).
 
@@ -29,16 +29,16 @@ important role in Biophysics and Biology. Our ability to come up with mechanisti
 organism, etc. Our laboratory therefore applies and develops state-of-the-art microscopy methods to
 improve our understanding of the world around us.
 
-<img width="700" src="{filename}/images/research/TIRF-myocyte700pix.png" alt="cardiac biophysics">
+<img width="700" src="{static}/images/research/TIRF-myocyte700pix.png" alt="cardiac biophysics">
 
 ### Physiology
 
 Our work is motivated by the goal to improve our knowledge of the physiology and biophysics of cardiac calcium regulation. Our primary focus is on cardiac ventricular muscle with a unifying theme to elucidate the relationship between nanoscale cell morphology and calcium signalling.
 
-<img width="700" src="{filename}/images/research/myocyte-gallery-red-hot-cyan.png" alt="cardiac biophysics">
+<img width="700" src="{static}/images/research/myocyte-gallery-red-hot-cyan.png" alt="cardiac biophysics">
 
 ### Advanced Imaging
 
 Our understanding of how biological systems work is  dependent on the ability to see these systems, ideally with a resolution that approaches subcellular and even molecular scales. This has become possible by rapid advances in fluorescence imaging. The holy grail of advanced imaging is fully quantitative microscopy, that allows us to count molecules in situ, fully spatially resolved, so that we can distinguish different populations, provide molecular statistics, and similar quantitative measures that link form and function. Such quantitative molecular imaging is now becoming a practical reality with the latest imaging modalities.
 
-<img src="{filename}/images/research/PRILM-PSF-and-Fig-3d.png" alt="Phase Ramp Imaging">
+<img src="{static}/images/research/PRILM-PSF-and-Fig-3d.png" alt="Phase Ramp Imaging">

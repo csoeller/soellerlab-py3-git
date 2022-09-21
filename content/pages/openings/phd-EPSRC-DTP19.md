@@ -16,7 +16,7 @@ Apply: [via U Exeter website](http://www.exeter.ac.uk/studying/funding/award/?id
 This new PhD opportunity is a collaboration between the [Soeller lab](http://soellerlab.ex.ac.uk/) and the [Vollmer lab](https://www.exeter.ac.uk/livingsystems/team/faculty/vollmer/) at the [Living Systems Institute](http://www.exeter.ac.uk/livingsystems/).
 
 <img align="center" width="600"
-src="{filename}/images/research/metamaterials-schematic.png" alt="Au NP DNA Origami">
+src="{static}/images/research/metamaterials-schematic.png" alt="Au NP DNA Origami">
 
 #### Combining super-resolution imaging, plasmonic single-molecule sensors and DNA nanotechnology
 
@@ -27,12 +27,12 @@ Based on this motivation the studentship will establish a novel single-molecule 
 The analysis of the rich data obtained with this new methodology will enable us to develop strategies to control reaction dynamics and protein function directly at nanoparticle interfaces. In addition, the combination of DNA and gold nanoparticles constitutes a new metamaterial, i.e. a material that combines characteristics from the constituent materials (DNA and gold) in a novel way to give it entirely new properties. We will study the metamaterial properties of the DNA-gold nanoparticle composite and explore its use in biotechnology applications in collaboration with colleagues from the biosciences.
 
 <img style="float:left; border-right:18px solid white; border-bottom:25px solid white" width="200"
-src="{filename}/images/research/AuNPoregami-03.png" alt="Super-resolution localisation of binding events">
+src="{static}/images/research/AuNPoregami-03.png" alt="Super-resolution localisation of binding events">
 
 __Figure 1 (left)__. _The use of fluorescence super-resolution imaging is key to localising the binding molecule precisely on the DNA oregami scaffold where it binds at a precisely chosen distance from the gold nanoparticle surface. Advanced super-resolution imaging allows localising the molecule with near nanometer precision._
 
 <img style="float:right; border-left:18px solid white" width="400"
-src="{filename}/images/research/AuNPoregami-04.png" alt="Single molecule sensor">
+src="{static}/images/research/AuNPoregami-04.png" alt="Single molecule sensor">
 
 __Figure 2 (right)__. _The figure shows a schematic of the plasmon and whispering galley mode based single molecule sensor. The sensing site is on the gold nanoparticle and the DNA oregami scaffold allows precise placement of the reaction site. We can probe the reaction both with and without a dye label on the binding partner to estimate the effect of the label on the recorded sensor signal._
 

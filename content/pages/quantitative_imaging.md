@@ -13,7 +13,7 @@ with three recent studies.
 ### Quantitative super-resolution imaging of ryanodine receptors
  
 <img style="float:left; border-right:8px solid white"
-src="{filename}/images/research/ryr-paint-small.png" alt="DNA-PAINT of RyR
+src="{static}/images/research/ryr-paint-small.png" alt="DNA-PAINT of RyR
 nanoscale signalling clusters"/> Signalling nanodomains rely on
 spatial organisation of proteins to allow controlled intracellular
 signalling. Examples include calcium release sites of cardiomyocytes
@@ -55,7 +55,7 @@ For details see
 ### Quantitative imaging of human neuromuscular junctions
 
 <img style="float:left; border-right:8px solid white"
-src="{filename}/images/research/human-nmjs-small.jpg" alt="Human Neuromuscular
+src="{static}/images/research/human-nmjs-small.jpg" alt="Human Neuromuscular
 Junctions"/> The neuromuscular junction (NMJ) is an experimentally
 accessible model synapse routinely studied in animal models to explore
 fundamental aspects of synaptic form and function. Synapses play
@@ -98,7 +98,7 @@ For details see
 ### Quantitative imaging of human telomeres with optical super-resolution and x-ray fluorescence
 
 <img style="float:left; border-right:8px solid white"
-src="{filename}/images/research/ACS-nano-telomere.gif" alt="Measuring
+src="{static}/images/research/ACS-nano-telomere.gif" alt="Measuring
 Telomeres"/> Techniques to analyze human telomeres are imperative in
 studying the molecular mechanism of aging and related diseases. Two
 important aspects of telomeres are their length in DNA base pairs

@@ -28,7 +28,7 @@ Skills/qualifications sought
 We will train the successful candidate in super-resolution imaging, confocal imaging and related methods for functional and molecular imaging. Experiments will involve cell isolation of ventricular myocytes from intact hearts, functional calcium imaging of live myocytes [1] and super-resolution imaging of protein distribution and nanoscale signalling structures [2] in these myocytes.
 
 <img style="float:right; border-left:18px solid white" width="600"
-src="{filename}/images/research/RyR-dispersion.png" alt="RyR dispersion">
+src="{static}/images/research/RyR-dispersion.png" alt="RyR dispersion">
 
 __Figure__. _Dispersion of the cardiac ryanodine receptor (RyR) is observed in heart failure (HF) using super-resolution imaging. This leads to slower Ca<sup>2+</sup> sparks and can be mimicked in myocytes from normal hearts by prolonged RyR phosphorylation. In this project we intend to further dissect the regulation of RyR dispersion and its functional sequelae, both in normal cells and cells from hearts in failure. Modified from [1]._
 
@@ -78,10 +78,10 @@ Our laboratory is based at the
 [Institute for Physiology](https://physiologie.unibe.ch/) at
 the University of Bern. We use advanced imaging technologies to obtain new insights in physiology and calcium signalling.
 
-<img src="{filename}/images/misc/Bern-GSchanzeV1.jpg" alt="View over Bern">
+<img src="{static}/images/misc/Bern-GSchanzeV1.jpg" alt="View over Bern">
 
 ## City of Bern
 
 The University and Institute are based in the beautiful city of Bern which is the capital of Switzerland. The city itself is worth a visit at any time of the year, particularly handy if you happen to live here. Bern and surrounding areas provide ample opportunity to achieve a good work life balance. This includes biking, skiing, swimming, walking, ice skating and other (non-sport) leisure activities all within short distance from Bern which is very well connected throughout the region by an excellent public transport system.
 
-<img src="{filename}/images/misc/Bern-shots-CS1.png" alt="View over Bern">
+<img src="{static}/images/misc/Bern-shots-CS1.png" alt="View over Bern">

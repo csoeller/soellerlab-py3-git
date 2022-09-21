@@ -4,7 +4,7 @@ Status: published
 Slug: news/mrc-skills-development
 Tags: MRC, openings
 
-<img width="500" src="{filename}/images/news/skills-development.png" alt="MRC skills development"/>
+<img width="500" src="{static}/images/news/skills-development.png" alt="MRC skills development"/>
 
 Exeter has just opened applications for three MRC Skills Development Fellowships. MRC Skills Development Fellowships are prestigious personal awards, aimed at early career researchers with a strong background in mathematical, statistical, computational or biophysical modelling and analysis, or for more advanced researchers from a biomedical or clinical background who are seeking to develop strong quantitative skills.
 

@@ -5,11 +5,11 @@ Slug: news/new-PhD-student-Evelina
 Tags: PhD, research
 
 <img align="center" width="600"
-src="{filename}/images/research/POLII-PAINT-for-web-page-03.png" alt="Pol II super-resolution imaging">
+src="{static}/images/research/POLII-PAINT-for-web-page-03.png" alt="Pol II super-resolution imaging">
 
 ### New project to develop super-resolution methods for studying RNA biology
 
-<img width="150" src="{filename}/images/people/evelina.jpg" alt="Evelina Lučinskaitė"/>
+<img width="150" src="{static}/images/people/evelina.jpg" alt="Evelina Lučinskaitė"/>
 
 In July [Evelina Lučinskaitė]({filename}/pages/people.md) has joined us to study RNA processing in the nucleus with super-resolution microscopy tools.
 

@@ -4,7 +4,7 @@ Status: published
 Slug: news/carl-physiologial-news
 Tags: heart, physiology, super-resolution
 
-<a HREF="/pdfs/PhysiologyNewsCarlArticle.pdf"><img width="450" src="{filename}/images/news/CarlPhysiolNews.png" alt="Physiological News"></a>
+<a HREF="/pdfs/PhysiologyNewsCarlArticle.pdf"><img width="450" src="{static}/images/news/CarlPhysiolNews.png" alt="Physiological News"></a>
 
 Phd student Carl Harrison has written a very nice perspective for the spring edition of Physiology News.
 

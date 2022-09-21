@@ -5,7 +5,7 @@ Slug: news/metamaterial-phd-starting-2019
 Tags: openings, PhD, research
 
 <img align="center" width="600"
-src="{filename}/images/research/metamaterials-schematic.png" alt="Au NP DNA Origami">
+src="{static}/images/research/metamaterials-schematic.png" alt="Au NP DNA Origami">
 
 We have an exiting PhD opening for a September 2019 start. Applications are open! Please [get in touch]({filename}/pages/contact.md).
 
@@ -36,7 +36,7 @@ The highly cross-disciplinary project bridging optics, biophysics, and biomateri
 6.	Di Michele L, Varrato F, Kotar J, et al. Nat Commun 2013;4:2007. 
 
 <!-- <img style="float:right; border-left:18px solid white" width="500" -->
-<!-- src="{filename}/images/research/POLII-PAINT-for-web-page-02.png" alt="Pol II super-resolution detail"> -->
+<!-- src="{static}/images/research/POLII-PAINT-for-web-page-02.png" alt="Pol II super-resolution detail"> -->
 
 <!-- __Figure__. _The figure shows the distribution of Pol II in the nucleus of a HCT116 cell. The diffraction limited data is shown in green and the super-resolution data obtained using the DNA-PAINT method that is fully established in our laboratories is shown in red-orange. The magnified inset demonstrates the small distances between adjacent Pol II sites which appear to form clusters within some areas of the nucleus. In this project we will extend this methodology from the fixed preparation shown here into live cells and also look simultaneously at Pol II and the exonuclease Xrn2._ -->
 

@@ -14,7 +14,7 @@ details at his Uni Bern [academic web page](https://physiologie.unibe.ch/~soelle
 
 The Soeller laboratory is located in the [Institute for Physiology](https://physiologie.unibe.ch) at the [University of Bern](https://www.unibe.ch).
 
-<img width="600" src="{filename}/images/misc/buehlplatz_784.jpg" alt="Physiologie Bern">
+<img width="600" src="{static}/images/misc/buehlplatz_784.jpg" alt="Physiologie Bern">
 
 
 You can find the [Institute for Physiology](https://physiologie.unibe.ch) building via [Google Maps](https://goo.gl/maps/nkFecjMmEzCckh3S7).

@@ -5,7 +5,7 @@ Slug: blog/Extracting_PSFs_with_PYME
 Tags: super-resolution, software, python
 Modified: 2018-11-30 17:26
 
-<img width="700" src="{filename}/images/software/PYME-psf-viewer.png" alt="PYME PSF viewer">
+<img width="700" src="{static}/images/software/PYME-psf-viewer.png" alt="PYME PSF viewer">
 
 ## A brief tutorial
 
@@ -29,14 +29,14 @@ Alternatively, just start `dh5view` using the GUI and then use the `File>Open` d
 
 Once you have opened your psf stack, you should load the `psfExtraction` module, as shown in the screenshot below.
 
-<img width="700" src="{filename}/images/software/PYME-psf-extract-selectmodule.png" alt="load PSF extraction module">
+<img width="700" src="{static}/images/software/PYME-psf-extract-selectmodule.png" alt="load PSF extraction module">
 
 
 ### Tag PSF candidates using the crosshair tool
 
 The next step is to tag psf candidates with the crosshair selection tool (selectable atthe top right, it is selected by default). You only need to click near the center of a PSF image and then press the `Tag` button.
 
-<img width="700" src="{filename}/images/software/PYME-psf-extract-crosshair.png" alt="tag PSFs">
+<img width="700" src="{static}/images/software/PYME-psf-extract-crosshair.png" alt="tag PSFs">
 
 ### Repeat for all candidates and then extract
 
@@ -46,21 +46,21 @@ At this stage all you need to do is repeat this for all candidates. Each success
 
 **IMPORTANT**: If the ROI sizes are so large that the green boxes go beyond the edges of the stack (generally only a problem if the stack is too small or poorly centred on the PSF images), this will result in a somewhat cryptic error when it comes to the extraction step. Watch out for that.
 
-<img width="700" src="{filename}/images/software/PYME-psf-extract-tag.png" alt="tag PSFs">
+<img width="700" src="{static}/images/software/PYME-psf-extract-tag.png" alt="tag PSFs">
 
 Once done press `Extract`, and a new window with the extracted PSF should pop up.
 
-<img width="700" src="{filename}/images/software/PYME-psf-extract-doextract.png" alt="extract PSFs">
+<img width="700" src="{static}/images/software/PYME-psf-extract-doextract.png" alt="extract PSFs">
 
 ### Save the extracted PSF
 
 Make sure the PSF window has focus and select `Save as` from the menu
 
-<img width="700" src="{filename}/images/software/PYME-psf-extract-saveas.png" alt="Save PSF">
+<img width="700" src="{static}/images/software/PYME-psf-extract-saveas.png" alt="Save PSF">
 
 The dialog that comes up allows you to enter the name, but more importantly, I advise to select the `OME TIFF` format for portable storage (rather than the default `.psf` format).
 
-<img width="700" src="{filename}/images/software/PYME-psf-extract-saveas-dialog.png" alt="save dialog">
+<img width="700" src="{static}/images/software/PYME-psf-extract-saveas-dialog.png" alt="save dialog">
 
 ### PYME extract PSF documentation
 

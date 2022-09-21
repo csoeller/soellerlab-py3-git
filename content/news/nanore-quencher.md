@@ -4,7 +4,7 @@ Status: published
 Slug: news/nanore-quencher
 Tags: super-resolution, paper
 
-<img width="200" src="{filename}/images/news/nanorepic.jpg" alt="Nano Research">
+<img width="200" src="{static}/images/news/nanorepic.jpg" alt="Nano Research">
 
 Our paper on using quenchers to simplify multiplexed super-resolution has just appeared online in [_Nano Research_](https://link.springer.com/journal/volumesAndIssues/12274). The investigation was lead by [Tobias Lutz](/pages/people.html).
 
@@ -25,4 +25,4 @@ That takes nothing away from the use of quencher strands to effectively and very
 [^1]: If you are trying to reduce background arising from imager strands in solution, other strategies have been proposed, e.g. [FRET-PAINT](https://www.ncbi.nlm.nih.gov/pubmed/28871786).
 
 
-<img width="500" src="{filename}/images/research/NARE-tocfig.png" alt="Quencher-Exchange-PAINT">
+<img width="500" src="{static}/images/research/NARE-tocfig.png" alt="Quencher-Exchange-PAINT">
