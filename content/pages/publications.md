@@ -9,9 +9,10 @@ For an up-to-date bibliography with links to PDFs you can visit [Christian Soell
 
 #### 2022
 
+1. Xin Shen, Jonas van den Brink, Anna Bergan-Dahl, Terje R. Kolstad, Einar S. Norden, Yufeng Hou, Martin Laasmaa, Ann P. Quick, Emil K. S. Espe, Ivar Sjaastad, Xander H. T. Wehrens, Andrew G. Edwards, Christian Soeller, William E. Louch. *Prolonged β-Adrenergic Stimulation Disperses Ryanodine Receptor Clusters in Cardiomyocytes: Implications for Heart Failure* (2022), __bioRxiv__, 2022.02.18.481024. <a HREF=https://www.biorxiv.org/content/10.1101/2022.02.18.481024v1><i class="fa fa-external-link-square fa-lg"></i></a> <a HREF=http://dx.doi.org/10.1101/2022.02.18.481024><i class="ai ai-doi ai-lg"></i></a>
+
 1. Xin Shen, Jonas van den Brink, Anna Bergan-Dahl, Terje R Kolstad, Einar S Norden, Yufeng Hou, Martin Laasmaa, Yuriana Aguilar-Sanchez, Ann P Quick, Emil KS Espe, Ivar Sjaastad, Xander HT Wehrens, Andrew G Edwards, Christian Soeller, William E Louch. *Prolonged β-adrenergic stimulation disperses ryanodine receptor clusters in cardiomyocytes and has implications for heart failure* (2022), __eLife__, 11:e77725. <a HREF=https://elifesciences.org/articles/77725><i class="fa fa-external-link-square fa-lg"></i></a> <a HREF=http://dx.doi.org/10.7554/eLife.77725><i class="ai ai-doi ai-lg"></i></a>
 
-1. Xin Shen, Jonas van den Brink, Anna Bergan-Dahl, Terje R. Kolstad, Einar S. Norden, Yufeng Hou, Martin Laasmaa, Ann P. Quick, Emil K. S. Espe, Ivar Sjaastad, Xander H. T. Wehrens, Andrew G. Edwards, Christian Soeller, William E. Louch. *Prolonged β-Adrenergic Stimulation Disperses Ryanodine Receptor Clusters in Cardiomyocytes: Implications for Heart Failure* (2022), __bioRxiv__, 2022.02.18.481024. <a HREF=https://www.biorxiv.org/content/10.1101/2022.02.18.481024v1><i class="fa fa-external-link-square fa-lg"></i></a> <a HREF=http://dx.doi.org/10.1101/2022.02.18.481024><i class="ai ai-doi ai-lg"></i></a>
 
 #### 2021
 

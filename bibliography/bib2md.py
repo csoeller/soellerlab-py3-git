@@ -70,7 +70,7 @@ def icon(icostr):
 
 # the bib file is generated automatically by Zotero
 with open(bibdb) as bibtex_file:
-    parser = BibTexParser()
+    parser = BibTexParser(common_strings=True)
     parser.customization = convert_to_unicode
     parser.homogenise_fields = False # ensure that 'url' fields are not renamed to 'link'
     bib_database = bibtexparser.load(bibtex_file, parser=parser)
@@ -133,7 +133,7 @@ for bib_item in bib_database.entries:
 
     title = bib_item['title'].replace('{','').replace('}','')
     
-    with open('{0}'.format(bib_file), 'w') as bib:
+    with open('{0}'.format(bib_file), 'wb') as bib:
         bib.write(writer.write(db).encode('UTF-8'))
 
 
@@ -156,5 +156,5 @@ with open('publication_list.md', 'w') as md_file:
     md_file.write(header())
     for year in sorted(entries.keys(), reverse=True):
         md_file.write("\n\n#### %s\n\n" % year)
-        md_file.write("\n".join(entries[year]))
+        md_file.write("\n".join([bstr.decode("utf-8") for bstr in entries[year]]))
     md_file.write(footer())
