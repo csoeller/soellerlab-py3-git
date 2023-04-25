@@ -73,6 +73,8 @@ help:
 	@echo '   make smb_rsync                      upload the webste via smb - rsync  '
 	@echo '   make smb_clean                      remove files from soellerlab smb   '
 	@echo '                                                                          '
+	@echo '   make fix_bannner                    put banner image info into site.css'
+	@echo '                                                                          '
 	@echo 'Set the DEBUG variable to 1 to enable debugging, e.g. make DEBUG=1 html   '
 	@echo 'Set the RELATIVE variable to 1 to enable relative urls                    '
 	@echo '                                                                          '
@@ -100,10 +102,13 @@ devserver:
 publish: clean
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(PUBLISHCONF) $(PELICANOPTS)
 	if [ -d $(OUTPUTDIR)/drafts ]; then rm -r $(OUTPUTDIR)/drafts; fi
+	python fix-site_css.py
 
 biblio:
 	if ! [ -d "bibliography/bib" ]; then echo "creating directory bibliography/bib" && mkdir bibliography/bib; fi
 	cd bibliography && python bib2md.py zotero-export-cs-biblio.bib && cp publication_list.md $(INPUTDIR)/pages/publications.md
+
+fix_banner: publish
 
 ssh_upload: publish
 	ssh $(SSH_USER)@$(SSH_HOST) 'mkdir $$HOME/html'
