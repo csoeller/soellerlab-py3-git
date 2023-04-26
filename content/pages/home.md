@@ -10,10 +10,9 @@ while also having a strong interest in optical super-resolution imaging.
 
 #### Current Openings
 
-<img style="float:left; border-right:18px solid white" width="80"
-src="{static}/images/logos/Achtung.png" alt="Attention">
+Together with my colleague Dr. Nina Ullrich we are currently looking for a **Research Technician** (Biology Laboratory Assistant) see the [online advertisement](https://ohws.prospective.ch/public/v1/jobs/865a1ed5-2dc5-4b4b-a50c-b6d05cc60437). You can apply online until the deadline (May 31st, 2023).
 
-We have a number of positions at all levels to fill (postdoc, PhD).
+We also have a number of positions at all levels to fill (postdoc, PhD).
 
 We encourage anybody who is interested to look at the [position descriptions]({filename}/pages/openings.md). Please [contact us](https://physiologie.unibe.ch/~soeller/) for any inquiries.
 

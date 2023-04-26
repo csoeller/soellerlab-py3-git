@@ -8,6 +8,14 @@ Since moving to Bern we have a number of new positions to fill to further grow o
 If you would like to discuss these openings, suggest other project topics, or any other informal discussions please contact Christian Soeller ([christian.soeller@unibe.ch](mailto:christian.soeller@unibe.ch)) in the first instance.
 
 
+### Research Technician (Biology Laboratory Assistant)
+
+**Deadline**: 31 May 2023<br>
+**Funding**: Permanent position, funded by the Institut für Physiologie<br>
+**Start date**: July 2023 or as soon as possible thereafter (by mutual agreement)<br>
+
+Together with my colleague Dr. Nina Ullrich we are currently looking for a **Research Technician** (Biology Laboratory Assistant) see the [online advertisement](https://ohws.prospective.ch/public/v1/jobs/865a1ed5-2dc5-4b4b-a50c-b6d05cc60437). You can apply online until the deadline (May 31st, 2023).
+
 ### Postdoctoral Fellow in Cardiac Physiology
 
 **Deadline**: Applications will be considered from 30 September 2022<br>
