@@ -10,9 +10,10 @@ the code and algorithms that we develop back to the community.
 
 ## PYME - the Python Microscopy Environment
 
-<img style="float:left; border-right:8px solid white" width="300"
+<img class="img-left" width="300"
 src="{static}/images/software/PYMEacquire.png" alt="PYME Acquire GUI
 Interface"/>
+
 [PYME](http://python-microscopy.org/) is a microscopy
 software environment designed and implemented by our colleague David
 Baddeley. David worked with us for several years, a large part of
@@ -28,8 +29,9 @@ etc. We run it on a range of custom built microscopes. A major
 strength is the flexible extensibility resulting from being built
 within the powerful Python framework.
 
-<img style="float:right; border-right:8px solid white" width="300"
+<img class="img-right" width="300"
 src="{static}/images/software/PYMEvisgui.png" alt="PYME VisGUII Interface"/>
+
 PYME also has a PALM/STORM data exploration and visualisation tool,
 VisGUI. VisGUI offers a fast and flexible tool for exploring and
 visualising the list of fluorophore locations that is produced by
@@ -70,13 +72,13 @@ types of microscopy.
 
 ## ImageJ/Fiji
 
-<img style="float:right; border-right:8px solid white" width="150"
+<img class="img-left" width="150"
 src="{static}/images/software/fiji.png" alt="Fiji"/> [Fiji](http://fiji.sc/)
 is an image processing package—a "batteries-included" distribution of
 ImageJ, bundling a lot of plugins which facilitate scientific image
 analysis.
 
-<img style="float:left; border-right:8px solid white" width="150"
+<img class="img-left" width="150"
 src="{static}/images/software/Imagej2-icon.png" alt="ImageJ"/> Fiji comes in
 handy all the time for various smaller and larger jobs on image
 processing. Its GUI interface makes it very suitable for beginners,
@@ -95,7 +97,7 @@ therefore makes maintenance a breeze.
 
 ## PDL
 
-<img style="float:left; border-right:8px solid white" width="150"
+<img class="img-left" width="150"
 src="{static}/images/software/PerlDL-logopic.png" alt="PDL Logo"/>Now of
 mostly historical interest, CS is one of the original core developers
 of [PDL](http://pdl.perl.org/), an array language like matlab, IDL, or

@@ -102,7 +102,7 @@ devserver:
 publish: clean
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(PUBLISHCONF) $(PELICANOPTS)
 	if [ -d $(OUTPUTDIR)/drafts ]; then rm -r $(OUTPUTDIR)/drafts; fi
-	python fix-site_css.py
+	# python fix-site_css.py
 
 biblio:
 	if ! [ -d "bibliography/bib" ]; then echo "creating directory bibliography/bib" && mkdir bibliography/bib; fi

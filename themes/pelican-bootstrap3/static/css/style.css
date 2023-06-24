@@ -184,6 +184,7 @@ figure.floatcenter, .align-center {
     margin: 0 0 20px;
     padding: 70px 0; /*controls padding around inner text*/
     position: relative;
+    background-image: url(https://physiologie.unibe.ch/~soeller/labsite/images/mybanner.png);
 }
 
 #banner .copy {
@@ -243,4 +244,14 @@ figure.floatcenter, .align-center {
 
 .gap-left {
   margin-left: 10px;
+}
+
+.img-left {
+    float: left;
+    border-right: 8px solid white
+}
+
+.img-right {
+    float: right;
+    border-left: 8px solid white
 }

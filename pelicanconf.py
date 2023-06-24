@@ -66,12 +66,13 @@ USE_FOLDER_AS_CATEGORY = True
 
 DISPLAY_PAGES_ON_MENU = False
 MENUITEMS = (
-    ('Research','/pages/research.html'),
+#    ('Research','/pages/research.html'),
     ('Publications','/pages/publications.html'),
     ('People','/pages/people.html'),
     ('Software', '/pages/software.html'),
     ('Openings', '/pages/openings.html'),
     ('Contact', '/pages/contact.html'),
+    ('Bern', '/pages/bern.html'),
 )
 
 ##################################

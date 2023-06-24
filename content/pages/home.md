@@ -10,9 +10,12 @@ while also having a strong interest in optical super-resolution imaging.
 
 #### Current Openings
 
-Together with my colleague Dr. Nina Ullrich we are currently looking for a **Research Technician** (Biology Laboratory Assistant) see the [online advertisement](https://ohws.prospective.ch/public/v1/jobs/865a1ed5-2dc5-4b4b-a50c-b6d05cc60437). You can apply online until the deadline (May 31st, 2023).
+Physiology Bern is getting a fully speced **MINFLUX super-resolution system**! We are very excited to introduce truly molecular resolution optical imaging to Bern.
 
-We also have a number of positions at all levels to fill (postdoc, PhD).
+[Research Assistant in Super-Resolution Imaging]({filename}/pages/openings.md) - In conjunction with the new MINFLUX microscope installation we are now looking for a **research assistant** to support the MINFLUX super-resolution imaging work. This is a great opportunity as the post has the option to become permanent after three years. Ideally this is a candidate with experience in super-resolution imaging (SMLM would be great). Please consult our [openings page]({filename}/pages/openings.md) for further details about this position and also see the [online advertisement](https://ohws.prospective.ch/public/v1/jobs/0a167628-1958-4e4d-b402-c95967c87a1f). You can apply via this link until **10 July 2023**.
+
+<img width="500" src="{static}/images/research/MINFLUX-NPC-illustration-V1.png" alt="MINFLUX microscope">
+
 
 We encourage anybody who is interested to look at the [position descriptions]({filename}/pages/openings.md). Please [contact us](https://physiologie.unibe.ch/~soeller/) for any inquiries.
 

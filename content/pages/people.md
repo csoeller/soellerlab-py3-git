@@ -15,9 +15,17 @@ Slug: people
 
 #### Alexander Clowsley, PhD - Postdoctoral Fellow
 
+<img width="150" src="{static}/images/people/alexandre_bokhobza.png" alt="Alexandre Bokhobza"/>
+
+#### Alexandre Bokhobza, PhD - Postdoctoral Fellow
+
 <img width="150" src="{static}/images/people/evelina.jpg" alt="Evelina Lučinskaitė"/>
 
 #### Evelina Lučinskaitė - PhD Student
+
+<img width="150" src="{static}/images/people/placeholder-image-person.jpg" alt="GB"/>
+
+#### GB - Biology Laboratory Assistant (starting October 2023)
 
 ## Alumni
 
