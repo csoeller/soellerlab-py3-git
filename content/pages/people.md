@@ -19,6 +19,10 @@ Slug: people
 
 #### Alexandre Bokhobza, PhD - Postdoctoral Fellow
 
+<img width="150" src="{static}/images/people/radoslav.jpg" alt="Radoslav Janicek"/>
+
+#### Radoslav Janicek, PhD - Research Assistant (from September 2023)
+
 <img width="150" src="{static}/images/people/evelina.jpg" alt="Evelina Lučinskaitė"/>
 
 #### Evelina Lučinskaitė - PhD Student
