@@ -113,7 +113,7 @@ CONTACT = (('Email', 'pages/contact.html#email', 'envelope'),
            ('Phone', 'pages/contact.html#phone', 'phone'),
            ('Directions', 'pages/contact.html#directions', 'map-marker'),)
 
-TWITTER_WIDGET_ID = True
+TWITTER_WIDGET_ID = False
 TWITTER_USERNAME = 'soellerlab'
 
 #################################

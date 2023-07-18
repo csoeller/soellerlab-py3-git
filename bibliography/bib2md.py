@@ -22,7 +22,7 @@ def header():
     return """Title: Publications
 Slug: publications
 
-<img style="border-left:5px solid white" src="{filename}/images/research/cover-gallery.jpg" alt="Recent Journal Covers">
+<img style="border-left:5px solid white" src="{static}/images/research/cover-gallery.jpg" alt="Recent Journal Covers">
 
 For an up-to-date bibliography with links to PDFs you can visit [Christian Soeller's Google Scholar page](http://scholar.google.co.uk/citations?hl=en&user=ByDRW44AAAAJ).
 

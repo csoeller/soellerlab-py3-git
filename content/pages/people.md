@@ -21,7 +21,7 @@ Slug: people
 
 <img width="150" src="{static}/images/people/radoslav.jpg" alt="Radoslav Janicek"/>
 
-#### Radoslav Janicek, PhD - Research Assistant (from September 2023)
+#### Radoslav Janicek, PhD - Research Assistant (joining September 2023)
 
 <img width="150" src="{static}/images/people/evelina.jpg" alt="Evelina Lučinskaitė"/>
 
