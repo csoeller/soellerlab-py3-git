@@ -8,16 +8,15 @@ The Soeller
 Lab focuses on cardiac physiology
 while also having a strong interest in optical super-resolution imaging.
 
-#### Current Openings
+#### Important News
 
-Physiology Bern is getting a fully speced **MINFLUX super-resolution system**! We are very excited to introduce truly molecular resolution optical imaging to Bern.
-
-[Research Assistant in Super-Resolution Imaging]({filename}/pages/openings.md) - In conjunction with the new MINFLUX microscope installation we are now looking for a **research assistant** to support the MINFLUX super-resolution imaging work. This is a great opportunity as the post has the option to become permanent after three years. Ideally this is a candidate with experience in super-resolution imaging (SMLM would be great). Please consult our [openings page]({filename}/pages/openings.md) for further details about this position and also see the [online advertisement](https://ohws.prospective.ch/public/v1/jobs/0a167628-1958-4e4d-b402-c95967c87a1f). You can apply via this link until **10 July 2023**.
+Physiology Bern is now hosting a fully speced **MINFLUX super-resolution system**! We are very excited to introduce truly molecular resolution optical imaging to Bern. The system has been in place since late summer of 2023 and we are working up the technology for wider use by internal and external users. Please [get in touch](https://physiologie.unibe.ch/~soeller/) if you are interested.
 
 <img width="500" src="{static}/images/research/MINFLUX-NPC-illustration-V1.png" alt="MINFLUX microscope">
 
+#### Current Openings
 
-We encourage anybody who is interested to look at the [position descriptions]({filename}/pages/openings.md). Please [contact us](https://physiologie.unibe.ch/~soeller/) for any inquiries.
+We are always looking for interested PhD students and are also always considering inquiries from anybody interested in postdoctoral work. Please [contact us](https://physiologie.unibe.ch/~soeller/) for any inquiries.
 
 ### The Laboratory
 

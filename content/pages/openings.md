@@ -3,10 +3,12 @@ Slug: openings
 
 ## Current openings
 
-Since moving to Bern we have a number of new positions to fill to further grow our team.
+We are always looking for interested PhD students and are also always considering inquiries from anybody interested in postdoctoral work. Please [contact us](https://physiologie.unibe.ch/~soeller/) for any inquiries.
 
 If you would like to discuss these openings, suggest other project topics, or any other informal discussions please contact Christian Soeller ([christian.soeller@unibe.ch](mailto:christian.soeller@unibe.ch)) in the first instance.
 
+
+## Positions that are now closed
 
 ### Research Assistant in Super-Resolution Imaging
 

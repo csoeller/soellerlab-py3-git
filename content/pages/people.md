@@ -21,15 +21,19 @@ Slug: people
 
 <img width="150" src="{static}/images/people/radoslav.jpg" alt="Radoslav Janicek"/>
 
-#### Radoslav Janicek, PhD - Research Assistant (joining September 2023)
+#### Radoslav Janicek, PhD - Research Assistant
 
 <img width="150" src="{static}/images/people/evelina.jpg" alt="Evelina Lučinskaitė"/>
 
 #### Evelina Lučinskaitė - PhD Student
 
+<img width="150" src="{static}/images/people/gabriela.jpg" alt="GB"/>
+
+#### Gabi Bleuer - Biology Laboratory Assistant
+
 <img width="150" src="{static}/images/people/placeholder-image-person.jpg" alt="GB"/>
 
-#### GB - Biology Laboratory Assistant (starting October 2023)
+#### Jiaxu Meng - PhD Student
 
 ## Alumni
 
