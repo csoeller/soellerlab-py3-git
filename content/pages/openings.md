@@ -7,8 +7,35 @@ We are always looking for interested PhD students and are also always considerin
 
 If you would like to discuss these openings, suggest other project topics, or any other informal discussions please contact Christian Soeller ([christian.soeller@unibe.ch](mailto:christian.soeller@unibe.ch)) in the first instance.
 
-
 ## Positions that are now closed
+
+### Postdoctoral fellow in cardiac physiology - with a focus on optical imaging
+
+**Deadline**: 10 October 2025<br>
+**Funding**: position funded for 2 years with option to extend, funded by the Institut für Physiologie<br>
+**Start date**: November 2025 or shortly thereafter (by mutual agreement)<br>
+**How to Apply**: Apply online via the [online advertisement](https://ohws.prospective.ch/public/v1/jobs/fb2e51c3-bfa2-4ce6-9b61-f88ef7617aba)
+
+Our laboratory has developed novel approaches to correlate the nanoscale structure of protein arrangements and membrane systems with the physiology of calcium regulation in cardiac muscle. This approach will be used to improve our understanding of cardiac dysfunction and loss of contractility so that we and others may ultimately propose new treatment regimens for cardiac diseases.
+
+<img class="img-left" width="400" src="{static}/images/research/MINFLUX-NPC-illustration-V1.png" alt="MINFLUX microscope">
+
+We house one of only two MINFLUX microscopes in Switzerland, a technology that allows us to image individual receptors in heart cells as showcased in our [recent preprint](https://www.biorxiv.org/content/10.1101/2023.07.26.550636v2). One goal of this project is to establish the 3D tracking of receptors and channels, such as the cardiac ryanodine receptor, in live cells using MINFLUX and obtain new insights into the functional consequences of receptor distribution plasticity in myocytes.
+
+We are looking for a well-trained researcher who will conduct and design experiments using our advanced imaging and analysis techniques. Using our new methods we will investigate the mechanisms of [RyR cluster dispersion](https://elifesciences.org/articles/77725) and its functional role in pathology that we have recently identified.
+
+Skills/qualifications sought
+
+- MD or PhD in a medical, biological or biophysical discipline with a suitable quantitative background.
+- Experience in some of the key techniques including fluorescence microscopy, confocal microscopy, calcium imaging, super-resolution microscopy (especially single molecule localization microscopy), cardiac tissue preparation, cardiac myocyte cell isolation and tissue processing (cryo-sectioning).
+- Ideally some quantitative skills to conduct quantitative image analysis.
+- Good speaking knowledge of English and/or German
+
+Find here some info about [Bern]({filename}/pages/bern.md) and [living in Bern]({filename}/pages/bern.md).
+
+<img width="800" src="{static}/images/research/sparks-and-MINFLUX.png" alt="Ca2+ sparks and MINFLUX RyR clusters">
+
+*Figure: Calcium sparks in a live myocyte and associated RyR clusters imaged with 3D MINFLUX microscopy. Note that we can resolve the 3D orientation of RyR tetramers.*
 
 ### Research Assistant in Super-Resolution Imaging
 
@@ -17,43 +44,12 @@ If you would like to discuss these openings, suggest other project topics, or an
 **Start date**: August 2023 or shortly thereafter (by mutual agreement)<br>
 **How to Apply**: Apply online via the [online advertisement](https://ohws.prospective.ch/public/v1/jobs/0a167628-1958-4e4d-b402-c95967c87a1f).
 
-<img class="img-left" width="400" src="{static}/images/research/MINFLUX-NPC-illustration-V1.png" alt="MINFLUX microscope">
-
-Our department is getting a brandnew MINFLUX microscope manufactured by Abberior Instruments. MINFLUX is a new super-resolution fluorescence imaging approach that delivers resolution down to the single nanometer in fluorescently labeled biological samples, thus enabling true molecular resolution imaging. It is unique in providing imaging across six orders of magnitude, from millimetres down to the nanometre, in the same instrument, with precise alignment between multiscale data.
-
-The position presents a somewhat unique opportunity, offered for an initial period of 3 years with the **option to become permanent** upon successful completion of an evaluation after 2.5 years. The focus is to support a new installation of a commercial MINFLUX super-resolution microscope, funded by the University and the SNSF, that will be installed in the Department of Physiology in June 2023.
-
-<img class="img-right" width="300" src="{static}/images/research/MINFLUX_with_operator.jpg" alt="MINFLUX microscope with Operator">
-
-The position has two aspects, (1) the support of MINFLUX projects across the wider faculty in imaging samples on and providing advice for preparing samples for the MINFLUX microscope and (2) the opportunity to develop your own research portfolio around the application of the very new MINFLUX super-resolution technology, ideally tackling cardiac or neuronal cell biology questions.
-
-Find here some info about [Bern]({filename}/pages/bern.md) and [living in Bern]({filename}/pages/bern.md).
-
-Qualifications sought
-
-- PhD in biology, physiology, biophysics or a related discipline
-- Experience in confocal and/or super-resolution microscopy
-- Ideally some experience with localization based super-resolution microscopy (SMLM)
-- Experience in sample preparation for microscopy
-- Some experience in image analysis and basic programming skills would be a plus
-- Excellent communication, writing and organizational skills
-
 ### PhD Fellowship in Super-resolution Imaging of Cardiac Structure and Function
 
 **Deadline**: Applications will be considered from June 2023 <br>
 **Funding**: Places are fully funded for 4 years.  This includes payment of tuition fees, a personal stipend for up to 4 years and a training budget.<br>
 **Start date**: October 2023 or shortly thereafter (by mutual agreement)<br>
 **How to Apply**: Please send applications by email to [Prof. Christian Soeller](mailto:christian.soeller@unibe.ch).
-
-With this PhD project we aim to further develop super-resolution imaging approaches for practical super-resolution imaging of cardiac protein distributions in fixed and live myocytes. A particular focus will be on exploring new machine learning approaches for SMLM analysis. This includes both localisation by machine learning based approaches and analysis of super-resolution data sets for receptor clustering.
-
-Find here some info about [Bern]({filename}/pages/bern.md) and [living in Bern]({filename}/pages/bern.md).
-
-
-Skills/qualifications sought
-
-  - a masters degree in Physiology, Biology, Biomedical Science, Biophysics, Data Science or a closely related field
-  - ideally some interest in both computing and also imaging experiments
 
 ### Advertisement period
 

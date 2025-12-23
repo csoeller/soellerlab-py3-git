@@ -4,19 +4,25 @@ Save_as: index.html
 
 ### The Soeller Lab at the University of Bern
 
-The Soeller
-Lab focuses on cardiac physiology
-while also having a strong interest in optical super-resolution imaging.
+The Soeller Lab focuses on cardiac physiology while also having a strong interest in optical super-resolution imaging.
 
-#### Important News
+### New MINFLUX publications
 
-Physiology Bern is now hosting a fully speced **MINFLUX super-resolution system**! We are very excited to introduce truly molecular resolution optical imaging to Bern. The system has been in place since late summer of 2023 and we are working up the technology for wider use by internal and external users. Please [get in touch](https://physiologie.unibe.ch/~soeller/) if you are interested.
+We have recently published two studies using MINFLUX microscopy to image receptors in cardiac myocytes at full molecular resolution.
+
+For details see our study in Nature Communications [MINFLUX microscopy resolves subunits of the cardiac ryanodine receptor...](http://dx.doi.org/10.1038/s41467-025-67801-6) and the companion methods paper in ACS Photonics [Optimizing Effective Labeling Efficiency in MINFLUX 3D DNA-PAINT Microscopy ...](http://dx.doi.org/10.1021/acsphotonics.5c01253).
+
+<img width="500" src="{static}/images/research/MINFLUX-publication-image-Nat-Comm2025.png" alt="MINFLUX NatComm publication 2025">
+
+#### Investigation of nanoscale structure-function relationships
+
+Physiology Bern is now hosting a fully speced **MINFLUX super-resolution system**. We are very excited to introduce truly molecular resolution optical imaging to Bern. The system has been in place since late 2023 and we have been working up the technology for wider use by both us and other users. This latest super-resolution technology allows us to carry out molecular structure-function relationships at unprecedented spatio-temporal resolution.
 
 <img width="500" src="{static}/images/research/MINFLUX-NPC-illustration-V1.png" alt="MINFLUX microscope">
 
-#### Current Openings
+#### Openings
 
-We are always looking for interested PhD students and are also always considering inquiries from anybody interested in postdoctoral work. Please [contact us](https://physiologie.unibe.ch/~soeller/) for any inquiries.
+We are always happy to talk to interested PhD students or thoese interested in postdoctoral work. For details consult our [openings page]({filename}/pages/openings.md). Please [contact us](https://physiologie.unibe.ch/~soeller/) for any inquiries.
 
 ### The Laboratory
 

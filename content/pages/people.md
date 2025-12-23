@@ -7,13 +7,6 @@ Slug: people
 #### Christian Soeller, PhD - Lab Head
 ##### Professor of Cardiac Physiology
 
-<img width="150" src="{static}/images/people/Anna.jpg" alt="Anna Meletiou"/>
-
-#### Anna Meletiou, PhD - Postdoctoral Fellow
-
-<img width="150" src="{static}/images/people/Alex-new.jpg" alt="Alexander Clowsley"/>
-
-#### Alexander Clowsley, PhD - Postdoctoral Fellow
 
 <img width="150" src="{static}/images/people/alexandre_bokhobza.png" alt="Alexandre Bokhobza"/>
 
@@ -37,6 +30,14 @@ Slug: people
 
 ## Alumni
 
+<img width="150" src="{static}/images/people/Alex-new.jpg" alt="Alexander Clowsley"/>
+
+#### Alexander Clowsley, PhD - former Postdoctoral Fellow/Wissenschaftlicher Mitarbeiter
+
+<img width="150" src="{static}/images/people/Anna.jpg" alt="Anna Meletiou"/>
+
+#### Anna Meletiou, PhD - former Postdoctoral Fellow
+
 <img width="150" src="{static}/images/people/Carl.jpg" alt="Carl Harrison"/>
 
 #### Carl Harrison, PhD - former PhD Student
@@ -47,4 +48,4 @@ Slug: people
 
 <img width="150" src="{static}/images/people/Ruisheng.jpg" alt="Ruisheng Lin"/>
 
-#### Ruisheng Lin, PhD - Research Fellow
+#### Ruisheng Lin, PhD - former Research Fellow

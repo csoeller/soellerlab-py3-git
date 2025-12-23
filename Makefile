@@ -67,6 +67,7 @@ help:
 	@echo '   make github                         upload the web site via gh-pages   '
 	@echo '   make biblio                         rebuild publications.md            '
 	@echo '                                                                          '
+	@echo '   make upload-ready		      publish and compress images        '
 	@echo '   make smb_mount                      mount soellerlab as smb share      '
 	@echo '   make smb_unmount                    unmount soellerlab smb share       '
 	@echo '   make smb_upload                     upload the webste via smb - cp     '
@@ -104,6 +105,8 @@ publish: clean
 	if [ -d $(OUTPUTDIR)/drafts ]; then rm -r $(OUTPUTDIR)/drafts; fi
 	# python fix-site_css.py
 
+upload-ready: publish imgcompress
+	@echo "Now ready to upload using filezilla"
 biblio:
 	if ! [ -d "bibliography/bib" ]; then echo "creating directory bibliography/bib" && mkdir bibliography/bib; fi
 	cd bibliography && python bib2md.py zotero-export-cs-biblio.bib && cp publication_list.md $(INPUTDIR)/pages/publications.md

@@ -11,7 +11,7 @@ sys.path.append(os.curdir)
 from pelicanconf import *
 
 # eventual target URL
-SITEURL = 'https://physiologie.unibe.ch/~soeller/labsite'
+SITEURL = 'https://soellerlab.azurewebsites.net'
 
 # eventual target URL
 #SITEURL = 'http://soellerlab.ex.ac.uk'
@@ -33,7 +33,7 @@ MENUITEMS = [(entry[0], SITEURL + entry[1]) for entry in MENUITEMS]
 RELATIVE_URLS = False
 
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
-CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
+CATEGORY_FEED_ATOM = 'feeds/{slug}.atom.xml'
 
 DELETE_OUTPUT_DIRECTORY = True
 

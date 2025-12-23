@@ -97,7 +97,7 @@ BANNER_ALL_PAGES = True
 
 DISPLAY_RECENT_POSTS_ON_SIDEBAR = False
 
-SOCIAL = (('Academic Webpage', 'https://physiologie.unibe.ch/~soeller/', 'academia'),
+SOCIAL = (('Academic Webpage', 'https://physiologie.unibe.ch/about_us/team/people/prof_dr_soeller_christian/', 'academia'),
           ('Twitter', 'http://twitter.com/SoellerLab'),
           ('LinkedIn', 'http://www.linkedin.com/in/christian-soeller-98167676/'),
           ('ResearchGate', 'https://www.researchgate.net/profile/Christian_Soeller'),

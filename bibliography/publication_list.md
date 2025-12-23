@@ -7,9 +7,36 @@ For an up-to-date bibliography with links to PDFs you can visit [Christian Soell
 
 
 
+#### 2025
+
+1. Christian Soeller, Alexandre F. E. Bokhobza, Javier Casares-Arias, Alexander H. Clowsley. *Optimizing effective labeling efficiency in MINFLUX 3D DNA-PAINT microscopy by maximizing marker detection probability.* (2025). <a HREF=https://www.biorxiv.org/content/10.1101/2025.05.16.654501v1><i class="fa fa-external-link-square fa-lg"></i></a> <a HREF=http://dx.doi.org/10.1101/2025.05.16.654501><i class="ai ai-doi ai-lg"></i></a>
+
+1. Alexander H. Clowsley, Anna Meletiou, Radoslav Janicek, Alexandre F. E. Bokhobza, Evelina Lučinskaitė, Gabriele Bleuer, Isabelle Jansen, Peter P. Jones, William E. Louch, Christian Soeller. *Analysis of RyR2 distribution in HEK293 cells and mouse cardiac myocytes using 3D MINFLUX microscopy* (2025). <a HREF=https://www.biorxiv.org/content/10.1101/2023.07.26.550636v2><i class="fa fa-external-link-square fa-lg"></i></a> <a HREF=http://dx.doi.org/10.1101/2023.07.26.550636><i class="ai ai-doi ai-lg"></i></a>
+
+1. Christian Soeller, Alexander H. Clowsley, Anna Meletiou. *MINFLUX RyR2 imaging data - analysis and simulation scripts* (2025). <a HREF=https://figshare.com/articles/dataset/MINFLUX_RyR2_imaging_data_-_analysis_and_simulation_scripts/23733579><i class="fa fa-external-link-square fa-lg"></i></a> <a HREF=http://dx.doi.org/10.6084/m9.figshare.23733579.v3><i class="ai ai-doi ai-lg"></i></a>
+
+1. Christian Soeller, Alexander Clowsley. *MINFLUX RyR2 DNA-PAINT Raw Data* (2025). <a HREF=https://figshare.com/articles/dataset/MINFLUX_RyR2_DNA-PAINT/29196023><i class="fa fa-external-link-square fa-lg"></i></a> <a HREF=http://dx.doi.org/10.6084/m9.figshare.29196023.v2><i class="ai ai-doi ai-lg"></i></a>
+
+1. C. Soeller. *csoeller/PYME-test-env: PYME-test-env release Nov 2025: version v1.0.4* (2025). <a HREF=https://doi.org/10.5281/zenodo.17768735><i class="fa fa-external-link-square fa-lg"></i></a> <a HREF=http://dx.doi.org/10.5281/zenodo.17768735><i class="ai ai-doi ai-lg"></i></a>
+
+1. David Baddeley, Andrew E. S. Barentine, Zach Marin, Christian Soeller, Yujin-Bao, actions-user, Kenny Chung, adrianhollow, David Miguel Susano Pinto, Mick, Ashwin Balaji, Akalanka. *csoeller/python-microscopy: python-microscopy 25.05.16: version 25.05.16* (2025). <a HREF=https://doi.org/10.5281/zenodo.17768283><i class="fa fa-external-link-square fa-lg"></i></a> <a HREF=http://dx.doi.org/10.5281/zenodo.17768283><i class="ai ai-doi ai-lg"></i></a>
+
+1. C. Soeller, Alexander Clowsley. *csoeller/PYME-extra: PYME-extra-25.11.29-release: version 25.11.29* (2025). <a HREF=https://doi.org/10.5281/zenodo.17763621><i class="fa fa-external-link-square fa-lg"></i></a> <a HREF=http://dx.doi.org/10.5281/zenodo.17763621><i class="ai ai-doi ai-lg"></i></a>
+
+1. Christian Soeller, Alexandre F. E. Bokhobza, Javier Casares-Arias, Alexander H. Clowsley. *Optimizing Effective Labeling Efficiency in MINFLUX 3D DNA-PAINT Microscopy by Maximizing Marker Detection Probability* (2025), __ACS Photonics__. <a HREF=https://doi.org/10.1021/acsphotonics.5c01253><i class="fa fa-external-link-square fa-lg"></i></a> <a HREF=http://dx.doi.org/10.1021/acsphotonics.5c01253><i class="ai ai-doi ai-lg"></i></a>
+
+1. Alexander H. Clowsley, Anna Meletiou, Radoslav Janicek, Alexandre F. E. Bokhobza, Evelina Lučinskaitė, Gabriela Bleuer, Isabelle Jansen, Peter P. Jones, William E. Louch, Christian Soeller. *MINFLUX microscopy resolves subunits of the cardiac ryanodine receptor and its 3D orientation in cells* (2025), __Nature Communications__. <a HREF=https://www.nature.com/articles/s41467-025-67801-6><i class="fa fa-external-link-square fa-lg"></i></a> <a HREF=http://dx.doi.org/10.1038/s41467-025-67801-6><i class="ai ai-doi ai-lg"></i></a>
+
+
 #### 2024
 
 1. Clara Serrano-Novillo, Irene Estadella, María Navarro-Pérez, Anna Oliveras, Angela de Benito-Bueno, Paula G. Socuéllamos, Manel Bosch, María José Coronado, Daniel Sastre, Carmen Valenzuela, Christian Soeller, Antonio Felipe. *Routing of Kv7.1 to endoplasmic reticulum plasma membrane junctions* (2024), __Acta Physiologica__, n/a:e14106. <a HREF=https://onlinelibrary.wiley.com/doi/abs/10.1111/apha.14106><i class="fa fa-external-link-square fa-lg"></i></a> <a HREF=http://dx.doi.org/10.1111/apha.14106><i class="ai ai-doi ai-lg"></i></a>
+
+1. Evelina Lučinskaitė, Alexandre F. E. Bokhobza, Andrew Stannard, Anna Meletiou, Chris Estell, Steven West, Lorenzo Di Michele, Christian Soeller, Alexander H. Clowsley. *Reduced Non-Specific Binding of Super-Resolution DNA-PAINT Markers by Shielded DNA-PAINT Labeling Protocols* (2024). <a HREF=https://www.biorxiv.org/content/10.1101/2024.06.03.597143v2><i class="fa fa-external-link-square fa-lg"></i></a> <a HREF=http://dx.doi.org/10.1101/2024.06.03.597143><i class="ai ai-doi ai-lg"></i></a>
+
+1. Elen Tolstik, Stephan E. Lehnart, Christian Soeller, Kristina Lorenz, Leonardo Sacconi. *Cardiac multiscale bioimaging: from nano- through micro- to mesoscales* (2024), __Trends in Biotechnology__, 42:212-227. <a HREF=https://www.sciencedirect.com/science/article/pii/S016777992300241X><i class="fa fa-external-link-square fa-lg"></i></a> <a HREF=http://dx.doi.org/10.1016/j.tibtech.2023.08.007><i class="ai ai-doi ai-lg"></i></a>
+
+1. Evelina Lučinskaitė, Alexandre F. E. Bokhobza, Andrew Stannard, Anna Meletiou, Chris Estell, Steven West, Lorenzo Di Michele, Christian Soeller, Alexander H. Clowsley. *Reduced Non-Specific Binding of Super-Resolution DNA-PAINT Markers by Shielded DNA-PAINT Labeling Protocols* (2024), __Small__, 20:2405032. <a HREF=https://onlinelibrary.wiley.com/doi/abs/10.1002/smll.202405032><i class="fa fa-external-link-square fa-lg"></i></a> <a HREF=http://dx.doi.org/10.1002/smll.202405032><i class="ai ai-doi ai-lg"></i></a>
 
 
 #### 2023
@@ -18,11 +45,9 @@ For an up-to-date bibliography with links to PDFs you can visit [Christian Soell
 
 1. Yufeng Hou, Martin Laasmaa, Jia Li, Xin Shen, Ornella Manfra, Einar S. Nordén, Christopher Le, Lili Zhang, Ivar Sjaastad, Peter P. Jones, Christian Soeller, William E. Louch. *Live-cell photoactivated localization microscopy correlates nanoscale ryanodine receptor configuration to calcium sparks in cardiomyocytes* (2023), __Nature Cardiovascular Research__, 2:251-267. <a HREF=https://www.nature.com/articles/s44161-022-00199-2><i class="fa fa-external-link-square fa-lg"></i></a> <a HREF=http://dx.doi.org/10.1038/s44161-022-00199-2><i class="ai ai-doi ai-lg"></i></a>
 
-1. Xin Jin, Anna Meletiou, Joshua Chung, Agne Tilunaite, Kateryna Demydenko, Eef Dries, Rosa Doñate Puertas, Matthew Amoni, Ashutosh Tomar, Piet Claus, Christian Soeller, Vijay Rajagopal, Karin Sipido, H. Llewelyn Roderick. *InsP3R-RyR channel crosstalk augments sarcoplasmic reticulum Ca2+ release and arrhythmogenic activity in post-MI pig cardiomyocytes* (2023), __Journal of Molecular and Cellular Cardiology__. <a HREF=https://www.sciencedirect.com/science/article/pii/S0022282823000627><i class="fa fa-external-link-square fa-lg"></i></a> <a HREF=http://dx.doi.org/10.1016/j.yjmcc.2023.03.015><i class="ai ai-doi ai-lg"></i></a>
-
 1. Alexander H. Clowsley, Anna Meletiou, Evelina Lučinskaitė, Isabelle Jansen, Peter P. Jones, William E. Louch, Christian Soeller. *Analysis of RyR2 distribution in HEK293 cells and mouse cardiac myocytes using 3D MINFLUX microscopy* (2023). <a HREF=https://www.biorxiv.org/content/10.1101/2023.07.26.550636v1><i class="fa fa-external-link-square fa-lg"></i></a> <a HREF=http://dx.doi.org/10.1101/2023.07.26.550636><i class="ai ai-doi ai-lg"></i></a>
 
-1. Elen Tolstik, Stephan E. Lehnart, Christian Soeller, Kristina Lorenz, Leonardo Sacconi. *Cardiac multiscale bioimaging: from nano- through micro- to mesoscales* (2023), __Trends in Biotechnology__. <a HREF=https://www.sciencedirect.com/science/article/pii/S016777992300241X><i class="fa fa-external-link-square fa-lg"></i></a> <a HREF=http://dx.doi.org/10.1016/j.tibtech.2023.08.007><i class="ai ai-doi ai-lg"></i></a>
+1. Xin Jin, Anna Meletiou, Joshua Chung, Agne Tilunaite, Kateryna Demydenko, Eef Dries, Rosa Doñate Puertas, Matthew Amoni, Ashutosh Tomar, Guillaume Gilbert, Piet Claus, Christian Soeller, Vijay Rajagopal, Karin Sipido, H. Llewelyn Roderick. *InsP3R-RyR channel crosstalk augments sarcoplasmic reticulum Ca2+ release and arrhythmogenic activity in post-MI pig cardiomyocytes* (2023), __Journal of Molecular and Cellular Cardiology__, 179:47-59. <a HREF=https://www.sciencedirect.com/science/article/pii/S0022282823000627><i class="fa fa-external-link-square fa-lg"></i></a> <a HREF=http://dx.doi.org/10.1016/j.yjmcc.2023.03.015><i class="ai ai-doi ai-lg"></i></a>
 
 
 #### 2022
