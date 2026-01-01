@@ -10,7 +10,7 @@ The Soeller Lab focuses on cardiac physiology while also having a strong interes
 
 We have recently published two studies using MINFLUX microscopy to image receptors in cardiac myocytes at full molecular resolution.
 
-For details see our study in Nature Communications [MINFLUX microscopy resolves subunits of the cardiac ryanodine receptor...](http://dx.doi.org/10.1038/s41467-025-67801-6) and the companion methods paper in ACS Photonics [Optimizing Effective Labeling Efficiency in MINFLUX 3D DNA-PAINT Microscopy ...](http://dx.doi.org/10.1021/acsphotonics.5c01253).
+For details see our study in Nature Communications [MINFLUX microscopy resolves subunits of the cardiac ryanodine receptor...](http://dx.doi.org/10.1038/s41467-025-67801-6) and the companion methods paper in ACS Photonics [Optimizing Effective Labeling Efficiency in MINFLUX 3D DNA-PAINT Microscopy ...](http://dx.doi.org/10.1021/acsphotonics.5c01253). See also our news items [here]({filename}/news/MINFLUX-natcomm2025.md) and [here]({filename}/news/acsphotonics-paper2025.md).
 
 <img width="500" src="{static}/images/research/MINFLUX-publication-image-Nat-Comm2025.png" alt="MINFLUX NatComm publication 2025">
 
