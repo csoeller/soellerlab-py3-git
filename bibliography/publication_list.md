@@ -27,6 +27,8 @@ For an up-to-date bibliography with links to PDFs you can visit [Christian Soell
 
 1. Alexander H. Clowsley, Anna Meletiou, Radoslav Janicek, Alexandre F. E. Bokhobza, Evelina Lučinskaitė, Gabriela Bleuer, Isabelle Jansen, Peter P. Jones, William E. Louch, Christian Soeller. *MINFLUX microscopy resolves subunits of the cardiac ryanodine receptor and its 3D orientation in cells* (2025), __Nature Communications__. <a HREF=https://www.nature.com/articles/s41467-025-67801-6><i class="fa fa-external-link-square fa-lg"></i></a> <a HREF=http://dx.doi.org/10.1038/s41467-025-67801-6><i class="ai ai-doi ai-lg"></i></a>
 
+1. Christian Soeller, Alexander Clowsley. *Data to accompany the manuscript: Optimizing effective labeling efficiency in MINFLUX 3D DNA-PAINT microscopy by maximizing marker detection probability.* (2025). <a HREF=https://figshare.com/articles/dataset/Data_to_accompany_manuscript/29109266><i class="fa fa-external-link-square fa-lg"></i></a> <a HREF=http://dx.doi.org/10.6084/m9.figshare.29109266.v2><i class="ai ai-doi ai-lg"></i></a>
+
 
 #### 2024
 

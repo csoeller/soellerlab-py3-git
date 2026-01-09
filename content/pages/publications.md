@@ -21,12 +21,13 @@ For an up-to-date bibliography with links to PDFs you can visit [Christian Soell
 
 1. Christian Soeller, Alexander Clowsley. *MINFLUX RyR2 DNA-PAINT Raw Data* (2025). <a HREF=https://figshare.com/articles/dataset/MINFLUX_RyR2_DNA-PAINT/29196023><i class="fa fa-external-link-square fa-lg"></i></a> <a HREF=http://dx.doi.org/10.6084/m9.figshare.29196023.v2><i class="ai ai-doi ai-lg"></i></a>
 
+1. Christian Soeller, Alexander Clowsley. *Data to accompany the manuscript: Optimizing effective labeling efficiency in MINFLUX 3D DNA-PAINT microscopy by maximizing marker detection probability.* (2025). <a HREF=https://figshare.com/articles/dataset/Data_to_accompany_manuscript/29109266><i class="fa fa-external-link-square fa-lg"></i></a> <a HREF=http://dx.doi.org/10.6084/m9.figshare.29109266.v2><i class="ai ai-doi ai-lg"></i></a>
+
 1. C. Soeller. *csoeller/PYME-test-env: PYME-test-env release Nov 2025: version v1.0.4* (2025). <a HREF=https://doi.org/10.5281/zenodo.17768735><i class="fa fa-external-link-square fa-lg"></i></a> <a HREF=http://dx.doi.org/10.5281/zenodo.17768735><i class="ai ai-doi ai-lg"></i></a>
 
 1. David Baddeley, Andrew E. S. Barentine, Zach Marin, Christian Soeller, Yujin-Bao, actions-user, Kenny Chung, adrianhollow, David Miguel Susano Pinto, Mick, Ashwin Balaji, Akalanka. *csoeller/python-microscopy: python-microscopy 25.05.16: version 25.05.16* (2025). <a HREF=https://doi.org/10.5281/zenodo.17768283><i class="fa fa-external-link-square fa-lg"></i></a> <a HREF=http://dx.doi.org/10.5281/zenodo.17768283><i class="ai ai-doi ai-lg"></i></a>
 
 1. C. Soeller, Alexander Clowsley. *csoeller/PYME-extra: PYME-extra-25.11.29-release: version 25.11.29* (2025). <a HREF=https://doi.org/10.5281/zenodo.17763621><i class="fa fa-external-link-square fa-lg"></i></a> <a HREF=http://dx.doi.org/10.5281/zenodo.17763621><i class="ai ai-doi ai-lg"></i></a>
-
 
 #### 2024
 
