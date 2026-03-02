@@ -7,6 +7,11 @@ For an up-to-date bibliography with links to PDFs you can visit [Christian Soell
 
 
 
+#### 2026
+
+1. Alexander H. Clowsley, Alexandre F. E. Bokhobza, Radoslav Janicek, Karol Kołątaj, Gabriela Bleuer, Lorenzo Di Michele, Guillermo Pedro Acuna, Christian Soeller. *Characterizing MINFLUX imaging performance with DNA origami* (2026). <a HREF=https://www.biorxiv.org/content/10.64898/2026.02.24.707670v1><i class="fa fa-external-link-square fa-lg"></i></a> <a HREF=http://dx.doi.org/10.64898/2026.02.24.707670><i class="ai ai-doi ai-lg"></i></a>
+
+
 #### 2025
 
 1. Christian Soeller, Alexandre F. E. Bokhobza, Javier Casares-Arias, Alexander H. Clowsley. *Optimizing effective labeling efficiency in MINFLUX 3D DNA-PAINT microscopy by maximizing marker detection probability.* (2025). <a HREF=https://www.biorxiv.org/content/10.1101/2025.05.16.654501v1><i class="fa fa-external-link-square fa-lg"></i></a> <a HREF=http://dx.doi.org/10.1101/2025.05.16.654501><i class="ai ai-doi ai-lg"></i></a>
@@ -25,9 +30,9 @@ For an up-to-date bibliography with links to PDFs you can visit [Christian Soell
 
 1. Christian Soeller, Alexandre F. E. Bokhobza, Javier Casares-Arias, Alexander H. Clowsley. *Optimizing Effective Labeling Efficiency in MINFLUX 3D DNA-PAINT Microscopy by Maximizing Marker Detection Probability* (2025), __ACS Photonics__. <a HREF=https://doi.org/10.1021/acsphotonics.5c01253><i class="fa fa-external-link-square fa-lg"></i></a> <a HREF=http://dx.doi.org/10.1021/acsphotonics.5c01253><i class="ai ai-doi ai-lg"></i></a>
 
-1. Alexander H. Clowsley, Anna Meletiou, Radoslav Janicek, Alexandre F. E. Bokhobza, Evelina Lučinskaitė, Gabriela Bleuer, Isabelle Jansen, Peter P. Jones, William E. Louch, Christian Soeller. *MINFLUX microscopy resolves subunits of the cardiac ryanodine receptor and its 3D orientation in cells* (2025), __Nature Communications__. <a HREF=https://www.nature.com/articles/s41467-025-67801-6><i class="fa fa-external-link-square fa-lg"></i></a> <a HREF=http://dx.doi.org/10.1038/s41467-025-67801-6><i class="ai ai-doi ai-lg"></i></a>
-
 1. Christian Soeller, Alexander Clowsley. *Data to accompany the manuscript: Optimizing effective labeling efficiency in MINFLUX 3D DNA-PAINT microscopy by maximizing marker detection probability.* (2025). <a HREF=https://figshare.com/articles/dataset/Data_to_accompany_manuscript/29109266><i class="fa fa-external-link-square fa-lg"></i></a> <a HREF=http://dx.doi.org/10.6084/m9.figshare.29109266.v2><i class="ai ai-doi ai-lg"></i></a>
+
+1. Alexander H. Clowsley, Anna Meletiou, Radoslav Janicek, Alexandre F. E. Bokhobza, Evelina Lučinskaitė, Gabriela Bleuer, Isabelle Jansen, Peter P. Jones, William E. Louch, Christian Soeller. *MINFLUX microscopy resolves subunits of the cardiac ryanodine receptor and its 3D orientation in cells* (2025), __Nature Communications__, 17:1044. <a HREF=https://www.nature.com/articles/s41467-025-67801-6><i class="fa fa-external-link-square fa-lg"></i></a> <a HREF=http://dx.doi.org/10.1038/s41467-025-67801-6><i class="ai ai-doi ai-lg"></i></a>
 
 
 #### 2024
@@ -86,8 +91,6 @@ For an up-to-date bibliography with links to PDFs you can visit [Christian Soell
 
 1. Yufeng Hou, Martin Laasmaa, Jia Li, Ornella Manfra, Xin Shen, Peter P Jones, Christian Soeller, William E Louch. *Correlating Calcium Sparks and Ryanodine Receptor Localization in Live Cardiomyocytes* (2020), __Biophysical Journal__, 118:567a.
 
-1. Alexander H Clowsley, William T Kaufhold, Tobias Lutz, Anna Meletiou, Lorenzo Di Michele, Christian Soeller. *Detecting nanoscale distribution of protein pairs by proximity dependent super-resolution microscopy* (2020), __Journal of the American Chemical Society__. <a HREF=https://doi.org/10.1021/jacs.9b03418><i class="fa fa-external-link-square fa-lg"></i></a> <a HREF=http://dx.doi.org/10.1021/jacs.9b03418><i class="ai ai-doi ai-lg"></i></a>
-
 1. Alexander H. Clowsley, William T. Kaufhold, Tobias Lutz, Anna Meletiou, Lorenzo Di Michele, Christian Soeller. *Detecting nanoscale distribution of protein pairs by proximity dependent super-resolution microscopy* (2020), __bioRxiv__, 591081. <a HREF=https://www.biorxiv.org/content/10.1101/591081v2><i class="fa fa-external-link-square fa-lg"></i></a> <a HREF=http://dx.doi.org/10.1101/591081><i class="ai ai-doi ai-lg"></i></a>
 
 1. David Baddeley, Andrew Barentine, Zach Marin, Christian Soeller, Michael Graff, Leo Balduf, Kenny Chung, Mick Philips, David Pinto, Tobias Hartwich, Ruisheng Lin, Yu Lin, David Padron. *python-microscopy/python-microscopy: Release 20.11.25* (2020). <a HREF=https://doi.org/10.5281/zenodo.4289804><i class="fa fa-external-link-square fa-lg"></i></a> <a HREF=http://dx.doi.org/10.5281/zenodo.4289804><i class="ai ai-doi ai-lg"></i></a>
@@ -105,6 +108,8 @@ For an up-to-date bibliography with links to PDFs you can visit [Christian Soell
 1. Xin Shen, Terje R Kolstad, Jonas van den Brink, Michael Frisk, Yufeng Hou, Einar Norden, Andrew G Edwards, Ivar Sjaastad, Christian Soeller, William E Louch. *3D Dstorm Imaging Reveals Camkii-Dependent Dispersal of Ryanodine Receptor Clusters in Failing Rat Cardiomyocytes* (2020), __Biophysical Journal__, 118:529a-530a.
 
 1. Hilary Hunt, Agnė Tilūnaitė, Greg Bass, Christian Soeller, H. Llewelyn Roderick, Vijay Rajagopal, Edmund J. Crampin. *Ca2+ Release via IP3 Receptors Shapes the Cardiac Ca2+ Transient for Hypertrophic Signaling* (2020), __Biophysical Journal__, 119:1178-1192. <a HREF=https://www.sciencedirect.com/science/article/pii/S0006349520305968><i class="fa fa-external-link-square fa-lg"></i></a> <a HREF=http://dx.doi.org/10.1016/j.bpj.2020.08.001><i class="ai ai-doi ai-lg"></i></a>
+
+1. Alexander H. Clowsley, William T. Kaufhold, Tobias Lutz, Anna Meletiou, Lorenzo Di Michele, Christian Soeller. *Detecting Nanoscale Distribution of Protein Pairs by Proximity-Dependent Super-resolution Microscopy* (2020), __Journal of the American Chemical Society__, 142:12069-12078. <a HREF=https://doi.org/10.1021/jacs.9b03418><i class="fa fa-external-link-square fa-lg"></i></a> <a HREF=http://dx.doi.org/10.1021/jacs.9b03418><i class="ai ai-doi ai-lg"></i></a>
 
 
 #### 2019
